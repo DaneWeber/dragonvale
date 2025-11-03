@@ -38,6 +38,7 @@ Reasons for cannibalism being Evil in our D&D setting is based on it matching pu
     - Eating a talking animal was immoral in Narnia (The Silver Chair).
   - Cannibalism is associated with the vicious man, not the virtuous one. While the murder that usually precedes the cannibalism is reason enough to condemn a cannibal, I don't believe that we would praise an "ethical cannibal" that sources non-murdered meat. This seems widespread across fiction: see [I'm a Humanitarian on TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/ImAHumanitarian).
   - "Burying the dead" is a corporal work of mercy which is behind my statement about it being "Good." I'm not saying it's the only non-Evil option, but it is definitely a Good act.
+  - In general, showing that a creature or person eats humans is short-hand for indicating that it is horribly evil.
 - Within D&D
   - The Ghoul is an evil undead creature that is most notable for feeding on humanoid flesh (called _anthropophagous_ in the text). It is also stated that "Ghouls are said to be created upon the death of a living man or woman who savored the taste of the flesh of people."
   - Monsters who are known to consume humanoid flesh (barghests, ghouls, chromatic dragons, etc.) are almost universally evil. A counter-example would significantly weaken this point, but I haven't found one.
