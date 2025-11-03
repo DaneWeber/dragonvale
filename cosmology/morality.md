@@ -31,13 +31,15 @@ Even the physical dangers of disease from cannibalism can be handled with proper
 
 Reasons for cannibalism being Evil in our D&D setting is based on it matching published D&D material as well as :
 
-- Outside of D&D, legend and folklore often associate cannibalism with depravity, savagery, and desperation.
-  - See legends of the ghul, wendigo, etc.
-  - Evil giants grind and eat the bones of their victims.
-  - Eating a talking animal was immoral in Narnia (The Silver Chair).
-- Outside of D&D, cannibalism is associated with the vicious man, not the virtuous one. While the murder that usually precedes the cannibalism is reason enough to condemn a cannibal, I don't believe that we would praise an "ethical cannibal" that sources non-murdered meat.
-- Also outside of D&D, "burying the dead" is a corporal work of mercy which is behind my statement about it being "Good." I'm not saying it's the only non-Evil option, but it is definitely a Good act.
-- The Ghoul in D&D is an evil undead creature that is most notable for feeding on humanoid flesh (called _anthropophagous_ in the text). It is also stated that "Ghouls are said to be created upon the death of a living man or woman who savored the taste of the flesh of people."
-- D&D monsters who are known to consume humanoid flesh (barghests, ghouls, chromatic dragons, etc.) are almost universally evil. A counter-example would significantly weaken this point, but I haven't found one.
-- Creating undead is primarily Evil because of the desecration of corpses involved.
-- The _Book of Vile Darkness_ includes Corrupt spells with the Evil descriptor (Absorb Mind, Absorb Strenght, Consume Likeness, etc.) where the main/only reason is the inclusion of cannibalism as part of the spell.
+- Outside of D&D
+  - Legend and folklore often associate cannibalism with depravity, savagery, and desperation.
+    - See legends of the ghul, wendigo, etc.
+    - Evil giants grind and eat the bones of their victims.
+    - Eating a talking animal was immoral in Narnia (The Silver Chair).
+  - Cannibalism is associated with the vicious man, not the virtuous one. While the murder that usually precedes the cannibalism is reason enough to condemn a cannibal, I don't believe that we would praise an "ethical cannibal" that sources non-murdered meat. This seems widespread across fiction: see [I'm a Humanitarian on TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/ImAHumanitarian).
+  - "Burying the dead" is a corporal work of mercy which is behind my statement about it being "Good." I'm not saying it's the only non-Evil option, but it is definitely a Good act.
+- Within D&D
+  - The Ghoul is an evil undead creature that is most notable for feeding on humanoid flesh (called _anthropophagous_ in the text). It is also stated that "Ghouls are said to be created upon the death of a living man or woman who savored the taste of the flesh of people."
+  - Monsters who are known to consume humanoid flesh (barghests, ghouls, chromatic dragons, etc.) are almost universally evil. A counter-example would significantly weaken this point, but I haven't found one.
+  - Creating undead is primarily Evil because of the desecration of corpses involved.
+  - The _Book of Vile Darkness_ includes Corrupt spells with the Evil descriptor (Absorb Mind, Absorb Strenght, Consume Likeness, etc.) where the main/only reason is the inclusion of cannibalism as part of the spell.
