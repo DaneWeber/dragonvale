@@ -1,3 +1,7 @@
+# Events and Calendar for the Lord Protectors of the Dragonvale
+
+An early event in the campaign occurred on the Imperial Calendar date of 1357-05-18 (1357th year, 5th moon, 18th day).
+
 The murder investigation at Barret Poyn's carpentry shop began on a Warday, the third of the bright month of Glittergold. This would be the 18th day of the 5th moon, according the the imperial reckoning. The moon is a waning gibbous (as is obvious by the imperial reckoning), and the Summer Solstice is 33 days away (as is obvious by the traditional reckoning).
 
 Warday, the 18th day of the 5th moon, the 3rd of the bright Glittergold: day of due debts

@@ -1,4 +1,58 @@
-Dragonvale Calendar
+# Dragonvale Calendar
+
+## Week
+
+| Arcane    | Named      | Divine    | Deity      | Significance    | Activities | Firstday |
+| --------- | ---------- | --------- | ---------- | --------------- | ---------- | -------- |
+| Monday    | Moonday    | Jasday    | Wee Jas    | Moon/Death      | Funerals   | Shady    |
+| Tuesday   | Warday     | Korday    | Kord       | War/Strength    | Wars       | Strong   |
+| Wednesday | Mageday    | Boccobday | Boccob     | Magic/Knowledge | Memorials  | Magic    |
+| Thursday  | Hammerday  | Moraday   | Moradin    | Crafts/Skill    | Market     | Crafty   |
+| Friday    | Feastday   | Yonday    | Yondalla   | Feasting/Food   | Weddings   | Full     |
+| Saturday  | Festiveday | Oliday    | Olidamarra | Festivity/Games | Leisure    | Fun      |
+| Sunday    | Sunday     | Pelorday  | Pelor      | Sun/Life        | Charity    | Bright   |
+
+The alignment of Moonday and a phase of the moon is found significant. Similarly, the alignment of Sunday and a solstice or equinox is found significant.
+
+## Months
+
+| Month       | Days   | Begins                                          | Arcane              |
+| ----------- | ------ | ----------------------------------------------- | ------------------- |
+| Shiverknell | 28     | Winter Solstice                                 | 355/Dec21           |
+| Crownkrup   | 14-Oct | Fortnight after Winter Solstice                 | 18/Jan-18           |
+| Brakenhowl  | 20/16  | 10 days into year or 14 if first year of a king | 28/Jan28 or 32/Feb1 |
+| Haimarch    | 26     | 30 days into year                               | 48/Feb17            |
+| Ehlonan     | 16     | 56 days into year                               | 74/Mar15            |
+| Drakesmeet  | 5      | 72 days into year                               | 90/Mar31            |
+| Plowfool    | 30     | 77 days into year                               | 95/Apr5             |
+| Ashes       | 30-Jan | 107 days into year                              | 125/May5            |
+| Glittergold | 15     | First full moon after the 1st of Ashes          | 126/May6-155/Jun4   |
+| Solantrical | Aug-37 | New moon 15 days after 1st of Glittergold       | 141/May21-170/Jun19 |
+| Fairyfeet   | 36     | 160 days into year                              | 178/Jun27           |
+| Fortmont    | 28     | 196 days into year                              | 214/Aug2            |
+| Ninetails   | 30     | 224 days into year                              | 242/Aug30           |
+| Tennoddy    | 30     | 254 days into year                              | 272/Sep29           |
+| Elvenwait   | 30     | 284 days into year                              | 302/Oct29           |
+| Dozenden    | 23/24  | 314 days into year                              | 332/Nov28           |
+| Shiverknell | 28     | 337 or 338 days into year (Winter Solstice)     | 355/Dec21           |
+
+## Dates
+
+Dates are reckoned according to either the traditional reckoning, Imperial reckoning, or a hybrid form. Traditional reckoning is in terms of the weekday, month, and year of king’s reign (e.g. “the second Oliday of a strong Brakenhowl, in the tenth year of King Treptin.”). Imperial reckoning is by the moonday, moon, and Imperial year (e.g. “the 357 th year, 3 rd moon, 5 th day.”).
+
+### Imperial Reckoning
+
+The moons are reckoned according to their coming after the Winter Solstice. Seven in forty years have 13 moons, a dread year. The new year of Imperial reckoning doesn’t begin until the first new moon, which may occur on Winter Solstice, but not before. Thus, the new year begins anywhere between December 21 and January 19 according to the arcane calendar. There are 360 days between each moon of the same number, plus one day for every year divisible by four, plus 30 days for every dread year. For every forty year cycle (1-40, 41-80, etc.), the 1 st , 6 th , 12 th , 18 th , 24 th , 29 th , and 35 th years are dread years.
+
+Given a duration in moons and days and a start date, one adds the moons in twelves, checking for dread years. One then adds the days, subtracting a day for each long year. Starting from 357, 3, 5, and proceeding 10 dozen and 3 moons, 10 days, one drops a moon for year 361 and for 366, arriving at 367, 4, 5. The 10 days are adding, minus the extra days for year 360 and for year 364, thus arriving at 367, 4, 13.
+
+Given a start and end date, finds the difference in days, moons, and dozen moons (for years), and then adds a moon for each dread year, and a day for each long year. Given 357, 3, 5, and 367, 4, 13, one finds the difference to be 10 dozen and 1 moons, 8 days. Two moons are added for the dread years 361 and 366. Two days are added for the long years 360 and 364. The difference is thus 10 dozen and 3 moons, 10 days.
+
+### Traditional Reckoning
+
+Each month is given the adjective ascribed the day that falls on the first of that month. Thus, if the first day of a month is Jasday, then the month is shady. A year of the king’s reign begins on one fortnight after the Winter Solstice, if he was king on the preceding Autumnal Equinox, otherwise the last king’s reign continues. Thus, the Traditional new year begins on January 18, according to the arcane calendar.
+
+## Chart
 
 | Day | Sunrise | Sunset   | Daylight | Arcane    | ADate | Date | Month       | Day of Week | Divine    | Named      | Moon Phase         | Number | Season           | Events                                       | Log                                                                                                                                       |
 | --- | ------- | -------- | -------- | --------- | ----- | ---- | ----------- | ----------- | --------- | ---------- | ------------------ | ------ | ---------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
