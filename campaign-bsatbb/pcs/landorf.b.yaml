@@ -1,0 +1,8 @@
+---
+character:
+  levels:
+    xp: 80_516
+    hd: [13, d10]
+    hp: [10, {max-hp: 110, damage: 0}]
+    max-hp: [110, {con: 2, rolls: 84}]
+    fighter: [13, {hd: d10, hp: [10, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 6.1, 4, 9]}]

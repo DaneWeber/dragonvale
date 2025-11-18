@@ -1,5 +1,10 @@
 # Tallinn
 
+## To Do
+
+- [ ] Confirm spell swaps
+- [ ] Review Excel spreadsheet
+
 ## Spell List
 
 DRUID SPELLS

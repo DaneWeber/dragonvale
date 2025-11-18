@@ -1,0 +1,9 @@
+---
+character:
+  levels:
+    xp: 66_660
+    hd: [10, d8, 3, d4]
+    hp: [90, {max-hp: 90, damage: 0}]
+    max-hp: [90, {con: 2, rolls: 66}]
+    cleric: [10, {hd: d8, hp: [8, 8, 8, 4, 4, 8, 3, 6, 8]}]
+    celestial-mystic: [3, {hd: d4, hp: [2, 4, 3]}]
