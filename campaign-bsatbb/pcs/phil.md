@@ -3,7 +3,7 @@
 ## To Do
 
 - [ ] Reconcile spell list
-- [ ] Choose 2nd Cleric Domain
+- [x] Choose 2nd Cleric Domain
 - [ ] Confirm skill points
 - [ ] Stat out weapons and armor
 - [ ] Finalize inventory

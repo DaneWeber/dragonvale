@@ -6,6 +6,10 @@ Evil, Law, Chaos, and Good are measurable, quantifiable properties in D&D. While
 
 An Evil aura is not the same as admission of guilt for heinous crimes deserving of punishment.
 
+## Dimensions
+
+In general Good involves self-sacrifice for others, whereas Evil involves sacrificing others for self. On the other axis, Chaotic generally involves individual freedom of choice, whereas Lawful involves rule-following for the collective good.
+
 ## Clarifications
 
 Clarification on certain acts and their moral implications in the world of Dragonvale.
