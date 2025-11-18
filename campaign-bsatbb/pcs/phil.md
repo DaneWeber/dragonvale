@@ -43,6 +43,7 @@
 | Core   | Deathwatch:                          | Reveals how near death subjects within 30 ft. are.                                             |
 | Core   | Detect Chaos/Evil/Good/Law:          | Reveals creatures, spells, or objects of selected alignment.                                   |
 | Core   | Detect Undead:                       | Reveals undead within 60 ft.                                                                   |
+| Core   | Disguise Self:                       | (🃏 Trickery domain) Disguise own appearance.                                                  |
 | Core   | Divine Favor:                        | You gain +1 per three levels on attack and damage rolls.                                       |
 | Core   | Doom:                                | One subject takes -2 on attack rolls, saves, and checks.                                       |
 | Core   | Endure Elements:                     | Exist comfortably in hot or cold environments.                                                 |
@@ -81,6 +82,7 @@
 | Core   | Enthrall:                | Captivates all within 100 ft. + 10 ft./level.                                                    |
 | Core   | Hold Person:             | Paralyzes one humanoid for 1 round/level.                                                        |
 | Core   | Inflict Moderate Wounds: | Touch attack, 2d8 damage +1/level (max +10).                                                     |
+| Core   | Invisibility:            | (🃏 Trickery domain) Subject invisible 1 min./level or until it attacks.                         |
 | Core   | Make Whole:              | Repairs an object.                                                                               |
 | Core   | Owl’s Wisdom:            | Subject gains +4 to Wis for 1 min./level.                                                        |
 | Core   | Remove Paralysis:        | Frees one or more creatures from paralysis or slow effect.                                       |
@@ -124,6 +126,7 @@
 | Core   | Magic Circle against Chaos/Evil/Good/Law: | (👼 Good domain) As protection spells, but 10-ft. radius and 10 min./level.                         |
 | Core   | Magic Vestment:                           | Armor or shield gains +1 enhancement per four levels.                                               |
 | Core   | Meld into Stone:                          | You and your gear merge with stone.                                                                 |
+| Core   | Nondetection M:                           | (🃏 Trickery domain) Hides subject from divination, scrying.                                        |
 | Core   | Prayer:                                   | Allies +1 bonus on most rolls, enemies -1 penalty.                                                  |
 | Core   | Protection from Energy:                   | Absorb 12 points/level of damage from one kind of energy.                                           |
 | Core   | Remove Blindness/Deafness:                | Cures normal or magical conditions.                                                                 |
@@ -145,6 +148,7 @@
 | Source | Spell Name                | Brief Description                                                    |
 | ------ | ------------------------- | -------------------------------------------------------------------- |
 | Core   | Air Walk:                 | Subject treads on air as if solid (climb at 45-degree angle).        |
+| Core   | Confusion:                | (🃏 Trickery domain) Subjects behave oddly for 1 round/level.        |
 | Core   | Control Water:            | Raises or lowers bodies of water.                                    |
 | Core   | Cure Critical Wounds:     | Cures 4d8 damage +1/level (max +20).                                 |
 | Core   | Death Ward:               | Grants immunity to death spells and negative energy effects.         |
@@ -181,6 +185,7 @@
 | Core   | Cure Light Wounds, Mass:     | Cures 1d8 damage +1/level for many creatures.                             |
 | Core   | Dispel Chaos/Evil/Good/Law:  | (👼 Good domain) +4 bonus against attacks.                                |
 | Core   | Disrupting Weapon:           | Melee weapon destroys undead.                                             |
+| Core   | False Vision M:              | (🃏 Trickery domain) Fools scrying with an illusion.                      |
 | Core   | Flame Strike:                | Smite foes with divine fire (1d6/level damage).                           |
 | Core   | Hallow M:                    | Designates location as holy.                                              |
 | Core   | Inflict Light Wounds, Mass:  | Deals 1d8 damage +1/level to many creatures.                              |
@@ -204,37 +209,38 @@
 
 ### 6th-Level Cleric Spells
 
-| Source | Spell Name                                      | Brief Description                                                    |
-| ------ | ----------------------------------------------- | -------------------------------------------------------------------- |
-| Core   | Animate Objects:                                | Objects attack your foes.                                            |
-| Core   | Antilife Shell:                                 | 10-ft. field hedges out living creatures.                            |
-| Core   | Banishment:                                     | Banishes 2 HD/level of extraplanar creatures.                        |
-| Core   | Bear’s Endurance, Mass:                         | As bear’s endurance, affects one subject/ level.                     |
-| Core   | Blade Barrier:                                  | (👼 Good domain) Wall of blades deals 1d6/level damage.              |
-| Core   | Bull’s Strength, Mass:                          | As bull’s strength, affects one subject/level.                       |
-| Core   | Create Undead:                                  | Create ghouls, ghasts, mummies, or mohrgs.                           |
-| Core   | Cure Moderate Wounds, Mass:                     | Cures 2d8 damage +1/level for many creatures.                        |
-| Core   | Dispel Magic, Greater:                          | As dispel magic, but up to +20 on check.                             |
-| Core   | Eagle’s Splendor, Mass:                         | As eagle’s splendor, affects one subject/level.                      |
-| Core   | Find the Path:                                  | Shows most direct way to a location.                                 |
-| Core   | Forbiddance M:                                  | Blocks planar travel, damages creatures of different alignment.      |
-| Core   | Geas/Quest:                                     | As lesser geas, plus it affects any creature.                        |
-| Core   | Glyph of Warding, Greater:                      | As glyph of warding, but up to 10d8 damage or 6th-level spell.       |
-| Core   | Harm:                                           | Deals 10 points/level damage to target.                              |
-| Core   | Heal:                                           | Cures 10 points/level of damage, all diseases and mental conditions. |
-| Core   | Heroes’ Feast:                                  | Food for one creature/level cures and grants combat bonuses.         |
-| Core   | Inflict Moderate Wounds, Mass:                  | Deals 2d8 damage +1/level to many creatures.                         |
-| Core   | Owl’s Wisdom, Mass:                             | As owl’s wisdom, affects one subject/level.                          |
-| Core   | Planar Ally X:                                  | As lesser planar ally, but up to 12 HD.                              |
-| Core   | Summon Monster VI:                              | Calls extraplanar creature to fight for you.                         |
-| Core   | Symbol of Fear M:                               | Triggered rune panics nearby creatures.                              |
-| Core   | Undeath to Death M:                             | Destroys 1d4 HD/level undead (max 20d4).                             |
-| Core   | Wind Walk:                                      | You and your allies turn vaporous and travel fast.                   |
-| Core   | Word of Recall:                                 | Teleports you back to designated place.                              |
-| 🪽 BoED | Call Faithful Servants (Celestial, Abstinence): | (Celestial Mystic)                                                   |
-| 🪽 BoED | Quickshift (Celestial):                         | (Celestial Mystic)                                                   |
-| 🪽 BoED | Vengeance Halo (Abstinence):                    | (Celestial Mystic)                                                   |
-| ⁉️     | ~~Symbol of Persuasion M:~~                     | for ???                                                              |
+| Source | Spell Name                                      | Brief Description                                                     |
+| ------ | ----------------------------------------------- | --------------------------------------------------------------------- |
+| Core   | Animate Objects:                                | Objects attack your foes.                                             |
+| Core   | Antilife Shell:                                 | 10-ft. field hedges out living creatures.                             |
+| Core   | Banishment:                                     | Banishes 2 HD/level of extraplanar creatures.                         |
+| Core   | Bear’s Endurance, Mass:                         | As bear’s endurance, affects one subject/ level.                      |
+| Core   | Blade Barrier:                                  | (👼 Good domain) Wall of blades deals 1d6/level damage.               |
+| Core   | Bull’s Strength, Mass:                          | As bull’s strength, affects one subject/level.                        |
+| Core   | Create Undead:                                  | Create ghouls, ghasts, mummies, or mohrgs.                            |
+| Core   | Cure Moderate Wounds, Mass:                     | Cures 2d8 damage +1/level for many creatures.                         |
+| Core   | Dispel Magic, Greater:                          | As dispel magic, but up to +20 on check.                              |
+| Core   | Eagle’s Splendor, Mass:                         | As eagle’s splendor, affects one subject/level.                       |
+| Core   | Find the Path:                                  | Shows most direct way to a location.                                  |
+| Core   | Forbiddance M:                                  | Blocks planar travel, damages creatures of different alignment.       |
+| Core   | Geas/Quest:                                     | As lesser geas, plus it affects any creature.                         |
+| Core   | Glyph of Warding, Greater:                      | As glyph of warding, but up to 10d8 damage or 6th-level spell.        |
+| Core   | Harm:                                           | Deals 10 points/level damage to target.                               |
+| Core   | Heal:                                           | Cures 10 points/level of damage, all diseases and mental conditions.  |
+| Core   | Heroes’ Feast:                                  | Food for one creature/level cures and grants combat bonuses.          |
+| Core   | Inflict Moderate Wounds, Mass:                  | Deals 2d8 damage +1/level to many creatures.                          |
+| Core   | Mislead:                                        | (🃏 Trickery domain) Turns you invisible and creates illusory double. |
+| Core   | Owl’s Wisdom, Mass:                             | As owl’s wisdom, affects one subject/level.                           |
+| Core   | Planar Ally X:                                  | As lesser planar ally, but up to 12 HD.                               |
+| Core   | Summon Monster VI:                              | Calls extraplanar creature to fight for you.                          |
+| Core   | Symbol of Fear M:                               | Triggered rune panics nearby creatures.                               |
+| Core   | Undeath to Death M:                             | Destroys 1d4 HD/level undead (max 20d4).                              |
+| Core   | Wind Walk:                                      | You and your allies turn vaporous and travel fast.                    |
+| Core   | Word of Recall:                                 | Teleports you back to designated place.                               |
+| 🪽 BoED | Call Faithful Servants (Celestial, Abstinence): | (Celestial Mystic)                                                    |
+| 🪽 BoED | Quickshift (Celestial):                         | (Celestial Mystic)                                                    |
+| 🪽 BoED | Vengeance Halo (Abstinence):                    | (Celestial Mystic)                                                    |
+| ⁉️     | ~~Symbol of Persuasion M:~~                     | for ???                                                               |
 
 ---
 
@@ -257,6 +263,7 @@
 | Core   | Repulsion:                      | Creatures can’t approach you.                                           |
 | Core   | Restoration, Greater X:         | As restoration, plus restores all levels and ability scores.            |
 | Core   | Resurrection M:                 | Fully restore dead subject.                                             |
+| Core   | Screen:                         | (🃏 Trickery domain) Illusion hides area from vision, scrying.          |
 | Core   | Scrying, Greater:               | As scrying, but faster and longer.                                      |
 | Core   | Summon Monster VII:             | Calls extraplanar creature to fight for you.                            |
 | Core   | Symbol of Stunning M:           | Triggered rune stuns nearby creatures.                                  |
@@ -281,6 +288,7 @@
 | Core   | Holy Aura F:                   | +4 to AC, +4 resistance, and SR 25 against evil spells.         |
 | Core   | Inflict Critical Wounds, Mass: | Deals 4d8 damage +1/level to many creatures.                    |
 | Core   | Planar Ally, Greater X:        | As lesser planar ally, but up to 18 HD.                         |
+| Core   | Polymorph Any Object:          | (🃏 Trickery domain) Changes any subject into anything else.    |
 | Core   | Shield of Law F:               | +4 to AC, +4 resistance, and SR 25 against chaotic spells.      |
 | Core   | Spell Immunity, Greater:       | As spell immunity, but up to 8th-level spells.                  |
 | Core   | Summon Monster VIII:           | Calls extraplanar creature to fight for you.                    |
@@ -304,4 +312,5 @@
 | Core   | Soul Bind F:         | Traps newly dead soul to prevent resurrection.                |
 | Core   | Storm of Vengeance:  | Storm rains acid, lightning, and hail.                        |
 | Core   | Summon Monster IX:   | (👼 Good domain) Calls extraplanar creature to fight for you. |
+| Core   | Time Stop:           | (🃏 Trickery domain) You act freely for 1d4+1 rounds.         |
 | Core   | True Resurrection M: | As resurrection, plus remains aren’t needed.                  |
