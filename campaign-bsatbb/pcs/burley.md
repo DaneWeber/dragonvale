@@ -2,8 +2,8 @@
 
 ## To Do
 
-- [ ] Level 13?
 - [ ] Roll HP for 13
+- [ ] Level 12 feat
 - [ ] Level 13 spells: 4th, 5th, 6th
 
 ## Spell List
@@ -77,3 +77,25 @@ Sorcerer spells
 | ------ | ------------- | ----------------- |
 | Core   | Disintegrate: |                   |
 |        | lvl 13        |                   |
+
+
+## Misc
+
+Consider the following:
+
+https://dnd.arkalseif.info/classes/metamagic-specialist/index.html
+Metamagic Specialist
+(Player's Handbook II variant, p. 61)
+
+With a limited selection of spells at his fingertips, it's natural for a sorcerer to turn to metamagic feats to gain flexibility in effects.
+
+Class Features
+The metamagic specialist has all the standard Sorcerer class features, except as noted below.
+
+Level: 1st.
+
+Replaces: If you select this class feature, you do not gain a familiar.
+
+Benefit: You can apply metamagic feats that you know to sorcerer spells without increasing the casting time. This benefit even lets you quicken your sorcerer spells with the Quicken Spell feat.
+
+You can use this class feature a number of times per day equal to 3 + your Int modifier (minimum 1). This is an extraordinary ability.
