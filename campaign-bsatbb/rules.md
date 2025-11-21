@@ -9,4 +9,9 @@
       2. Clerics, Druids, Paladins, and Rangers must permanently swap out spells from their class list of equal level. These swaps must be of spells they might actually cast, so a character who would not cast an Evil spell cannot swap Evil core spells for supplemental non-Evil spells.
          1. For example, _elation_ (level 2 spell from the _Book of Exalted Deeds_) could permanently replace _gentle repose_ (also level 2) on a Cleric's spell list.
       3. Note that some prestige classes grant access to additional spell lists, such as the Celestial Mystic granting access to 13 additional Cleric spells from the _Book of Exalted Deeds_. These are available over and above the core class spell list, and do not require swaps.
-
+4. In general, we respect published WotC rules and errata.
+   1. Exceptions:
+      1. Guardinals with the Polymorph spell-like ability have it, even if errata specifies it removed.
+   2. Clarifications on borderline/disputed cases:
+      1. "Immunity to poison" includes things that do not use the word "poison" but that Dane believes have the same vector.
+         1. _Stinking Cloud_ conjures a cloud of nauseating gas which can be resisted with a Fortitude save and is related to _Cloudkill_. Just like _Cloudkill_, those immune to poison are immune to _Stinking Cloud_.
