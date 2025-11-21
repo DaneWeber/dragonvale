@@ -2,8 +2,8 @@
 
 ## To Do
 
-- [ ] Roll level 13 HP
-- [ ] Re-stat feats
+- [x] Roll level 13 HP
+- [x] Re-stat feats
 - [ ] Re-stat skills
 - [ ] Figure out the integration
 
