@@ -2,7 +2,7 @@
 
 ## To Do
 
-- [ ] Roll level 13 Rogue HP
+- [x] Roll level 13 Rogue HP
 
 ## Misc
 

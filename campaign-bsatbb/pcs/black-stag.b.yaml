@@ -4,7 +4,7 @@ character:
     xp: 81_284
     hd: [3, d10, 6, d8, 4, d6]
     hp: [86, {max-hp: 86, damage: 0}]
-    max-hp: [86, {con: 2, rolls: 60}]
+    max-hp: [89, {con: 2, rolls: 63}]
     ranger: [6, {hd: d8, hp: [8, 4.9, 4.9, 4.9, 4.9, 4.9]}]
     fighter: [3, {hd: d10, hp: [5.9, 5.9, 5.9]}]
-    rogue: [4, {hd: d6, hp: [3.9, 3.9, 2, 0]}]
+    rogue: [4, {hd: d6, hp: [3.9, 3.9, 2, 3]}]

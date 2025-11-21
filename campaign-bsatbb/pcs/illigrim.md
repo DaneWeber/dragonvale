@@ -2,8 +2,8 @@
 
 ## To Do
 
-- [ ] Skill Points for Rogue level 10
-- [ ] Confirm save bonuses
+- [x] Skill Points for Rogue level 10
+- [x] Confirm save bonuses
 
 ## Misc
 

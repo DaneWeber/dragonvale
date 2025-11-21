@@ -3,7 +3,7 @@
 ## To Do
 
 - [ ] Confirm spell swaps
-- [ ] Finalize last language known
+- [x] Finalize last language known
 - [ ] Review Excel spreadsheet for transformations
 
 ## Spell List
