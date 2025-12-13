@@ -3,6 +3,6 @@ character:
   levels:
     xp: 79_305
     hd: [13, d4]
-    hp: [36, {max-hp: 36, damage: 0}]
-    max-hp: [110, {con: 0, rolls: 36, imp-tough: 13}]
-    sorcerer: [13, {hd: d4, hp: [4, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 4, _]}]
+    hp: [51, {max-hp: 51, damage: 0}]
+    max-hp: [110, {con: 0, rolls: 38, imp-tough: 13}]
+    sorcerer: [13, {hd: d4, hp: [4, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 2.8, 4, 2]}]
