@@ -48,7 +48,7 @@ Clergy: Cuthbertines
 
 Lawful Deity of Vanity, Death, and Decay
 
-Patroness of Beauticians, Cosmeticians, Mirrormakers, Butchers, Coroners, Executioners, Morticians, Gravediggers, Barbers, Dustmen, Gong Farmers, Rat Catchers, and Surgeons.
+Patroness of Beauticians, Cosmeticians, Mirrormakers, Coroners, Executioners, Morticians, Gravediggers, Barbers, Dustmen, Gong Farmers, Rat Catchers, and Surgeons.
 
 Domains: Death, Law, Magic, Repose
 
@@ -95,11 +95,11 @@ Domains: Good, Protection, Trickery
 Temple: Garl's palaces are ostentatious affairs that are just a bit silly. The gatekeeper demands that you make him laugh. If you can't get him to laugh, then you have to play a game of Thimblerig to get in. Alternatively, you can simply bring a glittery bauble or gem as an offering for entrance. Among other things, the main hall generally features some major illusion set up both to confuse visitors until they trustfully step into it and as an homage to the Grand Trickster. Garl's palaces usually have a special blessing of Glittergold's that enhance illusions, allowing them to last, and making them more believable. The palaces often have oddly-angled passageways, almost universally hidden by illusion or secret door.
 
 ## Pelor, the Bright Father of the Sky
+
 Good Deity of Health, Light, the Sky, and the Sun
 
 Patron of Doctors, Nurses, Apothecarists, Physicians, Chandlers, and Lamp-Lighters.
 Domains: Good, Healing, Strength, Sun, Glory
-
 
 Description: Kindly old man... fierce and brilliant... bane of the undead.
 
@@ -109,7 +109,7 @@ Temple: Houses of healing attached to domed temples that let in the noon sun...
 
 Good Deity of the Hunting, Love, Woodlands, and Animals
 
-Patroness of Animal-Handlers, Drovers, Falconers, Furriers, Hunters, Leatherworkers, Ranchers, Tanners, Atilliators, Bowyers, Carpenters, Fletchers, Foresters, and Woodcutters.
+Patroness of Animal-Handlers, Drovers, Falconers, Hunters, Leatherworkers, Ranchers, Atilliators, Bowyers, Carpenters, Fletchers, Foresters, and Woodcutters.
 
 Domains: Animal, Good, Plant, Sun, Charm
 
@@ -122,6 +122,7 @@ Temple: The main area of a Household of the Huntress is a large room with numero
 Ceremonies: All services offered within the Clearing are carried out in the same way they are carried out in the woods: all components, altars, and other equipment are carried in at the beginning and cleared away at the end.
 
 ## Kord, the Brawler
+
 Chaotic Good Deity of Athletics, Luck, Storms, and Strength
 
 Patron of Athletes, Laborers, Ropemakers, and Sailmakers.
@@ -202,7 +203,7 @@ Domains: Evil, Knowledge, Magic
 
 Evil Deity of Gloom, Hatred, Loss, Murder, and Undeath
 
-Patron of Assassins, Necromancers, Melancholics, Grave-Robbers, and Murderers
+Patron of Assassins, Necromancers, Melancholics, Grave-Robbers, Murderers, Butchers, Furriers, and Tanners.
 
 Domains: Death, Evil, Trickery
 
