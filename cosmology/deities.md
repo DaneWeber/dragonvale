@@ -34,6 +34,8 @@ Patron of Cartwright Cobblers, Coopers, Innkeepers, Outfitters, Wheelwrights, Ca
 
 Domains: Luck, Protection, Travel
 
+Temples and Ceremonies: There are little shrines to Fharlanghn at cross-roads and town limits that are simply a wooden post with his sigil carved. Coins are cast at the post for luck and protection while traveling, something like wishing wells. It is bad luck to take any of these coins, unless you're part of Fharlanghn's clergy or a "traveler in need."
+
 ## Santh Cuthbert, the Unbending Cudgel
 
 Lawful Deity of Law, Order, Contracts, Merchants, Trade, and Retribution
