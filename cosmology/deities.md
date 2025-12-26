@@ -224,3 +224,100 @@ Lawful Evil Deity of Traps, Envy, and Poison
 Patron of Poisoners, Trappers, Cheaters, Gamblers, and Smugglers
 
 Domains: Law, Evil, Trickery, Scalykind
+
+## Cleric Domains
+
+### Core
+
+- Air
+- Animal
+- Chaos
+- Death
+- Destruction
+- Earth
+- Evil
+- Fire
+- Good
+- Healing
+- Knowledge
+- Law
+- Luck
+- Magic
+- Plant
+- Protection
+- Strength
+- Sun
+- Travel
+- Trickery
+- War
+- Water
+
+### Spell Compendium
+
+- Balance
+- Cavern
+- Celerity
+- Charm
+- Cold
+- Community
+- Competition
+- Courage
+- Craft
+- Creation
+- Darkness
+- Deathbound
+- Domination
+- Dragon
+- Dream
+- Drow
+- Dwarf
+- Elf
+- Envy
+- Family
+- Fate
+- Force
+- Glory
+- Gluttony
+- Gnome
+- Greed
+- Halfling
+- Hatred
+- Hunger
+- Illusion
+- Inquisition
+- Liberation
+- Lust
+- Madness
+- Mentalism
+- Metal
+- Mind
+- Moon
+- Mysticism
+- Nobility
+- Ocean
+- Oracle
+- Orc
+- Pact
+- Pestilence
+- Planning
+- Portal
+- Pride
+- Purification
+- Renewal
+- Retribution
+- Rune
+- Scalykind
+- Slime
+- Sloth
+- Spell
+- Spider
+- Storm
+- Suffering
+- Summoner
+- Time
+- Trade
+- Tyranny
+- Undeath
+- Wealth
+- Windstorm
+- Wrath
