@@ -8,6 +8,8 @@ Patron of Cartographers, Educators, Linguists, Bookwrights, Librarians, Papermak
 
 Domains: Knowledge, Magic, Trickery, Rune
 
+Extended Domains: Knowledge, Magic, Mind, Oracle, Planning, Trickery
+
 Description: Boccob is the mage of the gods. He cares about understanding the nature of things beyond anything else. While his understanding gives him great power, he has no special desire to hide learning from others. Anyone trying to understand a new study prays that Boccob will grant them insight.
 
 Clergy: The premier group of Boccobites is the Temple of Philosophy, which is an organization that dedicates itself building up and preserving libraries of knowledge under the patronage of Boccob. Access to these libraries is restricted to members because while the accumulation and preservation of knowledge is the aim of the Temple, spreading that knowledge is not. Membership is open to all who can demonstrate scholastic ability and achievement. Generally a significant new contribution to the collections of the Temple is a key to acceptance. There are no requirements that members be endowed with magical ability, but magic-users are certainly drawn to the Temple of Philosophy. Devotion to Boccob is key to the activities of the members of the Temple. As such, those endowed with magical power by Boccob hold preeminence in the organization and certain key roles are reserved for those wielding Boccob's divine magic. Wizards make up much of the rest of the spell-casting caste within the Temple, and they frequently attain some of the most important roles as well.
@@ -24,6 +26,8 @@ Patron of Fishermen, Herbalists, and Watermen.
 
 Domains: Air, Animal, Earth, Fire, Plant, Water, Weather
 
+Extended Domains: Air, Animal, Balance, Earth, Fate, Fire, Plant, Water, Weather
+
 Description: Obad-Hai is a wild and inscrutable being. While some think of him as connected with woods, it is more the untamed land that he cares for. Deep virgin forest is certainly a favorite of his, but ranks with dangerous swamps, harsh deserts, and rolling wastelands. Of course, his sacred tree, the oak, lends to his connection with the woods. Those in many different ways of life pray that Obad-Hai grant them good weather, but all know that such prayers do little to affect his whims.
 
 ## Fharlanghn, the Horizon Traveler
@@ -33,6 +37,8 @@ Neutral Deity of Roads, Dreams, Fate, and Travel
 Patron of Cartwright Cobblers, Coopers, Innkeepers, Outfitters, Wheelwrights, Carters, Couriers, Merchants, Messengers, Navigators, Peddlers, Porters, Shoemakers, and Tinkers.
 
 Domains: Luck, Protection, Travel
+
+Extended Domains: Balance, Celerity, Luck, Portal, Portal (alt), Protection, Travel, Weather
 
 Temples and Ceremonies: There are little shrines to Fharlanghn at cross-roads and town limits that are simply a wooden post with his sigil carved. Coins are cast at the post for luck and protection while traveling, something like wishing wells. It is bad luck to take any of these coins, unless you're part of Fharlanghn's clergy or a "traveler in need."
 
@@ -44,6 +50,8 @@ Patron of Judges, Lawyers, Notaries, Politicians, Almoners, Baliffs, Castellans,
 
 Domains: Destruction, Law, Protection, Strength
 
+Extended Domains: Destruction, Domination, Law, Protection, Sin-Wrath, Strength
+
 Clergy: Cuthbertines
 
 ## Wee Jas, the Stern Lady
@@ -53,6 +61,8 @@ Lawful Deity of Vanity, Death, and Decay
 Patroness of Beauticians, Cosmeticians, Mirrormakers, Coroners, Executioners, Morticians, Gravediggers, Barbers, Dustmen, Gong Farmers, Rat Catchers, and Surgeons.
 
 Domains: Death, Law, Magic, Repose
+
+Extended Domains: Death, Domination, Law, Magic, Mind, Planning, Portal, Portal (alt), Sin-Pride, Tyranny
 
 Description: Wee Jas is a cold and regal queen. She demands nothing short of perfection (or at least its appearance). Mortals trust that she will watch over their passage into the afterlife. While she may not care about them, at least she will make sure that they are not way-laid along the path.
 
@@ -70,6 +80,8 @@ Patron of Architects, Engineers, Masons, Roofers, Shipwrights, Brickers, Ditcher
 
 Domains: Earth, Good, Law, Protection, Artifice
 
+Extended Domains: Craft, Creation, Dwarf, Earth, Good, Law, Portal, Portal (alt), Protection, Sin-Avarice, Sin-Pride, Sin-Wrath
+
 ## Yondalla, the Nurturing Matriarch
 
 Lawful Good Deity of Birth, Family, Honesty, Farming, Home, and Food
@@ -77,6 +89,8 @@ Lawful Good Deity of Birth, Family, Honesty, Farming, Home, and Food
 Patroness of Dungsweepers, Farmers, Gardeners, Bakers, Bottlers, Brewers, Cheesemakers, Cooks, Grocers, Millers, Scullions, Waiters, Carders, Clothiers, Drapers, Fullers, Keepers of the Wardrobe, Laundresses, Midwifes, Plasterers, Shearmen, Spinners, Tailors, Weavers, and Ewerers.
 
 Domains: Good, Law, Protection, Creation
+
+Extended Domains: Community, Courage, Creation, Family, Good, Halfling, Law, Protection, Sin-Gluttony
 
 ## Heironeous, the Valorous Knight
 
@@ -86,6 +100,8 @@ Patron of Agents, Constables, Diplomats, Jailers, Butlers, Interpreters, Marshal
 
 Domains: Good, Law, War, Nobility
 
+Extended Domains: Courage, Destiny, Glory, Good, Inquisition, Law, Nobility, Sin-Pride, Sin-Wrath, War
+
 ## Garl Glittergold, the Sparkling Joker
 
 Good Deity of Humor, Wit, History, Trickery, Illusion, Wealth, and Gems
@@ -94,6 +110,8 @@ Patron of Moneylenders, Gemcutters, Glaziers, Jewelers, Cottars, Dyers, and Jest
 
 Domains: Good, Protection, Trickery
 
+Extended Domains: Community, Craft, Creation, Gnome, Good, Law, Protection, Sin-Avarice, Sin-Envy, Trickery
+
 Temple: Garl's palaces are ostentatious affairs that are just a bit silly. The gatekeeper demands that you make him laugh. If you can't get him to laugh, then you have to play a game of Thimblerig to get in. Alternatively, you can simply bring a glittery bauble or gem as an offering for entrance. Among other things, the main hall generally features some major illusion set up both to confuse visitors until they trustfully step into it and as an homage to the Grand Trickster. Garl's palaces usually have a special blessing of Glittergold's that enhance illusions, allowing them to last, and making them more believable. The palaces often have oddly-angled passageways, almost universally hidden by illusion or secret door.
 
 ## Pelor, the Bright Father of the Sky
@@ -101,7 +119,10 @@ Temple: Garl's palaces are ostentatious affairs that are just a bit silly. The g
 Good Deity of Health, Light, the Sky, and the Sun
 
 Patron of Doctors, Nurses, Apothecarists, Physicians, Chandlers, and Lamp-Lighters.
+
 Domains: Good, Healing, Strength, Sun, Glory
+
+Extended Domains: Community, Glory, Good, Healing, Nobility, Sin-Pride, Strength, Sun
 
 Description: Kindly old man... fierce and brilliant... bane of the undead.
 
@@ -114,6 +135,8 @@ Good Deity of the Hunting, Love, Woodlands, and Animals
 Patroness of Animal-Handlers, Drovers, Falconers, Hunters, Leatherworkers, Ranchers, Atilliators, Bowyers, Carpenters, Fletchers, Foresters, and Woodcutters.
 
 Domains: Animal, Good, Plant, Sun, Charm
+
+Extended Domains: Animal, Celerity, Good, Plant, Sun
 
 Description: Ehlonna is a gentle goddess who wants civilization to flourish in harmony with nature. Ehlonna’s form of hunting and husbandry is that of one attuned to the animal and grateful for the benefits received. Cruel or wanton use of animals and woodlands is not her style. She also smiles upon those engaged in the hunt for a spouse which also requires respect for the game. The unicorn is her sacred beast, and is to be molested by none.
 
@@ -131,6 +154,9 @@ Patron of Athletes, Laborers, Ropemakers, and Sailmakers.
 
 Domains: Chaos, Good, Luck, Strength, Air
 
+Extended Domains: Chaos, Competition, Good, Luck, Sin-Wrath, Strength
+
+
 ## Corellon Larethian, the Protector of Joy
 
 Chaotic Good Deity of Beauty, Art, Freedom, Music, Redemption, and Protection
@@ -138,6 +164,8 @@ Chaotic Good Deity of Beauty, Art, Freedom, Music, Redemption, and Protection
 Patron of Artists, Painters, Playwrights, Sculptors, Singers, Arkwrights, Armorers, Bucklers, Guards, and Locksmiths.
 
 Domains: Chaos, Good, Protection, War, Liberation
+
+Extended Domains: Chaos, Community, Elf, Good, Magic, Protection, Sin-Pride, War
 
 Description: Corellon Larethian is both a valiant martial defender and a patron of beauty and art. He is also the Speaker of Truths, and he prizes truth-telling above security and civility.
 
@@ -148,6 +176,8 @@ Chaotic Deity of Cities, Wine, Song, and Festivity
 Patron of Acrobats, Alcoholics, Butlers, Doll-makers, Entertainers, Storytellers, Actors, Dancers, Minstrels, Singers, Barkeepers, Barmaids, Rectifiers, and Vintners.
 
 Domains: Chaos, Luck, Trickery, Community
+
+Extended Domains: Celerity, Chaos, City, Luck, Mind, Sin-Avarice, Sin-Lust, Sin-Sloth, Trickery
 
 Description: While some say that craft and trade bring cities together, Olidammara patronizes neither. He supports the gathering of people for laughter and festivity.
 
@@ -161,6 +191,8 @@ Patron of Bandits, Gluttons, Hoarders, and Mutilators
 
 Domains: Chaos, Evil, Trickery, War
 
+Extended Domains: Chaos, Evil, Madness, Sin-Gluttony, Sin-Wrath, Trickery, War
+
 Description: Erythnul is a frightening harbinger of horror. Some fear that nothing can stand in his way as he builds a countless horde to overcome the world. The dreaded goblins are said to be his proudest creation.
 
 ## Gruumsh, the Ever-Watchful
@@ -171,7 +203,17 @@ Patron of Paranoiacs, Outcasts, Seers, and Torturers
 
 Domains: Chaos, Evil, Strength, War
 
+Extended Domains: Cavern, Chaos, Domination, Evil, Hatred, Orc, Sin-Lust, Sin-Wrath, Strength, War
+
 Description: Gruumsh has no friends. To him a friend is merely someone who knows his weaknesses.
+
+## Lolth, the Spider Queen
+
+Chaotic Evil Deity of ___
+
+Patron of ___
+
+Extended Domains: Chaos, Darkness, Destruction, Drow, Evil, Portal, Portal (alt), Sin-Envy, Sin-Lust, Sin-Pride, Sin-Wrath, Spider, Trickery, Vile Darkness
 
 ## Yeenoghu, the Demon Butcher
 
@@ -191,6 +233,8 @@ Patroness of Sailors and Traitors
 
 Domains: Evil, Water, Destruction, Trickery, Darkness
 
+Extended Domains: Destruction, Dragon, Evil, Greed, Hatred, Law, Scalykind, Sin-Pride, Sin-Wrath, Trickery, Tyranny
+
 Description: Tiamat is the Lady of the Waters. While the fortunes of many nations depend upon sea-faring, the sea is a deadly force that pulls many to their death. Sailors have a conflicted relationship with both the sea and its mistress.
 
 ## Vecna, the Hidden Lich
@@ -201,6 +245,8 @@ Patron of Astrologers, Blackmailers, Corrupt Officials, Forgers, Fraudsters, Lia
 
 Domains: Evil, Knowledge, Magic
 
+Extended Domains: Destiny, Evil, Knowledge, Madness, Magic, Planning, Portal, Portal (alt), Sin-Pride, Tyranny
+
 ## Nerull, the Bleak Reaper
 
 Evil Deity of Gloom, Hatred, Loss, Murder, and Undeath
@@ -208,6 +254,8 @@ Evil Deity of Gloom, Hatred, Loss, Murder, and Undeath
 Patron of Assassins, Necromancers, Melancholics, Grave-Robbers, Murderers, Butchers, Furriers, and Tanners.
 
 Domains: Death, Evil, Trickery
+
+Extended Domains: Death, Evil, Fate, Pestilence, Sin-Envy, Trickery
 
 ## Hextor, the Grand Warlord
 
@@ -217,6 +265,8 @@ Patron of Arsonists, Tyrants, Warlords, Generals, and Vandals
 
 Domains: Destruction, Evil, Law, War, Nobility, Fire
 
+Extended Domains: Destruction, Domination, Evil, Law, Sin-Pride, Sin-Wrath, Tyranny, War
+
 ## Kurtulmak, the Sneak
 
 Lawful Evil Deity of Traps, Envy, and Poison
@@ -224,6 +274,8 @@ Lawful Evil Deity of Traps, Envy, and Poison
 Patron of Poisoners, Trappers, Cheaters, Gamblers, and Smugglers
 
 Domains: Law, Evil, Trickery, Scalykind
+
+Extended Domains: Evil, Law, Luck, Sin-Envy, Trickery
 
 ## Cleric Domains
 
