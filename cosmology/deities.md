@@ -156,7 +156,6 @@ Domains: Chaos, Good, Luck, Strength, Air
 
 Extended Domains: Chaos, Competition, Good, Luck, Sin-Wrath, Strength
 
-
 ## Corellon Larethian, the Protector of Joy
 
 Chaotic Good Deity of Beauty, Art, Freedom, Music, Redemption, and Protection
@@ -209,12 +208,13 @@ Description: Gruumsh has no friends. To him a friend is merely someone who knows
 
 ## Lolth, the Spider Queen
 
-Chaotic Evil Deity of ___
+Chaotic Evil Deity of \_\_\_
 
-Patron of ___
+Patron of \_\_\_
 
 Extended Domains: Chaos, Darkness, Destruction, Drow, Evil, Portal, Portal (alt), Sin-Envy, Sin-Lust, Sin-Pride, Sin-Wrath, Spider, Trickery, Vile Darkness
 
+<!--
 ## Yeenoghu, the Demon Butcher
 
 Chaotic Evil Deity of Slavery, Disease, Lust, and Madness
@@ -235,7 +235,10 @@ Domains: Evil, Water, Destruction, Trickery, Darkness
 
 Extended Domains: Destruction, Dragon, Evil, Greed, Hatred, Law, Scalykind, Sin-Pride, Sin-Wrath, Trickery, Tyranny
 
+Umberlee Extended Domains: Chaos, Destruction, Evil, Ocean, Sin-Envy, Sin-Gluttony, Sin-Pride, Sin-Wrath, Storm, Water
+
 Description: Tiamat is the Lady of the Waters. While the fortunes of many nations depend upon sea-faring, the sea is a deadly force that pulls many to their death. Sailors have a conflicted relationship with both the sea and its mistress.
+-->
 
 ## Vecna, the Hidden Lich
 
@@ -276,6 +279,14 @@ Patron of Poisoners, Trappers, Cheaters, Gamblers, and Smugglers
 Domains: Law, Evil, Trickery, Scalykind
 
 Extended Domains: Evil, Law, Luck, Sin-Envy, Trickery
+
+## Great Wheel
+
+| \   | L                                     | N                                        | C                                |
+| --- | ------------------------------------- | ---------------------------------------- | -------------------------------- |
+| G   | Heironeous<br />Moradin<br />Yondalla | Garl Glittergold<br />Ehlonna<br />Pelor | Corellon Larethian<br />Kord     |
+| N   | Wee Jas<br />Santh Cuthbert           | Boccob<br />Fharlanghn<br />Obad-Hai     | Olidammara                       |
+| E   | Kurtulmak<br />Hextor                 | Nerull<br />Vecna                        | Erythnul<br />Gruumsh<br />Lolth |
 
 ## Cleric Domains
 
