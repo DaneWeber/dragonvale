@@ -262,7 +262,7 @@ Extended Domains: Death, Evil, Fate, Pestilence, Sin-Envy, Trickery
 
 Description:
 
-Clergy: Nerullians
+Clergy: The Nerulli are primarily characterized by their unsentimental view of the utility of living creatures. They pursue their own individual profit at the expense of living things, recognizing both the usefulness of civilization and especially the premium to made from death and undeath.
 
 Temples:
 
