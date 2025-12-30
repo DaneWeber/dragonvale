@@ -242,9 +242,9 @@ Description: Tiamat is the Lady of the Waters. While the fortunes of many nation
 
 ## Vecna, the Hidden Lich
 
-Evil Deity of Secrets, Lying, Pride, and the Stars
+Evil Deity of Secrets, Lying, Pride, Gloom, and the Stars
 
-Patron of Astrologers, Blackmailers, Corrupt Officials, Forgers, Fraudsters, Liars, Spies, Thieves, and Treasure Hunters
+Patron of Astrologers, Blackmailers, Corrupt Officials, Forgers, Fraudsters, Melancholics, Liars, Spies, Thieves, and Treasure Hunters
 
 Domains: Evil, Knowledge, Magic
 
@@ -252,13 +252,21 @@ Extended Domains: Destiny, Evil, Knowledge, Madness, Magic, Planning, Portal, Po
 
 ## Nerull, the Bleak Reaper
 
-Evil Deity of Gloom, Hatred, Loss, Murder, and Undeath
+Evil Deity of Hatred, Murder, and Undeath
 
-Patron of Assassins, Necromancers, Melancholics, Grave-Robbers, Murderers, Butchers, Furriers, and Tanners.
+Patron of Assassins, Necromancers, Grave-Robbers, Murderers, Bloodsport Organizers, Gladiator Trainers, Butchers, Furriers, and Tanners.
 
 Domains: Death, Evil, Trickery
 
 Extended Domains: Death, Evil, Fate, Pestilence, Sin-Envy, Trickery
+
+Description:
+
+Clergy: Nerullians
+
+Temples:
+
+Ceremonies:
 
 ## Hextor, the Grand Warlord
 
@@ -269,6 +277,14 @@ Patron of Arsonists, Tyrants, Warlords, Generals, and Vandals
 Domains: Destruction, Evil, Law, War, Nobility, Fire
 
 Extended Domains: Destruction, Domination, Evil, Law, Sin-Pride, Sin-Wrath, Tyranny, War
+
+Description:
+
+Clergy:
+
+Temples:
+
+Ceremonies:
 
 ## Kurtulmak, the Sneak
 
