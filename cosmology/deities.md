@@ -262,7 +262,13 @@ Extended Domains: Death, Evil, Fate, Pestilence, Sin-Envy, Trickery
 
 Description:
 
-Clergy: The Nerulli are primarily characterized by their unsentimental view of the utility of living creatures. They pursue their own individual profit at the expense of living things, recognizing both the usefulness of civilization and especially the premium to made from death and undeath.
+Clergy: It's hard to be sure that any given person is not a Nerull. 
+
+The Nerulli are primarily characterized by their unsentimental view of the utility of living creatures. They pursue their own individual profit at the expense of living things, recognizing both the usefulness of civilization and especially the premium to made from death and undeath. They are pleased to deal in meat, whether slices of dumb livestock for feasting or gladiators for the arena, but they do it for the profit, not the enjoyment their customers derive.
+
+When Nerulli wear their vestments and particularly their skull masks, it is a means to an end. The masks and blood-stained robes are not generally worn as permanent devotions, but rather to conceal identity, strike fear, advertise, or declare loyalty. Look for the skull at a blood sport to register a combatant or place a wager in the book. 
+
+The books kept by the Nerulli calculate the profit to be made from death. This includes the wager that someone will live beyond a given date. These wagers are placed in the hope of losing. While the plausible deniability and opportunity for carefully worded testimony can be nice, none of those involved have any doubt that they are involved in assassination for money.
 
 Temples:
 
