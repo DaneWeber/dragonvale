@@ -262,9 +262,9 @@ Extended Domains: Death, Evil, Fate, Pestilence, Sin-Envy, Trickery
 
 Description:
 
-Clergy: It's hard to be sure that any given person is not a Nerull. 
+Clergy: It's hard to be sure that any given person is not a Nerull, a death-dealer. Seemingly ordinary people will don the mask and vestments of Nerull to commit a murder, organize a cockfight, or even just butcher their child's beloved lamb. Nerull and his Nerulli can be blamed for their acts.
 
-The Nerulli are primarily characterized by their unsentimental view of the utility of living creatures. They pursue their own individual profit at the expense of living things, recognizing both the usefulness of civilization and especially the premium to made from death and undeath. They are pleased to deal in meat, whether slices of dumb livestock for feasting or gladiators for the arena, but they do it for the profit, not the enjoyment their customers derive.
+The Nerulli are primarily characterized by their unsentimental view of the utility of living creatures. They pursue their own individual profit at the expense of living things. While they recognize the usefulness of the continued lives of the many, they are see the premium to be made from death and undeath. They are pleased to deal in meat, whether slices of dumb livestock for feasting or gladiators for the arena, but they do it for the profit, not the enjoyment their customers derive.
 
 When Nerulli wear their vestments and particularly their skull masks, it is a means to an end. The masks and blood-stained robes are not generally worn as permanent devotions, but rather to conceal identity, strike fear, advertise, or declare loyalty. Look for the skull at a blood sport to register a combatant or place a wager in the book. 
 
