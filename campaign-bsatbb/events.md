@@ -49,7 +49,7 @@
 | 208 | 31          | Jasday    | Moonday    | 7.27     |                                              | teleport to Frost Giant Rift, find cave in blizzard                                                                                                                                                                                   |
 | 209 | 32          | Korday    | Warday     | 7.28     |                                              | assault the Frost Giant Rift                                                                                                                                                                                                          |
 | 210 | 33          | Boccobday | Mageday    | 7.29     |                                              | final battle, defeating the Jarl and the sorceress, planeshift to the Plane of Fire, meet Tallinn & Phil & Cade, kill fire giants, travel through the Fire Giant fortress, rescue human captives from fire giants after making a trap |
-| 211 | 34          | Moraday   | Hammerday  | 7.30     |                                              | awaken in the Underdark, planning to return the humans to their homes                                                                                                                                                                 |
+| 211 | 34          | Moraday   | Hammerday  | 7.30     |                                              | awaken in the Underdark, planning to return the humans to their homes; defeat shadowy fiends; Shadow Walk and Find the Path, losing gnolls                                                                                            |
 | 212 | 35          | Yonday    | Feastday   | 8.01     |                                              |                                                                                                                                                                                                                                       |
 | 213 | 36          | Oliday    | Festiveday | 8.02     |                                              |                                                                                                                                                                                                                                       |
 | 214 | 1           | Pelorday  | Sunday     | 8.03     |                                              |                                                                                                                                                                                                                                       |
@@ -59,3 +59,57 @@
 | 218 | 5           | Moraday   | Hammerday  | 8.07     |                                              |                                                                                                                                                                                                                                       |
 | 219 | 6           | Yonday    | Feastday   | 8.08     |                                              |                                                                                                                                                                                                                                       |
 | 220 | 7           | Oliday    | Festiveday | 8.09     |                                              |                                                                                                                                                                                                                                       |
+
+## Detailed Notes
+
+### Month of Fairyfeet
+
+#### 33rd Day - Mageday
+
+- Defeated the Frost Giant Jarl and his sorceress ally in the Frost Giant Rift.
+- Black Stag pulled the lever to planeshift to the Plane of Fire.
+  - Party followed suit along with two fire giants they had hired, but left behind Tryg and their Dwarf and Giant allies.
+- Fire Giant Fortress - outside
+  - Encountered Tallinn the druid who had escaped the Fire Giants and his tiger.
+  - Encountered Phil the celestial mystic, Bitsy his flying holy cow, and his six Lantern Archons.
+  - Discussions with the Herald of King Snurre turned into combat.
+    - Killed several fire giants, including two brought from the Material.
+    - One Fire Giant was _Suggested_ to join the party in overthrowing King Snurre.
+    - The Herald agreed to a parlay.
+      - The Herald was convinced that the party are all dragons and consented to allowing them to pass through the fortress in order to return to the Material Plane.
+- Fire Giant Fortress - inside
+  - Passed large lead door with multiple different divine symbols of all alignments carved on it.
+  - Party moved through the fortress compliantly, escorted in front and back, with all halls covered by tapestries.
+  - Passed through cavern area, eventually crossing rope bridge over lava stream into the Underdark.
+- Underdark
+  - Scouted and discovered group of fire giants, gnolls, and captured humans returning to the fortress.
+  - Illigrim assassinated gnoll and fire giant before running back to group, leading them into a trap.
+  - Party defeated the fire giants who used walls of fire, with Black Stag chasing one down. One of the fire giants was disintegrated.
+  - Villagers were rescued from gnolls in separate branch, with gnolls agreeing to surrender and join the party.
+- 11 villagers are from Frostholm and the party intends to return them there.
+  - One, Runa Frostwhisper, is a ranger who was travelling near the village. She was also bound more securely and was drugged.
+- Phil began working on redeeming Yakkak, the gnoll pack leader.
+
+#### 34th Day - Hammerday
+
+- Awaken in Underdark
+- Plan to return humans to surface
+- Defeat shadowy fiends
+  - Ambushed by two shadowy fiends that kill a Lantern Archon, possess villagers (Little Sigrid Ironfoot and the widow Katrin the Weaver), possess Illigrim briefly.
+  - Damaged fiends with ghost touch rapier, draconic force breath, and magic attacks until they were destroyed.
+  - Lasting vile damage to Illigrim (8), Black Stag (3), and Bitsy (5).
+- Use Shadow Walk and Find the Path to rapidly return to Frostholm.
+  - Gnolls resisted the Shadow Walk with the one being converted trying to release Black Stags hand (failed), but making his Will save.
+  - Shadow journey:
+    - Location of fire giant assassination triggered vision by Illigrim of the act.
+    - Crossed a boiling lake via a resurfaced boat pulled by Surfeit and Bitsy.
+      - The boat was pulled back under by giant-sized hands.
+    - Had to step through the mouth of a giant fire-giant face.
+      - Runa determined that this was simply a boulder on the Material.
+    - Encountered a wall ending the path.
+      - There is a deep chasm on the Material here.
+      - Find the Path indicated to climb the wall, which was possible due to a narrow gap between the material and shadow walls.
+        - At the top, Illigrim encountered Shadow that attacked.
+          - Illigrim and teleporting Lantern Archons fought 10 Shadows.
+          - 3 STR damage to Illigrim. Two Lantern Archons paralyzed via STR drain.
+          - The villagers and most of the party were hauled up to the top by a super-strong polar-bear-form Tallin.
