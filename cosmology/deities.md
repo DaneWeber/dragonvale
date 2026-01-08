@@ -266,11 +266,13 @@ Clergy: It's hard to be sure that any given person is not a Nerull, a death-deal
 
 The Nerulli are primarily characterized by their unsentimental view of the utility of living creatures. They pursue their own individual profit at the expense of living things. While they recognize the usefulness of the continued lives of the many, they are see the premium to be made from death and undeath. They are pleased to deal in meat, whether slices of dumb livestock for feasting or gladiators for the arena, but they do it for the profit, not the enjoyment their customers derive.
 
-When Nerulli wear their vestments and particularly their skull masks, it is a means to an end. The masks and blood-stained robes are not generally worn as permanent devotions, but rather to conceal identity, strike fear, advertise, or declare loyalty. Look for the skull at a blood sport to register a combatant or place a wager in the book. 
+When Nerulli wear their vestments and particularly their skull masks, it is a means to an end. The masks and blood-stained robes are not generally worn as permanent devotions, but rather to conceal identity, strike fear, advertise, or declare loyalty. Look for the skull at a blood sport to register a combatant or place a wager in the book.
 
 The books kept by the Nerulli calculate the profit to be made from death. This includes the wager that someone will live beyond a given date. These wagers are placed in the hope of losing. While the plausible deniability and opportunity for carefully worded testimony can be nice, none of those involved have any doubt that they are involved in assassination for money.
 
-Temples:
+Necromancy is a way to further profit from death and the those Nerulli who can make it profitable to Nerull himself are endowed with divine power to do so. Raising the dead as servants or soldiers is a way to avoid paying wages, and selling undead creatures to others is a way to make money from the bodies of the dead.
+
+Temples: While only some are divinely desecrated, every slaughterhouse and bloodsport arena is a temple of Nerull.
 
 Ceremonies:
 
