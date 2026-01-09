@@ -100,6 +100,32 @@
   - Lasting vile damage to Illigrim (8), Black Stag (3), and Bitsy (5).
 - Use Shadow Walk and Find the Path to rapidly return to Frostholm.
   - Gnolls resisted the Shadow Walk with the one being converted trying to release Black Stags hand (failed), but making his Will save.
+  - Three castings were required; 2 by Burley and 1 by Cade
+    - Cade's spell:
+      - Cade
+      - Runa
+      - Katrin
+      - Fr. Mikkel
+      - Phil
+      - Bitsy
+      - 4x Lantern Archons
+    - Burley's spell:
+      - 7x Gnolls
+      - Burley
+      - Tallin
+      - Brackenpaw
+      - Black Stag
+      - Pelor the Eagle
+      - Illigrim
+      - Landorf
+      - Astrid
+      - Bjorn
+      - Liv
+      - Erik
+      - Sigrid
+      - Harald
+      - Olaf
+      - Torsten
   - Shadow journey:
     - Location of fire giant assassination triggered vision by Illigrim of the act.
     - Crossed a boiling lake via a resurfaced boat pulled by Surfeit and Bitsy.
