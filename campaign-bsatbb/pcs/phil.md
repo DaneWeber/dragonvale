@@ -8,6 +8,24 @@
 - [ ] Stat out weapons and armor
 - [ ] Finalize inventory
 - [ ] Note default spell prep list
+- [ ] Locate tuning fork list
+
+## Visited Planes
+
+- Bytopia - Shurrock
+- Bytopia - Dothion (home of holy cow)
+- Clockwork Nirvana of Mechanus
+- Demiplane of Delight (seemingly seelie fey realm)
+- Sigil, the City of Doors
+- Bleak Eternity of Gehenna
+- Heroic Domains of Ysgard
+
+Tuning forks:
+
+- Bytopia - Dothion
+- Bleak Eternity of Gehenna
+- Plane of Fire
+- [Unidentified]
 
 ## Spell List
 

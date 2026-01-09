@@ -111,5 +111,21 @@
       - Find the Path indicated to climb the wall, which was possible due to a narrow gap between the material and shadow walls.
         - At the top, Illigrim encountered Shadow that attacked.
           - Illigrim and teleporting Lantern Archons fought 10 Shadows.
-          - 3 STR damage to Illigrim. Two Lantern Archons paralyzed via STR drain.
+          - 1 STR damage to Black Stag. 3 STR damage to Illigrim. Two Lantern Archons paralyzed via STR drain.
           - The villagers and most of the party were hauled up to the top by a super-strong polar-bear-form Tallin.
+      - After defeating the shadows, Duergar Vampire observed from afar and addressed their trespass.
+        - In trade with Duergar Vampire for safe passage; gave fire giant heart.
+        - Sold 4 fire giant greatswords, all 20 of the fiery nuts, and gave the five bone documents used by the fire giants to the Duergar Vampire.
+          - 2650 gp worth of diamonds and platinum pieces (3x 500 gp diamonds; 115 pp)
+          - Thaldrin the Duergar vampire grew to Huge size to carry the swords and escort the party.
+      - The Durgar vampire guided the party through his territory, passing below cylindrical stone inverted towers. He waved to the structure, called up in Dwarven that he would return shortly, and left the greatswords.
+        - The party continued to Follow the Path down the gap to the end of a chain bridge. Thaldrin observed them from above.
+      - After following the path past two branches, the party came to a tunnel highway and turned left, hugging the wall.
+        - Many footprints, claw prints, sled marks, and more faded and reappeared repeatedly along the floor.
+        - The center of the highway looked the same with darkvision, but appeared as though painted black with normal/lowlight vision. Surfeit, Black Stag, and Tallin all tested the area, barely sticking their fingers in, and felt pain when they did so.
+      - Nightwalker and summoned Dread Wraiths
+        - Nightwalkers spotted the lights from the party and summoned Dread Wraiths, buffed with Haste, cast deeper darkness, and approached.
+        - Illigrim and Black Stag spotted the Nightwalker and halted the party.
+        - Casualties:
+          - 2 paralyzed lantern archons destroyed by Unholy Blight
+          - Two villagers, Torsten the Silent and Father Mikkel, were injured by the unholy blight and fell unconscious, dying.
