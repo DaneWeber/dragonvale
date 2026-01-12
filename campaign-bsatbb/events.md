@@ -154,4 +154,4 @@
         - Illigrim and Black Stag spotted the Nightwalker and halted the party.
         - Casualties:
           - 2 paralyzed lantern archons destroyed by Unholy Blight
-          - Two villagers, Torsten the Silent and Father Mikkel, were injured by the unholy blight and fell unconscious, dying.
+          - Two villagers, Grandma Astrid (-1/9) and Young Olaf (-6/4) were injured by the unholy blight and fell unconscious, dying.
