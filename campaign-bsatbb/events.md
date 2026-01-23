@@ -155,3 +155,20 @@
         - Casualties:
           - 2 paralyzed lantern archons destroyed by Unholy Blight
           - Two villagers, Grandma Astrid (-1/9) and Young Olaf (-6/4) were injured by the unholy blight and fell unconscious, dying.
+            -  Drug back by Runa and Torsten the Silent
+               - stabilized by Fr. Mikkel and Tallin
+          - Black Stag killed by wraiths on the Material Plane while on the outside of the bearskin door.
+        - Wraiths couldn't approach Phil (at the limit of his magic circle against evil)
+        - Wraiths drained the paralyzed Illigrim's CON, nearly killing him
+        - Surfeit detected a second huge walker, warned everyone, and flew Illigrim away from the wraiths
+        - Landorf approached with his prismatic burst bastard sword, which the nightwalker snatched out of his hands and snapped, destroying it
+        - The party otherwise retreated or made ineffective attack.
+        - Cade and Burley ended the Shadow Walk spells and returning to the Material Plane
+          - They discovered some Large Monstrous Centipedes and killed them, and then holed up in the cave with a pool of water.
+          - The party created a door with a bearskin and the two immovable rods to prevent light from giving away their position
+          - Tallinn healed the most grievously injured
+        - Black Stag was on watch outside of the bearskin door and heard what he believes to be a plane shift.
+          - After tense minutes where the animals (Pelor the eagle and Brackenpaw the tiger) detected unnatural presences come and go, Black Stag yelled out "They're back!" followed by screams of ultimate pain and silence.
+          - Landorf and Illigrim retrieved Black Stag's corpse, which looks even more shriveled than Illigrim. He shows no signs of life.
+        - The Supernatural Magic Circles against Evil prevent the summoned wraiths from entering the cave.
+        - Phil cast an additional Wall of Good hemisphere with floor to protect the party. The wall intersects with the doorway.
