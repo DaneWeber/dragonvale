@@ -162,6 +162,7 @@
         - Wraiths drained the paralyzed Illigrim's CON, nearly killing him
         - Surfeit detected a second huge walker, warned everyone, and flew Illigrim away from the wraiths
         - Landorf approached with his prismatic burst bastard sword, which the nightwalker snatched out of his hands and snapped, destroying it
+        - The second nightwalker appeared, failing to kill Cade with a Finger of Death.
         - The party otherwise retreated or made ineffective attack.
         - Cade and Burley ended the Shadow Walk spells and returning to the Material Plane
           - They discovered some Large Monstrous Centipedes and killed them, and then holed up in the cave with a pool of water.
