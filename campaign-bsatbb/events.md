@@ -5,7 +5,7 @@
 | 164 | Solantrical | Oliday    | Festiveday | 6.13     | Oliday, the 13th of the 6th moon of the Year |                                                                                                                                                                                                                                       |
 | 165 | 14          | Pelorday  | Sunday     | 6.14     | Start of Oakthorn II                         | Met, set off, stayed in barn near Oakhurst                                                                                                                                                                                            |
 | 166 | 15          | Jasday    | Moonday    | 6.15     |                                              | Killed twig blight, brought to town                                                                                                                                                                                                   |
-| 167 | 16          | Korday    | Warday     | 6.16     | 🌕 Full Moon                                 | night with Kobolds                                                                                                                                                                                                                    |
+| 167 | 16          | Korday    | Warday     | 6.16     | 🌕 Full Moon                                  | night with Kobolds                                                                                                                                                                                                                    |
 | 168 | 17          | Boccobday | Mageday    | 6.17     |                                              | night in Goblin's cellar                                                                                                                                                                                                              |
 | 169 | 18          | Moraday   | Hammerday  | 6.18     |                                              | night in basement                                                                                                                                                                                                                     |
 | 170 | 19          | Yonday    | Feastday   | 6.19     |                                              | triumphantly back to town                                                                                                                                                                                                             |
@@ -35,7 +35,7 @@
 | 194 | 17          | Jasday    | Moonday    | 7.13     |                                              | defeat Dyson, Henwen, and their Vrock buddy; convince Tully to join                                                                                                                                                                   |
 | 195 | 18          | Korday    | Warday     | 7.14     |                                              | undead shadows in an alcove; wortlings in the woods                                                                                                                                                                                   |
 | 196 | 19          | Boccobday | Mageday    | 7.15     |                                              | meet Goliath, Jezebel, and Wizzerd who are trying to figure out the wortling infestation                                                                                                                                              |
-| 197 | 20          | Moraday   | Hammerday  | 7.16     | 🌕 Full Moon                                 | Nymph cures Illigrim of his curse so he can control transformations as a were-rat, in exchange Illigrim & co. will deal with the wortlings                                                                                            |
+| 197 | 20          | Moraday   | Hammerday  | 7.16     | 🌕 Full Moon                                  | Nymph cures Illigrim of his curse so he can control transformations as a were-rat, in exchange Illigrim & co. will deal with the wortlings                                                                                            |
 | 198 | 21          | Yonday    | Feastday   | 7.17     |                                              | deal with Mercane to get rid of the wortlings plant                                                                                                                                                                                   |
 | 199 | 22          | Oliday    | Festiveday | 7.18     |                                              | stay at Inn, get attacked by giants, burn corpses on pyre                                                                                                                                                                             |
 | 200 | 23          | Pelorday  | Sunday     | 7.19     |                                              | reincarnate Black Stag; defeat Night Hag                                                                                                                                                                                              |
@@ -169,7 +169,52 @@
           - The party created a door with a bearskin and the two immovable rods to prevent light from giving away their position
           - Tallinn healed the most grievously injured
         - Black Stag was on watch outside of the bearskin door and heard what he believes to be a plane shift.
-          - After tense minutes where the animals (Pelor the eagle and Brackenpaw the tiger) detected unnatural presences come and go, Black Stag yelled out "They're back!" followed by screams of ultimate pain and silence.
-          - Landorf and Illigrim retrieved Black Stag's corpse, which looks even more shriveled than Illigrim. He shows no signs of life.
+          - After tense minutes where the animals (Pelor the eagle and Brackenpaw the tiger) detected unnatural presences come and go, Black Stag yelled out "They're back!" followed by screams of ultimate pain.
+          - Landorf and Illigrim retrieved Black Stag, who is shriveled.
         - The Supernatural Magic Circles against Evil prevent the summoned wraiths from entering the cave.
         - Phil cast an additional Wall of Good hemisphere with floor to protect the party. The wall intersects with the doorway.
+        - Landorf is affected by a spell and begins babbling incoherently.
+        - Black Stag uses his Third Eye of Clarity to remove the effect on Landorf.
+        - Illigrim retrieves the ring of wishes and places it on his finger.
+        - Burley and Phil cast spells to affect the Nightwalkers, but their spells are ineffective due to the Nightwalkers' spell resistance.
+        - Surfeit explores the crevice at the bottom of the pool of water and discovers a tunnel leading out into another chamber with monstrous centipedes.
+      - With the bearskin closed, the party debates what to do until Illigrim announces his wish loudly:
+        - "Great and mighty Pelor, I call upon you to assist us in this dark hour. _I wish_ the mighty Avatar of Pelor would assist us in defeating against these beasts!"
+        - Black Stag glows with an inner light, becoming an avatar of Pelor.
+          - He doubles in height, his armor becomes radiant, and his sickles growing larger and glowing with holy light.
+          - His health/CON is fully restored, and he radiates an aura of sunlight.
+          - Following some inspiration, Black Stag blesses his allies' weapons which now also glow with holy light. (Ghost-touch and overcome DR that requires magic, alignment, or metal/material).
+        - Burley and Cade damage the wraiths that appear with magic missiles when they reach out to attack Tallinn.
+        - Tallinn bursts forth from the cave, but is completely drained of life by the wraiths.*
+          - [Actually, probably not. We forgot that his CON was better while being a polar bear.]
+          - The Avatar of Pelor lays hands on Tallinn, restoring him to 1hp and reviving him, preventing him from dying. [This will also likely be reverted.]
+        - The Avatar of Pelor attacks the wraiths, destroying one, with the help of the blessed attacks of Landorf, Illigrim, and Brackenpaw the tiger (that is supernaturally encouraged by Pelor to attack and protect Tallinn).
+        - The remaining wraith retreats into the cave walls.
+        - The Nightwalkers become invisible and position themselves, preparing to attack when the party regroups in the main tunnel.
+          - The party will be making saves against the gaze attacks. Illigrim has been affected by one already, but the rest of the party will be making new saves.
+      - Party members begin forming up in the main tunnel, looking for the Nightwalkers.
+
+Channeled Avatar of Pelor Abilities:
+
+- Doubles in height
+  - +2 size bonus to Strength
+  - -2 size penalty to Dexterity (to a minimum of 1)
+  - -1 penalty on attack rolls and AC due to its increased size
+  - Reach increases by 5 feet.
+- Health/CON is fully restored and radiates an aura of sunlight.
+- Armor becomes radiant
+  - Shining as _Daylight_.
+  - SR equal to 15 + HD.
+  - Immune to ability damage, ability drain, and energy drain.
+- Weapons growing larger and glowing with holy light.
+  - Larger damage die.
+  - Weapons become +6 ghost-touch weapons that overcome DR that requires magic, alignment, or metal/material.
+- Can bless allies as a standard action, granting the following benefits for 1 minute:
+  - The allies' weapons glow with holy light. (Ghost-touch and overcome DR that requires magic, alignment, or metal/material).
+  - Allied casters gain +4 to caster level for purposes of overcoming spell resistance against evil or undead creatures.
+  - Allies gain +2 morale bonus on attack rolls, weapon damage rolls, saves against fear effects, and turning checks.
+
+- Revivify: As a full-round action, the avatar can touch a creature that has been dead for no longer than 3 rounds. The touched creature is restored to life with 1 hit point, constitution is restored to 1, and negative levels are reduced to 1 less than the maximum. This ability can be used once per day, removes any poison or disease that could kill the creature, and cancels any transformation into an undead creature.
+- Flare: Shine as natural daylight w/i 60 ft. for 3 rounds as a standard action. Creatures within 30 ft. are dazzled (Will DC 18 negates).
+
+The Avatar state can only last a short period of time and is limited by the charisma of the host. The host may remain a Channeled Avatar of Pelor for a number of rounds equal to the host's Charisma score (11 for Black Stag). After this time, the host reverts to normal and falls unconscious. The unconsciousness can only end on its own with a chance each round of doing so (d20 + CHA vs. number of rounds in avatar state; nat 20 is auto-success).
