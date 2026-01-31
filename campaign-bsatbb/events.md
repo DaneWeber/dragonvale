@@ -185,9 +185,8 @@
           - His health/CON is fully restored, and he radiates an aura of sunlight.
           - Following some inspiration, Black Stag blesses his allies' weapons which now also glow with holy light. (Ghost-touch and overcome DR that requires magic, alignment, or metal/material).
         - Burley and Cade damage the wraiths that appear with magic missiles when they reach out to attack Tallinn.
-        - Tallinn bursts forth from the cave, but is completely drained of life by the wraiths.*
-          - [Actually, probably not. We forgot that his CON was better while being a polar bear.]
-          - The Avatar of Pelor lays hands on Tallinn, restoring him to 1hp and reviving him, preventing him from dying. [This will also likely be reverted.]
+        - Tallinn bursts forth from the cave, but is completely drained of life by the wraiths.
+          - The Avatar of Pelor lays hands on Tallinn, restoring him to 1hp and reviving him, preventing him from dying.
         - The Avatar of Pelor attacks the wraiths, destroying one, with the help of the blessed attacks of Landorf, Illigrim, and Brackenpaw the tiger (that is supernaturally encouraged by Pelor to attack and protect Tallinn).
         - The remaining wraith retreats into the cave walls.
         - The Nightwalkers become invisible and position themselves, preparing to attack when the party regroups in the main tunnel.
