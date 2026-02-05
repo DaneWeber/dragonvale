@@ -215,5 +215,103 @@ Channeled Avatar of Pelor Abilities:
 
 - Revivify: As a full-round action, the avatar can touch a creature that has been dead for no longer than 3 rounds. The touched creature is restored to life with 1 hit point, constitution is restored to 1, and negative levels are reduced to 1 less than the maximum. This ability can be used once per day, removes any poison or disease that could kill the creature, and cancels any transformation into an undead creature.
 - Flare: Shine as natural daylight w/i 60 ft. for 3 rounds as a standard action. Creatures within 30 ft. are dazzled (Will DC 18 negates).
-
-The Avatar state can only last a short period of time and is limited by the charisma of the host. The host may remain a Channeled Avatar of Pelor for a number of rounds equal to the host's Charisma score (11 for Black Stag). After this time, the host reverts to normal and falls unconscious. The unconsciousness can only end on its own with a chance each round of doing so (d20 + CHA vs. number of rounds in avatar state; nat 20 is auto-success).
+- Temporary: The Avatar state can only last a short period of time and is limited by the charisma of the host. The host may remain a Channeled Avatar of Pelor for a number of rounds equal to the host's Charisma score (11 for Black Stag). After this time, the host reverts to normal and falls unconscious. The unconsciousness can only end on its own with a chance each round of doing so (d20 + CHA vs. number of rounds in avatar state; nat 20 is auto-success).
+- True Quest (Su): In exchange for the divine power provided by the Avatar, the Avatar places a quest on each intelligent creature that it assisted. The quest cannot be refused or removed, but generally operates as per the Geas/Quest spell, no save, taking a free action to apply.
+  - Each quest involves an ongoing behavior to perform or avoid _until_ a specific deed has been accomplished, such as "do not eat any meat until you have built a temple to Pelor in the village of Frostholm" or "do not speak until you have delivered a message to the high priest of Pelor in the city of Brindinford."
+  - The specific deed must be something that furthers the goals of Pelor, such as spreading sunlight and healing, or combating those things that he opposes, such as the undead and darkness.
+  - The quests may be tailored to the recipient with the intent of helping them grow as individuals and better serve Pelor or at least shun evil and become a more self-sacrificing person.
+  - Example ongoing behaviors::
+    - Feed anyone who asks for food.
+    - Never refuse a request for healing.
+    - Speak only the truth.
+    - Donate half of all you acquire to the poor.
+    - Do not strike any living being until they have struck you.
+    - Eat no meat.
+    - Quaff no strong drinks.
+    - Assist any who ask with tears on their cheeks.
+    - Do not step across a threshold.
+    - Give away all you possess to those in need.
+    - Never take a life.
+    - Never speak until spoken to.
+    - Never wear shoes.
+    - Never refuse a request for guidance.
+    - Never sit when others stand.
+    - Share your books with any who care to read them.
+  - Example specific deeds:
+    - Build a temple to Pelor in a city that has none.
+    - Bring the light of Pelor to Erelhei-Cinlu.
+    - Redeem a dark elf.
+    - Destroy a powerful undead creature.
+    - Free seven captives unjustly held.
+    - Cure a sick child from a serious disease.
+    - Restore sight to a blind person.
+    - Eliminate unnatural darkness from a region.
+    - Feed 500 people in Pelor's name.
+    - Spend a day in the blessed fields of Elysium and drink from the river Oceanus.
+    - Complete a task requested by a high priest of Pelor.
+  - Illigrim, Were-Rat Elven Rogue, CG
+    - Sins:
+      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
+      - Killed gnoll and fire giant, unprovoked, simply for guarding prisoners. Rationale was that they were part of an oppressive, evil organization.
+    - Paid tribute to undead vampire Duergar in order to ensure safe passage through his territory. This is against Pelor's wishes, but was necessary to save the villagers.
+    - Proud that he avoided combatting the Fire Giants, which is better than the slaughter that might have occurred.
+    - QUEST:
+      - You shall not slay any rational life unless you have first offered it a chance to surrender.
+      - until you build a shelter for orphans in Pelor's name.
+  - Black Stag, Orc Ranger/Fighter/Rogue, CG
+    - Sins:
+      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
+      - Gave the signal to attack fire giant Herald of Snurre, because he could see she was calling for backup when threatened by the party.
+      - Hunted down and killed a fire giant scout who was running away.
+    - Transformed willingly into a Channeled Avatar of Pelor to defeat the Nightwalkers and their wraiths, saving the party and villagers from certain death.
+    - Is on a mission to spread the light of Pelor and convert shunned races to follow Pelor's path.
+    - Credits Pelor with saving him and his party from a roper.
+    - QUEST:
+      - You shall aid any who ask with tears on their cheeks.
+      - until you bring the light of Pelor to Erelhei-Cinlu.
+  - Landorf, Human Fighter, LN
+    - Sins:
+      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
+    - Primarily follows the lead of the rest of the party, going along with their actions. Does not clearly have a code or reason for his nature being Lawful Neutral.
+    - QUEST:
+      - You shall speak in defense of any living creatures who cannot defend themselves.
+      - until you feed 1,000 people in Pelor's name.
+  - "Burley" Darkburle Blue, Elven Sorcerer, CN
+    - Sins:
+      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
+    - QUEST:
+      - You shall feed from your own supply anyone who asks for food.
+      - until you have built a temple to Pelor in a city without one.
+  - Surfeit, Amethyst Dragon, TN
+    - Sins:
+      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
+      - Has eaten rational creatures:
+        - White dragon
+        - Hell hound
+        - Fire giant
+      - Animalistic behavior when having an elevated nature.
+    - Is destined to transcend again to a unified form that appears in his human monk form but retains the powers of his amethyst dragon nature.
+    - QUEST:
+      - You shall eat no meat
+      - until you have freed seven unjustly held captives, each of a different race.
+  - Cade, Gnome Wizard, CE
+    - Sins:
+      - Unspecified, but includes cannibalism.
+    - Wishes for personal enrichment and power. Mostly aids Black Stag because it is fun and helps him get what he wants, but also because he has a soft spot for Black Stag and wants to help him.
+    - QUEST:
+      - You shall share your books with any who care to read them.
+      - until you spend a day in the blessed fields of Elysium.
+      - And you shall speak only the truth.
+      - until you bathe in the river Oceanus.
+  - Phileum Collins, Human Cleric/Celestial Mystic, LG
+    - Traveling the planes. In search of true goodness.
+    - Attempted to redeem Yakkak, the gnoll pack leader.
+    - QUEST:
+      - You shall restore sight to the blind wherever you go.
+      - until you redeem a dark elf.
+  - Tallinn, Human Druid, NG
+    - Attempting to protect the people and beasts of his northern world.
+    - Hopes to free the prisoners held by the fire giants.
+    - QUEST:
+      - You shall quaff no strong drinks.
+      - until you illuminate a place of unnatural darkness.
