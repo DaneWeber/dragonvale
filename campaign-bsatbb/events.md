@@ -236,7 +236,7 @@ Channeled Avatar of Pelor Abilities:
     - Never wear shoes.
     - Never refuse a request for guidance.
     - Never sit when others stand.
-    - Share your books with any who care to read them.
+    - Freely share your books with any who care to read them.
   - Example specific deeds:
     - Build a temple to Pelor in a city that has none.
     - Bring the light of Pelor to Erelhei-Cinlu.
@@ -299,7 +299,7 @@ Channeled Avatar of Pelor Abilities:
       - Unspecified, but includes cannibalism.
     - Wishes for personal enrichment and power. Mostly aids Black Stag because it is fun and helps him get what he wants, but also because he has a soft spot for Black Stag and wants to help him.
     - QUEST:
-      - You shall share your books with any who care to read them.
+      - You shall freely share your books with any who care to read them.
       - until you spend a day in the blessed fields of Elysium.
       - And you shall speak only the truth.
       - until you bathe in the river Oceanus.
