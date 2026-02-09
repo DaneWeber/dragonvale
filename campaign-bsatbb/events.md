@@ -179,7 +179,7 @@
         - Burley and Phil cast spells to affect the Nightwalkers, but their spells are ineffective due to the Nightwalkers' spell resistance.
         - Surfeit explores the crevice at the bottom of the pool of water and discovers a tunnel leading out into another chamber with monstrous centipedes.
       - With the bearskin closed, the party debates what to do until Illigrim announces his wish loudly:
-        - "Great and mighty Pelor, I call upon you to assist us in this dark hour. _I wish_ the mighty Avatar of Pelor would assist us in defeating against these beasts!"
+        - "Great and mighty Pelor, I call upon you to assist us in this dark hour. _I wish_ the mighty Avatar of Pelor would assist us in defeating  these beasts!"
         - Black Stag glows with an inner light, becoming an avatar of Pelor.
           - He doubles in height, his armor becomes radiant, and his sickles growing larger and glowing with holy light.
           - His health/CON is fully restored, and he radiates an aura of sunlight.
@@ -192,6 +192,38 @@
         - The Nightwalkers become invisible and position themselves, preparing to attack when the party regroups in the main tunnel.
           - The party will be making saves against the gaze attacks. Illigrim has been affected by one already, but the rest of the party will be making new saves.
       - Party members begin forming up in the main tunnel, looking for the Nightwalkers.
+      - COMBAT highlights
+        - Nightwalkers attacked with Finger of Death on Burley (made save), Cone of Cold, Unholy Blight, and disarmed Black Stag of one of his sickles, but the epic enhancement on the sickle prevented it from breaking, so the Nightwalker instead threw it behind itself.
+        - Black Stag as Avatar of Pelor used Flare to dazzle the Nightwalkers with true daylight and tumbled past them to retrieve the sickle.
+        - Bitsy died from unholy blight, but the Avatar of Pelor revivified her after the combat.
+        - Illigrim went all in on an attack, missing most hits because his eyes were closed.
+        - Landorf leapt and struck with his blessed Frost Brand greatsword.
+        - Burley tried another Disintegrate, but failed to overcome the Nightwalkers' SR.
+        - Cade used his Disintegrate, overcame the Nightwalkers' SR, and significantly damaged the Nightwalker that eventually escaped. On the following round he shot a lightning bolt along the ceiling to further damage it.
+          - The Nightwalker when damaged had holes torn in its skin, revealing bleached bones underneath, some falling out. The skin would close over the holes as best it could.
+        - Landorf full-attacked for the most damage prior to the final blow.
+        - Illigrim used his final deathstrike for sneak attack damage.
+        - Black Stag as the Avatar of Pelor attacked the surrounded Nightwalker and finished it off, the skin tearing away to reveal a pile of bones, corpses, and equipment.
+      - Avatar of Pelor revivifies Bitsy and then lays a True Quest on all PCs except for Surfiet who avoided the entire encounter.
+        - Black Stag, Illigrim, Landorf, Burley, Cade, Phil, and Tallinn each receive a quest.
+        - The characters cannot speak about their quests.
+      - The slain nightwalker left a pile of bones, bleached corpses, and a lot of equipment. Also its torn skin.
+        - Detect magic revealed no magical auras on the pile.
+        - Divination on the Nightwalker pile of loot:
+          - "The threads have been cut, not merely frayed. What remains are shadows of conduits, hollow as abandoned shells upon the shore. No spell can fill what has become fundamentally void."
+      - The party decides to hole up in the same cave, but is trying to figure out what to do about the corpses/bones.
+      - Surfeit explored the cave system:
+        - A: Highway tunnel -> B [narrowing hallway down to doorway for medium creature]
+        - B: Chamber with pool of water -> C [escape artist DC 20 for narrow portion underwater]
+        - C: Chamber with centipede eggs and 6x Medium Monstrous Centipedes -> D [water-filled shaft down 20 ft], -> E [easy underwater tunnel]
+        - D: Wide, water-filled chamber with ~4 ft. ceiling -> F [very large water-filled chamber]
+        - E: Chamber with more centipede eggs -> G [crevice going upward]
+        - F: Very large water-filled chamber
+          - Kuo-toa swimming followed Surfeit back to the vertical shaft
+          - Surfeit returned to the cave with the party
+        - G: Unexplored passageway upward
+
+
 
 Channeled Avatar of Pelor Abilities:
 
@@ -211,7 +243,7 @@ Channeled Avatar of Pelor Abilities:
 - Can bless allies as a standard action, granting the following benefits for 1 minute:
   - The allies' weapons glow with holy light. (Ghost-touch and overcome DR that requires magic, alignment, or metal/material).
   - Allied casters gain +4 to caster level for purposes of overcoming spell resistance against evil or undead creatures.
-  - Allies gain +2 morale bonus on attack rolls, weapon damage rolls, saves against fear effects, and turning checks.
+  - Allies gain +2 morale bonus on attack rolls, weapon damage rolls, +4 saves against fear effects, and turning checks.
 
 - Revivify: As a full-round action, the avatar can touch a creature that has been dead for no longer than 3 rounds. The touched creature is restored to life with 1 hit point, constitution is restored to 1, and negative levels are reduced to 1 less than the maximum. This ability can be used once per day, removes any poison or disease that could kill the creature, and cancels any transformation into an undead creature.
 - Flare: Shine as natural daylight w/i 60 ft. for 3 rounds as a standard action. Creatures within 30 ft. are dazzled (Will DC 18 negates).
