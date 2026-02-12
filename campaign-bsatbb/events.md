@@ -324,8 +324,8 @@ Channeled Avatar of Pelor Abilities:
       - Animalistic behavior when having an elevated nature.
     - Is destined to transcend again to a unified form that appears in his human monk form but retains the powers of his amethyst dragon nature.
     - QUEST:
-      - You shall eat no meat
-      - until you have freed seven unjustly held captives, each of a different race.
+      - ~You shall eat no meat~
+      - ~until you have freed seven unjustly held captives, each of a different race.~
   - Cade, Gnome Wizard, CE
     - Sins:
       - Unspecified, but includes cannibalism.
