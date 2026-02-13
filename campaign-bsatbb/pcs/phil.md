@@ -14,7 +14,7 @@
 
 - Bytopia - Shurrock
 - Bytopia - Dothion (home of holy cow)
-- Clockwork Nirvana of Mechanus
+- Clockwork Nirvana of Mechanus (banned from, due to attempting free a gear)
 - Demiplane of Delight (seemingly seelie fey realm)
 - Sigil, the City of Doors
 - Bleak Eternity of Gehenna

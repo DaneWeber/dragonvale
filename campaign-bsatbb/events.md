@@ -207,6 +207,7 @@
       - Avatar of Pelor revivifies Bitsy and then lays a True Quest on all PCs except for Surfiet who avoided the entire encounter.
         - Black Stag, Illigrim, Landorf, Burley, Cade, Phil, and Tallinn each receive a quest.
         - The characters cannot speak about their quests.
+      - Black Stag falls unconscious after the Avatar state ends. Recovers in one round.
       - The slain nightwalker left a pile of bones, bleached corpses, and a lot of equipment. Also its torn skin.
         - Detect magic revealed no magical auras on the pile.
         - Divination on the Nightwalker pile of loot:
@@ -221,129 +222,77 @@
         - F: Very large water-filled chamber
           - Kuo-toa swimming followed Surfeit back to the vertical shaft
           - Surfeit returned to the cave with the party
-        - G: Unexplored passageway upward
+        - G: 45 degree climb with tight squeezes, 70 foot climb.
+      - Surfeit explores and finds a passage to a room with fungi and what looks like a Myconid.
+      - Store up all bones, corpses, and equipment in the Amazing Chest
+      - Black Stag heals Surfeit
+    - Travel to Mushroom Room
+      - Runa is armed with bow, arrows, chainmail, boots, and gloves.
+      - Escape artist 20 to get through first narrow portion of underwater tunnel
+        - Landorf: Rounds of trying: 1, 2, 3
+        - Burley: Rounds of trying: 1, 2
+      - Line of force to make the make the hole easier to get through (DC 10 now)
+      - Room is damp
+      - Climbing the shaft:
+        - DC 15 escape artist check at two points
+        - DC 10 climb checks for the passage
+        - 70 feet climb
+      - Order: Surfeit, Landorf, Burley, Runa, Phil, Stag
+      - Ceiling is 25 feet down
+      - Hold rope in place
+      - Landorf climbs down rope, along with everyone else; Phil falls and takes 9 damage
+      - Spores released
+      - Distress spores released by guard
+      - Everyone saves against the guard's pacification spores
+      - Redcap mushrooms
+        - DC 14 Fortitude save or be poisoned: 1d4 Con damage
+      - Six myconid guards walk into the room
+        - Have darkvision (even if not listed in MM2 entry)
+      - BS approaches
+        - to 30 feet
+        - the rest are 120 feet away
+        - "That won't work on me, friend. We're trying to find our way back."
+        - _Speak with Plants_ to communicate with the myconids
+          - Myconids: "Leave us in peace, we mean you no harm."
+            - "We worship the Sovereign." As Phil surmises, this is the big central mushroom.
+            - Make deal to take the bones as fertilizer
+            - Indicate that they have never seen the sun
+            - The "frog people" leave them alone, but eat people like Black Stag.
+            - There are many caves connected with tunnels.
+          - Black Stag left them a circle with the sun symbol in it, which they recognize as a symbol of Pelor. Pray to Pelor that he does not come and kill them all.
+        - Bring the bones to add to the soil
+          - Workers come to bury bones
+          - Lantern archons ferry bones
+          - Phil prayers over the burial
+        - The Myconids bring their garbage for Black Stag:
+          - pouch with 280 cp, 56 sp, 33 gp
+          - brass mug with jade inlays
+          - gold and topaz bottle stopper cork
+          - ivory statuette
+          - ceremonial electrum dagger with a star ruby in the pommel
+          - climber's kit
+          - simple lock
+          - masterwork full plate armor, medium size
+          - fine leather gloves (Faint transmutation)
+            - Phil tries them on, touches a rock, notices the extra grip, and tries climbing the wall. Determines that they are gloves of climbing.
+            - Gloves of Swimming and Climbing
+        - Hole up in the room for the night.
+          - Seal up the underwater tunnel.
+          - Keep the bearskin door closed.
+          - Stay silent as dire rats and a were-rat travel by.
+          - Don't notice Drow scouts pass by.
+    - Burley plans on Prying Eyes
+    - Runa tells Black Stag about her favored enemies and more.
+    - Phil is told about the Mercane and realizes what the party is talking about.
 
+- Myconid Colony
+  -
 
-
-Channeled Avatar of Pelor Abilities:
-
-- Doubles in height
-  - +2 size bonus to Strength
-  - -2 size penalty to Dexterity (to a minimum of 1)
-  - -1 penalty on attack rolls and AC due to its increased size
-  - Reach increases by 5 feet.
-- Health/CON is fully restored and radiates an aura of sunlight.
-- Armor becomes radiant
-  - Shining as _Daylight_.
-  - SR equal to 15 + HD.
-  - Immune to ability damage, ability drain, and energy drain.
-- Weapons growing larger and glowing with holy light.
-  - Larger damage die.
-  - Weapons become +6 ghost-touch weapons that overcome DR that requires magic, alignment, or metal/material.
-- Can bless allies as a standard action, granting the following benefits for 1 minute:
-  - The allies' weapons glow with holy light. (Ghost-touch and overcome DR that requires magic, alignment, or metal/material).
-  - Allied casters gain +4 to caster level for purposes of overcoming spell resistance against evil or undead creatures.
-  - Allies gain +2 morale bonus on attack rolls, weapon damage rolls, +4 saves against fear effects, and turning checks.
-
-- Revivify: As a full-round action, the avatar can touch a creature that has been dead for no longer than 3 rounds. The touched creature is restored to life with 1 hit point, constitution is restored to 1, and negative levels are reduced to 1 less than the maximum. This ability can be used once per day, removes any poison or disease that could kill the creature, and cancels any transformation into an undead creature.
-- Flare: Shine as natural daylight w/i 60 ft. for 3 rounds as a standard action. Creatures within 30 ft. are dazzled (Will DC 18 negates).
-- Temporary: The Avatar state can only last a short period of time and is limited by the charisma of the host. The host may remain a Channeled Avatar of Pelor for a number of rounds equal to the host's Charisma score (11 for Black Stag). After this time, the host reverts to normal and falls unconscious. The unconsciousness can only end on its own with a chance each round of doing so (d20 + CHA vs. number of rounds in avatar state; nat 20 is auto-success).
-- True Quest (Su): In exchange for the divine power provided by the Avatar, the Avatar places a quest on each intelligent creature that it assisted. The quest cannot be refused or removed, but generally operates as per the Geas/Quest spell, no save, taking a free action to apply.
-  - Each quest involves an ongoing behavior to perform or avoid _until_ a specific deed has been accomplished, such as "do not eat any meat until you have built a temple to Pelor in the village of Frostholm" or "do not speak until you have delivered a message to the high priest of Pelor in the city of Brindinford."
-  - The specific deed must be something that furthers the goals of Pelor, such as spreading sunlight and healing, or combating those things that he opposes, such as the undead and darkness.
-  - The quests may be tailored to the recipient with the intent of helping them grow as individuals and better serve Pelor or at least shun evil and become a more self-sacrificing person.
-  - Example ongoing behaviors::
-    - Feed anyone who asks for food.
-    - Never refuse a request for healing.
-    - Speak only the truth.
-    - Donate half of all you acquire to the poor.
-    - Do not strike any living being until they have struck you.
-    - Eat no meat.
-    - Quaff no strong drinks.
-    - Assist any who ask with tears on their cheeks.
-    - Do not step across a threshold.
-    - Give away all you possess to those in need.
-    - Never take a life.
-    - Never speak until spoken to.
-    - Never wear shoes.
-    - Never refuse a request for guidance.
-    - Never sit when others stand.
-    - Freely share your books with any who care to read them.
-  - Example specific deeds:
-    - Build a temple to Pelor in a city that has none.
-    - Bring the light of Pelor to Erelhei-Cinlu.
-    - Redeem a dark elf.
-    - Destroy a powerful undead creature.
-    - Free seven captives unjustly held.
-    - Cure a sick child from a serious disease.
-    - Restore sight to a blind person.
-    - Eliminate unnatural darkness from a region.
-    - Feed 500 people in Pelor's name.
-    - Spend a day in the blessed fields of Elysium and drink from the river Oceanus.
-    - Complete a task requested by a high priest of Pelor.
-  - Illigrim, Were-Rat Elven Rogue, CG
-    - Sins:
-      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
-      - Killed gnoll and fire giant, unprovoked, simply for guarding prisoners. Rationale was that they were part of an oppressive, evil organization.
-    - Paid tribute to undead vampire Duergar in order to ensure safe passage through his territory. This is against Pelor's wishes, but was necessary to save the villagers.
-    - Proud that he avoided combatting the Fire Giants, which is better than the slaughter that might have occurred.
-    - QUEST:
-      - You shall not slay any rational life unless you have first offered it a chance to surrender.
-      - until you build a shelter for orphans in Pelor's name.
-  - Black Stag, Orc Ranger/Fighter/Rogue, CG
-    - Sins:
-      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
-      - Gave the signal to attack fire giant Herald of Snurre, because he could see she was calling for backup when threatened by the party.
-      - Hunted down and killed a fire giant scout who was running away.
-    - Transformed willingly into a Channeled Avatar of Pelor to defeat the Nightwalkers and their wraiths, saving the party and villagers from certain death.
-    - Is on a mission to spread the light of Pelor and convert shunned races to follow Pelor's path.
-    - Credits Pelor with saving him and his party from a roper.
-    - QUEST:
-      - You shall aid any who ask with tears on their cheeks.
-      - until you bring the light of Pelor to Erelhei-Cinlu.
-  - Landorf, Human Fighter, LN
-    - Sins:
-      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
-    - Primarily follows the lead of the rest of the party, going along with their actions. Does not clearly have a code or reason for his nature being Lawful Neutral.
-    - QUEST:
-      - You shall speak in defense of any living creatures who cannot defend themselves.
-      - until you feed 1,000 people in Pelor's name.
-  - "Burley" Darkburle Blue, Elven Sorcerer, CN
-    - Sins:
-      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
-    - QUEST:
-      - You shall feed from your own supply anyone who asks for food.
-      - until you have built a temple to Pelor in a city without one.
-  - Surfeit, Amethyst Dragon, TN
-    - Sins:
-      - Burned down the Hill Giant hall, including all rational creatures inside, including giantesses, giantlings, and thralls.
-      - Has eaten rational creatures:
-        - White dragon
-        - Hell hound
-        - Fire giant
-      - Animalistic behavior when having an elevated nature.
-    - Is destined to transcend again to a unified form that appears in his human monk form but retains the powers of his amethyst dragon nature.
-    - QUEST:
-      - ~You shall eat no meat~
-      - ~until you have freed seven unjustly held captives, each of a different race.~
-  - Cade, Gnome Wizard, CE
-    - Sins:
-      - Unspecified, but includes cannibalism.
-    - Wishes for personal enrichment and power. Mostly aids Black Stag because it is fun and helps him get what he wants, but also because he has a soft spot for Black Stag and wants to help him.
-    - QUEST:
-      - You shall freely share your books with any who care to read them.
-      - until you spend a day in the blessed fields of Elysium.
-      - And you shall speak only the truth.
-      - until you bathe in the river Oceanus.
-  - Phileum Collins, Human Cleric/Celestial Mystic, LG
-    - Traveling the planes. In search of true goodness.
-    - Attempted to redeem Yakkak, the gnoll pack leader.
-    - QUEST:
-      - You shall restore sight to the blind wherever you go.
-      - until you redeem a dark elf.
-  - Tallinn, Human Druid, NG
-    - Attempting to protect the people and beasts of his northern world.
-    - Hopes to free the prisoners held by the fire giants.
-    - QUEST:
-      - You shall quaff no strong drinks.
-      - until you illuminate a place of unnatural darkness.
+Runa:
+- Bow of the Winter Moon (bs)
+- Arrows (bs)
+- Chainmail (nwloot)
+- Boots (nwloot)
+- Gauntlets (nwloot)
+- Warhammer (nwloot)
+-
