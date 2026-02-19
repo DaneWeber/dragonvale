@@ -138,8 +138,9 @@ DRUID SPELLS
 | Core    | Rusting Grasp:               | Your touch corrodes iron and alloys.                           |
 | Core    | Scrying:                     | Spies on subject from a distance.                              |
 | ❄️ Frost | Conjure Ice Beast IV:        | Conjures ice creature to fight for you.                        |
+| 🔮 SC    | Enhanced Wild Shape:         |                                                                |
 | ❎       | ~~Summon Nature’s Ally IV:~~ | for Conjure Ice Beast IV                                       |
-| ⁉️       | ~~Spike Stones:~~            | "Exalted Wild Shape" is a feat, not a spell                    |
+| ⁉️       | ~~Spike Stones:~~            | for Enhanced Wild Shape                                        |
 
 5TH-LEVEL DRUID SPELLS [3/day]
 
