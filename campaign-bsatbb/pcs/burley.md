@@ -61,7 +61,7 @@ Sorcerer spells
 | Core   | Black Tentacles:       |                   |
 | Core   | Invisibility, Greater: |                   |
 | Core   | Rainbow Pattern:       |                   |
-|        | lvl 13                 |                   |
+| Core   | Polymorph              |                   |
 
 5-LEVEL SORCERER SPELLS [7/day]
 
@@ -69,14 +69,14 @@ Sorcerer spells
 | ------ | ------------ | ----------------- |
 | Core   | Prying Eyes: |                   |
 | Core   | Teleport:    |                   |
-|        | lvl 13       |                   |
+| Core   | Cone of Cold |                   |
 
 6-LEVEL SORCERER SPELLS [5/day]
 
 | Source | Spell Name    | Brief Description |
 | ------ | ------------- | ----------------- |
 | Core   | Disintegrate: |                   |
-|        | lvl 13        |                   |
+| Core   | Shadow Walk   |                   |
 
 
 ## Misc
