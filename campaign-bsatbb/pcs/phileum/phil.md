@@ -76,9 +76,9 @@ Tuning forks:
 | Core   | Sanctuary:                           | Opponents can’t attack you, and you can’t attack.                                             |
 | Core   | Shield of Faith:                     | Aura grants +2 or higher deflection bonus.                                                    |
 | Core   | Summon Monster I:                    | Calls extraplanar creature to fight for you.                                                  |
-| 🪽 BoED | Vision of Heaven (Celestial):        | (Celestial Mystic) Evil creature is dazed for 1 round.                                        |
-| 🪽 BoED | Lantern Light (Abstinence):          | (Celestial Mystic) Ranged touch attacks deal 1d6 points of damage.                            |
 | 🔮 SC   | Blessed Aim:                         | +2 bonus for allies’ ranged attacks.                                                          |
+| 🪽 BoED | Lantern Light (Abstinence):          | (Celestial Mystic) Ranged touch attacks deal 1d6 points of damage.                            |
+| 🪽 BoED | Vision of Heaven (Celestial):        | (Celestial Mystic) Evil creature is dazed for 1 round.                                        |
 | ⁉️      |                                      | for Blessed Aim (if correct)                                                                  |
 
 ### 2nd-Level Cleric Spells
@@ -220,8 +220,8 @@ Tuning forks:
 | Core   | True Seeing M:               | Lets you see all things as they really are.                                                              |
 | Core   | Unhallow M:                  | Designates location as unholy.                                                                           |
 | Core   | Wall of Stone:               | Creates a stone wall that can be shaped.                                                                 |
-| 🪽 BoED | Sacred Guardian (Celestial): | (Celestial Mystic) You know status of subject and can teleport or scry without error.                    |
 | 🪽 BoED | Crown of Flame (Archon):     | (Celestial Mystic) Aura burns evil outsiders, undead, and fey for 2d6 points of damage/round.            |
+| 🪽 BoED | Sacred Guardian (Celestial): | (Celestial Mystic) You know status of subject and can teleport or scry without error.                    |
 | 🪽 BoED | Warding Gems:                | Creates gems that store healing energy, encircle the target, and release their healing power on command. |
 | ❎      | ~~Mark of Justice:~~         | for Warding Gems                                                                                         |
 
@@ -287,9 +287,9 @@ Tuning forks:
 | Core   | Symbol of Stunning M:           | Triggered rune stuns nearby creatures.                                                                                                           |
 | Core   | Symbol of Weakness M:           | Triggered rune weakens nearby creatures.                                                                                                         |
 | Core   | Word of Chaos:                  | Kills, confuses, stuns, or deafens nonchaotic subjects.                                                                                          |
+| 🪽 BoED | Bastion of Good (Abstinence):   | (Celestial Mystic) Acts as _minor globe of invulnerability_ and double-strength _magic circle against evil_.                                     |
 | 🪽 BoED | Heaven's Trumpet (Archon):      | (Celestial Mystic) Blast of music paralyzes foes.                                                                                                |
 | 🪽 BoED | Shield of the Archons (Archon): | (Celestial Mystic) Protective shield dissipates targeted magical attacks and grants +4 bonus on saving throws against magical areas and effects. |
-| 🪽 BoED | Bastion of Good (Abstinence):   | (Celestial Mystic) Acts as _minor globe of invulnerability_ and double-strength _magic circle against evil_.                                     |
 
 ### 8th-Level Cleric Spells
 
@@ -313,8 +313,8 @@ Tuning forks:
 | Core   | Symbol of Death M:             | Triggered rune slays nearby creatures.                                      |
 | Core   | Symbol of Insanity M:          | Triggered rune renders nearby creatures insane.                             |
 | Core   | Unholy Aura F:                 | +4 to AC, +4 resistance, and SR 25 against good spells.                     |
-| 🪽 BoED | Last Judgement (Celestial):    | (Celestial Mystic) Evil creatures are struck dead and sent to Lower Planes. |
 | 🪽 BoED | Axiomatic Creature (Archon):   | (Celestial Mystic) Transforms creature into an axiomatic creature.          |
+| 🪽 BoED | Last Judgement (Celestial):    | (Celestial Mystic) Evil creatures are struck dead and sent to Lower Planes. |
 
 ### 9th-Level Cleric Spells
 
