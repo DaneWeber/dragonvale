@@ -83,7 +83,7 @@ DRUID SPELLS
 | ❄️ Frost | Conjure Ice Beast II:       | Conjures ice creature to fight for you.                                  |
 | ❄️ Frost | Conjure Ice Object:         | Conjures an object made of ice.                                          |
 | 🔮 SC    | Snake’s Swiftness, Mass:    | Allies each immediately make one attack.                                 |
-| 🔮 SC    | Winter's Embrace:           |                                                                          |
+| 🔮 SC    | Winter's Embrace:           | Creature takes 1d8 cold damage/round and might become exhausted.         |
 | ❎       | ~~Fire Trap~~               | for Conjure Ice Object                                                   |
 | ❎       | ~~Flame Blade~~             | for Snake's Swiftness, Mass                                              |
 | ❎       | ~~Flaming Sphere~~          | for Winter's Embrace                                                     |
@@ -114,9 +114,9 @@ DRUID SPELLS
 | Core    | Water Breathing:              | Subjects can breathe underwater.                                                      |
 | Core    | Wind Wall:                    | Deflects arrows, smaller creatures, and gases.                                        |
 | ❄️ Frost | Conjure Ice Beast III:        | Conjures ice creature to fight for you.                                               |
-| 🔮 SC    | Resist Energy, Mass:          |                                                                                       |
+| 🔮 SC    | Resist Energy, Mass:          | Creatures ignore damage from specified energy type.                                   |
 | ❎       | ~~Summon Nature’s Ally III:~~ | for Conjure Ice Beast III                                                             |
-| ❎       | Meld into Stone:              | for Resist Energy, Mass                                                               |
+| ❎       | ~~Meld into Stone:~~          | for Resist Energy, Mass                                                               |
 
 4TH-LEVEL DRUID SPELLS [3/day]
 
@@ -138,9 +138,9 @@ DRUID SPELLS
 | Core    | Rusting Grasp:               | Your touch corrodes iron and alloys.                           |
 | Core    | Scrying:                     | Spies on subject from a distance.                              |
 | ❄️ Frost | Conjure Ice Beast IV:        | Conjures ice creature to fight for you.                        |
-| 🔮 SC    | Enhanced Wild Shape:         |                                                                |
+| 🔮 SC    | Enhanced Wild Shape:         | Your wild shape ability gains a bonus.                         |
 | ❎       | ~~Summon Nature’s Ally IV:~~ | for Conjure Ice Beast IV                                       |
-| ⁉️       | ~~Spike Stones:~~            | for Enhanced Wild Shape                                        |
+| ❎       | ~~Spike Stones:~~            | for Enhanced Wild Shape                                        |
 
 5TH-LEVEL DRUID SPELLS [3/day]
 
@@ -175,27 +175,27 @@ DRUID SPELLS
 
 6TH-LEVEL DRUID SPELLS [2/day]
 
-| Source  | Spell Name                   | Brief Description                                     |
-| ------- | ---------------------------- | ----------------------------------------------------- |
-| Core    | Antilife Shell:              | 10-ft.-radius field hedges out living creatures.      |
-| Core    | Bear’s Endurance, Mass:      | As bear’s endurance, affects one subject/ level.      |
-| Core    | Bull’s Strength, Mass:       | As bull’s strength, affects one subject/level.        |
-| Core    | Cat’s Grace, Mass:           | As cat’s grace, affects one subject/level.            |
-| Core    | Cure Light Wounds, Mass:     | Cures 1d8 damage +1/level for many creatures.         |
-| Core    | Dispel Magic, Greater:       | As dispel magic, but +20 on check.                    |
-| Core    | Find the Path:               | Shows most direct way to a location.                  |
-| Core    | Ironwood:                    | Magic wood is strong as steel.                        |
-| Core    | Liveoak:                     | Oak becomes treant guardian.                          |
-| Core    | Owl’s Wisdom, Mass:          | As owl’s wisdom, affects one subject/level.           |
-| Core    | Repel Wood:                  | Pushes away wooden objects.                           |
-| Core    | Spellstaff:                  | Stores one spell in wooden quarterstaff.              |
-| Core    | Transport via Plants         |                                                       |
-| Core    | Wall of Stone                |                                                       |
-| ❄️ Frost | Conjure Ice Beast VI:        | Conjures ice creature to fight for you.               |
-| ❄️ Frost | Entomb:                      | Captures subjects in blocks of ice, suffocating them. |
-| ❄️ Frost | Snow Wave:                   |                                                       |
-| 🔮 SC    | Vigorous Circle:             |                                                       |
-| ❎       | ~~Fire Seeds~~               | for Entomb                                            |
-| ❎       | ~~Move Earth~~               | for Snow Wave                                         |
-| ❎       | ~~Stone Tell:~~              | for Vigorous Circle                                   |
-| ❎       | ~~Summon Nature’s Ally VI:~~ | for Conjure Ice Beast                                 |
+| Source  | Spell Name                   | Brief Description                                                         |
+| ------- | ---------------------------- | ------------------------------------------------------------------------- |
+| Core    | Antilife Shell:              | 10-ft.-radius field hedges out living creatures.                          |
+| Core    | Bear’s Endurance, Mass:      | As bear’s endurance, affects one subject/ level.                          |
+| Core    | Bull’s Strength, Mass:       | As bull’s strength, affects one subject/level.                            |
+| Core    | Cat’s Grace, Mass:           | As cat’s grace, affects one subject/level.                                |
+| Core    | Cure Light Wounds, Mass:     | Cures 1d8 damage +1/level for many creatures.                             |
+| Core    | Dispel Magic, Greater:       | As dispel magic, but +20 on check.                                        |
+| Core    | Find the Path:               | Shows most direct way to a location.                                      |
+| Core    | Ironwood:                    | Magic wood is strong as steel.                                            |
+| Core    | Liveoak:                     | Oak becomes treant guardian.                                              |
+| Core    | Owl’s Wisdom, Mass:          | As owl’s wisdom, affects one subject/level.                               |
+| Core    | Repel Wood:                  | Pushes away wooden objects.                                               |
+| Core    | Spellstaff:                  | Stores one spell in wooden quarterstaff.                                  |
+| Core    | Transport via Plants         | Move instantly from one plant to another of the same kind.                |
+| Core    | Wall of Stone                | Creates a stone wall that can be shaped.                                  |
+| ❄️ Frost | Conjure Ice Beast VI:        | Conjures ice creature to fight for you.                                   |
+| ❄️ Frost | Entomb:                      | Captures subjects in blocks of ice, suffocating them.                     |
+| ❄️ Frost | Snow Wave:                   | Knocks creatures prone and deals 4d6 crushing damage and 1d6 cold damage. |
+| 🔮 SC    | Vigorous Circle:             | As mass lesser vigor, but 3 hp/round (max 40 rounds).                     |
+| ❎       | ~~Fire Seeds~~               | for Entomb                                                                |
+| ❎       | ~~Move Earth~~               | for Snow Wave                                                             |
+| ❎       | ~~Stone Tell:~~              | for Vigorous Circle                                                       |
+| ❎       | ~~Summon Nature’s Ally VI:~~ | for Conjure Ice Beast                                                     |
