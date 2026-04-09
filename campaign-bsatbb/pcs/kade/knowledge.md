@@ -39,14 +39,14 @@ Lead sheeting or magical protection blocks a scrying spell, and you sense that t
 ### Spell: Scrying
 
 - Divination (Scrying)
-- Level: 	Brd 3, Clr 5, Drd 4, Sor/Wiz 4
-- Components: 	V, S, M/DF, F
-- Casting Time: 	1 hour
-- Range: 	See text
-- Effect: 	Magical sensor
-- Duration: 	1 min./level
-- Saving Throw: 	Will negates
-- Spell Resistance: 	Yes
+- Level:  Brd 3, Clr 5, Drd 4, Sor/Wiz 4
+- Components:  V, S, M/DF, F
+- Casting Time:  1 hour
+- Range:  See text
+- Effect:  Magical sensor
+- Duration:  1 min./level
+- Saving Throw:  Will negates
+- Spell Resistance:  Yes
 
 You can see and hear some creature, which may be at any distance. If the subject succeeds on a Will save, the scrying attempt simply fails. The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save.
 
@@ -78,3 +78,13 @@ Wizard, Sorcerer, or Bard Focus: A mirror of finely wrought and highly polished 
 Cleric Focus: A holy water font costing not less than 100 gp.
 
 Druid Focus: A natural pool of water.
+
+### Spell: Scrying, Greater
+
+- Divination (Scrying)
+- Level: Brd 6, Clr 7, Drd 7, Sor/Wiz 7
+- Components: V, S
+- Casting Time: 1 standard action
+- Duration: 1 hour/level
+
+This spell functions like scrying, except as noted above. Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues.
