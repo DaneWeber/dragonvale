@@ -1,17 +1,5 @@
 # Kade's Knowledge
 
-- knowledge-arcana: 13
-- knowledge-arch-eng: 6
-- knowledge-dungeoneering: 15
-- knowledge-geography: 6
-- knowledge-history: 13
-- knowledge-local: 6
-- knowledge-nature: 6
-- knowledge-nobility: 6
-- knowledge-religion: 6
-- knowledge-planes: 20
-- spellcraft: 22
-
 ## Ulthirmbor
 
 - Dwarves generally are Lawful aligned. Their officials will likely have many rules they must follow and enforce.
@@ -24,7 +12,8 @@
   - Gifts from merchants/traders to the king/other officials would likely be seen as an attempted bribe. Gifts from nobility, however, are seen as part of diplomacy, signs of respect and goodwill, and require reciprocity from the king.
   - The king is certainly wealthy enough to afford masterwork plate armor and likely magical weapons, so an impressive gift should be more valuable than that, either through direct value, historical significance, or rarity.
   - A gift with particular significance or meaning should be presented in person to accentuate that. The magical dwarven battle axe the party intends to present has distinctive decorative patterns and could have history to it.
-
+- Emissaries should have a message they are delivering. A sealed letter from their liege (Lady Eriana in this case) would be a common way to do so, but some messages are delivered from memory. In any case, there should be a reason that Lady Eriana would send a costly diplomatic mission.
+  - Common reasons for a noble to make new contact with a distant kingdom include: an alliance (either long-term or against a common foe), securing trade routes, valuable information/intelligence, begging for help, or extending influence such as through invitations to special events.
 
 ## Scrying
 
