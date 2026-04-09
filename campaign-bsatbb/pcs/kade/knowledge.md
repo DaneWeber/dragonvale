@@ -14,13 +14,16 @@
 
 ## Ulthirmbor
 
-- Does not currently have a relationship with Brindinford. Related: Brindinford is the capital of Schwyz, one of the 13 cantons of the Hallstadt Confederacy, which together claim all of the Dragonvale. While Lady Eriana is related to the late Baron Euphemes II, she became the new "Lord Protector" of Brindinford after his death because she was the Baron's viscount, an appointed position. Hallstadt cantons each have their own unique laws and structures, but they all support a process by which a Lord Protector can be replaced through a decision by the local nobility/judiciary/elders. This is relevant because
-- Is north of the Boiling Rift where the sea splits the continent. Brindinford and the Dragonvale are south of the Boiling Rift.
-- Dwarves generally are Lawful aligned.
-- Gifts from merchants/traders to the king/other officials would be seen as an attempted bribe. Gifts from nobility, however, are seen as part of diplomacy, signs of respect and goodwill, and require reciprocity from the king.
-- The king is certainly wealthy enough to afford masterwork plate armor and likely magical weapons, so an impressive gift should be more valuable than that, either through direct value, historical significance, or rarity.
-- The King of Ulthirmbor is Grumdar Hammerfist, part of a line of dwarven kings that has ruled for centuries.
--
+- Dwarves generally are Lawful aligned. Their officials will likely have many rules they must follow and enforce.
+- For Lawful dwarven rulers, being historical enemies with a group is distinct from declaring war.
+- The kings of Ulthirmbor form a line of dwarven kings that has ruled for centuries.
+- Ulthirmbor is north of the Boiling Rift where the sea splits the continent. Brindinford and the Dragonvale are south of the Boiling Rift. Overland travel between the two is not easy.
+- Brindinford does not currently have a relationship with Ulthirmbor.
+  - Related: Brindinford is the capital of Schwyz, one of the 13 cantons of the Hallstadt Confederacy, which together claim all of the Dragonvale. While Lady Eriana is related to the late Baron Euphemes II, she became the new "Lord Protector" of Brindinford after his death because she was the Baron's viscount, an appointed position. Hallstadt cantons each have their own unique laws and structures, but they all support a process by which a Lord Protector can be replaced through a decision by the local nobility/judiciary/elders. This is relevant because Lady Eriana is not a heriditary noble as you or the dwarves might expect.
+- Tribute
+  - Gifts from merchants/traders to the king/other officials would likely be seen as an attempted bribe. Gifts from nobility, however, are seen as part of diplomacy, signs of respect and goodwill, and require reciprocity from the king.
+  - The king is certainly wealthy enough to afford masterwork plate armor and likely magical weapons, so an impressive gift should be more valuable than that, either through direct value, historical significance, or rarity.
+  - A gift with particular significance or meaning should be presented in person to accentuate that. The magical dwarven battle axe the party intends to present has distinctive decorative patterns and could have history to it.
 
 
 ## Scrying
