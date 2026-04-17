@@ -27,6 +27,34 @@ Tuning forks:
 - Plane of Fire
 - [Unidentified]
 
+## Backstory
+
+Here's the backstory I've thought up for Phil's stay in Mechanus:
+
+The first Plane that Phil traveled to after meeting Bitsy was Bytopia.  This was an amazing experience and he probably had adventures there that I haven't thought up yet, but something nagged at Phil while he was there: his preaching wasn't at all respected.  Phil was still fairly self-important at that stage, and he believed in his calling as a cleric of Pelor . . . yet none of the residents of Bytopia were impressed by his homilies.
+
+Until, one day, a trade representative from Mechanus (visiting to secure a shipment of magical wood that is very useful for the mechanisms of certain structures) happened to hear one of Phil's sermons and was genuinely captivated by it.  He approached Phil and urged him to visit Mechanus and preach there, even obtaining for him the planar key to Mechanus.  Phil, flattered at the invitation, did not take long in accepting.
+
+At that time, the best that could be said of Phil's preaching was that it was unoffensive.  It was bland, predictable, and delivered in a metronomic sing-song that put most people to sleep.  It eschewed all hard-edged doctrine and mostly extolled the virtue of living humbly within one's divinely instituted class and state of life. 
+
+Boring for humans . . . but *all* of this was like gold on Mechanus.  A hundred almost identical homilies a year repeating the message of "be a good cog in the class system"?  Yes, please.
+
+They ate it up; and for a period, Phil was *the* fashionable preacher to upper class modrons on several connected disks.  Phil lived very well in quarters the modron aristocrats gave him.  He was loving life: he was popular and valued, and his life had a clockwork regularity to it that he took to very naturally.  His time on Bytopia had piqued his curiosity for the universe, but his naturally staid character was being lulled back to sleep by the soothing regularity of life as an important personage in Mechanus.
+
+Things changed when Bitsy started wandering off and showing up in small settlements nearby.  This is a problem in Mechanus, and Phil received a severe warning to keep her contained.  When she wandered off again, he tracked her down himself so as not to get the authorities involved.  He found her in a village next to a group of monodrones (common laborers) who were engaged in an unusual and illicit activity: a party with music and dancing.
+
+A group of low class monodrones with a shared love for music had been meeting in secret for months to escape the notice of their overlords.  Their activities, seemingly harmless, was completely forbidden to their state in life.  The fact that they wrote their own music and choreographed their own dances was criminal.
+
+Phil got along well with them.  He didn't realize at first how subversive their actions would be considered by society.  He spent the evening with them in conversation, and learned how they were hoping to change society to make more creativity allowed for modrons who felt a desire for it.  Phil was unaware of how much trouble he was courting.
+
+Not long afterwards, a smaller group of these non-conforming monodrones (they were calling themselves "polydrons" now) was caught and put on trial.  Phil spoke out on their behalf, extolling the virtues of innocent music and dancing.  To his surprise, he was sharply rebuked, and told that if he continued to advocate for the non-conformists, he too would be subject to punishment by the law.
+
+This constituted Phil's first real moral challenge.  He had to decide between fame with a life of ease and supporting the innocent against the powerful, and he had to decide whether he agreed with the polydrons that excessive lawfulness and order could be detrimental to the actual good.
+
+He decided that he did agree with the polydrons, and he wanted to help them.  At first he just visited them in secret and gave them encouragement.  Then he started using his mobile position in society to bring messages to and from isolated groups of polydrons.  Finally, he broke silence and publicly began advocating for societal change.
+
+This swiftly got him into trouble.  He was brought before the court, sentenced to public humiliation, all his assets were seized, and he was expelled and banished from Mechanus to Gehenna.  This started the hardest chapter of his life, in which he was struggling to survive, close to death almost every day.
+
 ## Spell List
 
 ### 0-Level Cleric Spells (Orisons)
