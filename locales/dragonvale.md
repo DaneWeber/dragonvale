@@ -37,3 +37,15 @@ The weather in the valley is famed for invariably cycling through the seasons wi
 
 The valley contains a few other famed geological treasures. Healthful hot springs can be found in several places, but especially near the King's Retreat. Dwarves carve blocks of perfect ice to float down the river via halfling watermen from the Frozen Peak that sits near Waterside. Even though the valley is heavily wooded, it includes Ashardalon's Plain which is a desert of fine gray sand. While hardly a treasure itself, valuable gems have been found beneath the flat sand. Another dubious treasure is the Swampwood. While dangerous and uninviting, it contributes greatly to the diversity of precious herbs
 available in the valley.
+
+## Races
+
+One of the confederation's main pacts is that kobolds, orcs, gnolls, ogres, and trolls may not be tolerated within the borders of Hallstadt and they must either leave the valley directly with an escort or suffer death.
+
+Orcs are very prevalent in the Hordelands to the south (along with giants and barbarians).
+
+Goblins are a legendary plague. Goblins must be killed on sight as a duty of all able-bodied residents. There is some distant continent that is supposedly swarming with goblins, but none have been seen in these parts recently.
+
+Other monstrous folk and outright monsters are the purview of Lord Protectors and their prerogative to admit or forbid.
+
+Giants are a problem every so often, but are generally treated diplomatically.
