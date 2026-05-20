@@ -1,0 +1,16 @@
+# Excel/Spreadsheets
+*.xlsx binary
+*.xls binary
+*.ods binary
+
+# PDFs
+*.pdf binary
+
+# Rich Text Format
+*.rtf text
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
