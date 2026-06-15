@@ -1,5 +1,7 @@
 # Chronology of Events for Black Stag and the Beefy Boys
 
+Lords started in Imperial year 1357, at least 30 years after BSatBB. So this is the Imperial Year 1325, starting on 1325.6.13.
+
 | Day | Date        | Divine    | Named      | Imperial | Events                                       | Log                                                                                                                                                                                                                                   |
 | --- | ----------- | --------- | ---------- | -------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 164 | Solantrical | Oliday    | Festiveday | 6.13     | Oliday, the 13th of the 6th moon of the Year |                                                                                                                                                                                                                                       |
