@@ -48,11 +48,12 @@ DRUID SPELLS
 | Core    | Magic Stone:                | Three stones gain +1 on attack rolls, deal 1d6+1 damage.                   |
 | Core    | Obscuring Mist:             | Fog surrounds you.                                                         |
 | Core    | Pass without Trace:         | One subject/level leaves no tracks.                                        |
-| Core    | Produce Flame:              | 1d6 damage +1/level, touch or thrown.                                      |
 | Core    | Shillelagh:                 | Cudgel or quarterstaff becomes +1 weapon (1d10 damage) for 1 min./level.   |
 | Core    | Speak with Animals:         | You can communicate with animals.                                          |
+| 🔮 SC    | Cold Fire:                  | Fire deals cold damage instead of fire damage.                             |
 | ❄️ Frost | Conjure Ice Beast I:        | Conjures ice creature to fight for you.                                    |
 | ❎       | ~~Summon Nature’s Ally I:~~ | for Conjure Ice Beast I                                                    |
+| ❎       | ~~Produce Flame:~~          | for Cold Fire                                                              |
 
 2ND-LEVEL DRUID SPELLS [4/day]
 
