@@ -5,6 +5,11 @@
 - [ ] Level 12 feat
 - [ ] Finalize languages known
 
+## Spell Slots
+
+| Level   | 0   | 1   | 2   | 3   | 4   | 5   | 6   |
+| ------- | --- | --- | --- | --- | --- | --- | --- |
+| Per Day | 4   | 6   | 5   | 5   | 4   | 4   | 2   |
 
 ## Spell List
 
