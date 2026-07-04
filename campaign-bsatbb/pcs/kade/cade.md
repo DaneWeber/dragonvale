@@ -3,9 +3,6 @@
 ## To Do
 
 - [ ] Level 12 feat
-- [ ] Two additional spells
-  - Sound Lance lvl
-  - Dismissal
 - [ ] Finalize languages known
 
 
@@ -83,6 +80,7 @@
 | 3     | Non-detection            |
 | 3     | Protection vs. Energy    |
 | 3     | Rage                     |
+| 3     | Sound Lance              |
 | 4     | Black Tentacles          |
 | 4     | Dimension Door           |
 | 4     | Enervation               |
@@ -96,6 +94,7 @@
 | 5     | Cone of Cold             |
 | 5     | Feeble Mind              |
 | 5     | Hold Monster             |
+| 5     | Lucent Lance             |
 | 5     | Sending                  |
 | 5     | Summon Monster V         |
 | 5     | Teleport                 |
