@@ -81,6 +81,7 @@
 | 3     | Protection vs. Energy    |
 | 3     | Rage                     |
 | 3     | Sound Lance              |
+| 4     | Assay Spell Resistance   |
 | 4     | Black Tentacles          |
 | 4     | Dimension Door           |
 | 4     | Enervation               |
