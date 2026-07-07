@@ -2,7 +2,7 @@
 
 **Class:** Wizard
 
-**Spells:** 88
+**Spells:** 91
 
 ---
 
@@ -72,6 +72,21 @@ _See invisibility, true seeing_, a _gem of seeing_, or a _robe of eyes_ likewise
 If an _arcane mark_ is placed on a living being, normal wear gradually causes the effect to fade in about a month.
 
 _Arcane mark_ must be cast on an object prior to casting _instant summons_ on the same object (see that spell description for details).
+
+---
+
+## Assay Spell Resistance
+
+- **School:** Divination
+- **Level:** Cleric 4, Sorcerer 4, Wizard 4
+- **Source:** Spell Compendium (SC) Spells
+- **Components:** V, S
+- **Casting Time:** 1 swift action
+- **Range:** Personal
+- **Target:** You
+- **Duration:** 1 round/level
+
+This spell gives you a +10 bonus on caster level checks to overcome the spell resistance of a specific creature. Assay resistance is effective against only one specific creature per casting, and you must be able to see the creature when you cast the spell.
 
 ---
 
@@ -1068,6 +1083,27 @@ The _lightning bolt_ sets fire to combustibles and damages objects in its path. 
 
 ---
 
+## Lucent Lance
+
+- **School:** Transmutation [Light]
+- **Level:** Sorcerer 5, Wizard 5, Cleric 6
+- **Source:** Spell Compendium (SC) Spells
+- **Components:** V, S, AF
+- **Casting Time:** 1 standard action
+- **Range:** Close (25 ft. + 5 ft./2 levels)
+- **Effect:** Ray
+- **Duration:** Instantaneous
+- **Saving Throw:** None
+- **Spell Resistance:** Yes; see text
+
+You must succeed on a ranged touch attack with the ray to strike a target. A creature struck is blinded for 1 round, and dazzled for 1 round per caster level. A creature sensitive to bright light (such as a drow, duergar, or kuo-toa) takes penalties as if it had been exposed to full daylight for 1 round if struck by the beam, even if it resists the spell's other effects.
+
+In addition to this dazzling effect, lucent lance deals damage based on the level of light available within your square. In bright light, it deals 1d6 points of damage per caster level (maximum 15d6). In shadowy illumination, it deals 1d4 points of damage per caster level (maximum 15d4). If no light is present in your square, the spell cannot be cast at all.
+
+- **Focus:** A clear glass or crystal rod.
+
+---
+
 ## Mage Armor
 
 - **School:** Conjuration (Creation) [Force]
@@ -1655,6 +1691,23 @@ However, unlike normal fog, only a severe wind (31+ mph) disperses these vapors,
 _Solid fog_ can be made permanent with a _permanency_ spell. A permanent _solid fog_ dispersed by wind reforms in 10 minutes.
 
 - **Material Component:** A pinch of dried, powdered peas combined with powdered animal hoof.
+
+---
+
+## Sound Lance
+
+- **School:** Evocation [Sonic]
+- **Level:** Cleric 3, Sorcerer 3, Wizard 3
+- **Source:** Spell Compendium (SC) Spells
+- **Components:** V, S
+- **Casting Time:** 1 action
+- **Range:** Medium (100 ft. + 10 ft./level)
+- **Target:** One creature or object
+- **Duration:** Instantaneous
+- **Saving Throw:** Fortitude half
+- **Spell Resistance:** Yes
+
+Sound lance causes a projectile of intense sonic energy sound to leap unerringly from you to a target within range. The sound does 1d6 points of sonic damage per caster level, to a maximum of 10d6. The sound lance strikes unerringly, unless the target has total cover or total concealment. A sound lance cannot penetrate the area of a silence spell.
 
 ---
 
