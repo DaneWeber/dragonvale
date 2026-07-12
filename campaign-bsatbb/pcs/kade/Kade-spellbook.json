@@ -1,5 +1,5 @@
 {
-  "id": "sb-1771473539885-2q7wr40op",
+  "id": "sb-1772754033833-5on0n8wpw",
   "name": "Kade",
   "characterClass": "Wizard",
   "selectedSpells": [
@@ -90,8 +90,11 @@
     "dispel-magic-greater",
     "legend-lore",
     "suggestion-mass",
-    "shadow-walk"
+    "shadow-walk",
+    "lucent-lance",
+    "assay-spell-resistance",
+    "sound-lance"
   ],
-  "createdAt": "2026-02-19T03:58:59.885Z",
-  "updatedAt": "2026-02-19T04:08:53.781Z"
+  "createdAt": "2026-03-05T23:40:33.834Z",
+  "updatedAt": "2026-07-07T01:12:04.812Z"
 }
