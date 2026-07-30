@@ -1,4 +1,4 @@
-# Kade
+# Cade
 
 **Class:** Wizard
 
