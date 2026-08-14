@@ -73,7 +73,7 @@ Mechanically, the mooncalf is as updated for 3.5e. I'm just reflavoring a bit to
 
 ### 3. Dragon, We Hardly Knew Ye
 
-Dragon corpse is not food. It is being used for experimentation.
+Dragon corpse is not food. It is being used for experimentation. The head and rear legs have been surgically removed.
 
 ### 4. Bottom of the Hole
 
@@ -85,6 +85,10 @@ Dragon corpse is not food. It is being used for experimentation.
 
 ### 8. Pantry
 
+There is no Yesha Faulkin here, or she is fully dead. More plot information can be learned from the mind flayer.
+
+No review mentions her positively that I could find, and [this review](https://www.enworld.org/threads/heart-of-nightfang-spire.117885/) mentions her being an unfun role-playing encounter that slowed play and revealed the whole plot.
+
 ### 9. Hidden Recess
 
 ### 10. Empty
@@ -92,11 +96,33 @@ Dragon corpse is not food. It is being used for experimentation.
 ### 11. Shadow on the Wall
 
 ### 12. Necromantic Seepage
+
+Based on [this review](https://www.enworld.org/threads/heart-of-nightfang-spire.117885/), the necromantic seepage can be destroyed via any sufficiently powerful positive energy magic.
+
+Cleanse a victim:
+- 10 HD of turning
+- 30 hp of curative magic (such as cure critical wounds)
+- Remove Disease as though the seepage has SR 20
+
+Dissipate the entire pool:
+- 13 HD of turning
+- 50 hp of curative magic (such as heal)
+- Remove Disease as though the seepage has SR 25
+
 ### 13. Mostly Empty
 ### 14. Spiral Stair
 ### 15. Spiral Stair
 ### 16. Hall of Honor
 ### 17. Slip, Sliding Away
+
+[This review](https://www.enworld.org/threads/heart-of-nightfang-spire.117885/) complains about the zero-clue trap, which leads to searching every square for traps. In order to provide a clue:
+
+Each trap has a switch to press in order to deactivate the trap for 1 minute. The switches only require a DC 20 Search check to find, but their function is not clear.
+
+- Level 2, north-east hallway corner: the switch is on the corner (shared with alcove "c" of room 16). This same corner is ornately carved with a twisting dragon from floor to ceiling. A cultist running away or closely followed by an intended victim could grip the carving to step around the corner without using the switch or triggering the trap.
+- Level 2, southern closet: dragon carving on the door indicated this room was reserved for Ashardalon's children. Ashardalon's children knew to press the hidden switches inside the room on either side of the door frame. This room provided a quiet private place for the children as well as a location to take a cultist without witnesses before jettisoning them.
+- Level 3, northern alcove: there is a kneeler here below a carving of Ashardalon on the wall. There is a switch on the floor such that a cultist would bow low to press it before approaching. The kneeler has a matching switch. Trusted cultists could use the kneeler to meditate. Lower level cultists were forbidden. They could be invited to use it in order to eliminate a trouble-maker and then blamed for using a kneeler they were forbidden to use.
+
 ### 18. Memoriam
 ### 19. Minor Altar
 ### 20. Minor Altar
@@ -104,8 +130,14 @@ Dragon corpse is not food. It is being used for experimentation.
 ### 22. Spiral Stair
 ### 23. Spiral Stair
 ### 24. Cleanup Crew
+
+Where the Girallons were, there are now Quaggoths. To ensure the players have a clue, provide Sense Motive checks to notice that the unmuzzled Quaggoths are following the lead of the muzzled Quaggoths, and that all of the enslaved Quaggoths are unstained white. This should give the players reason to think twice when encountering the stained free Quaggoths.
+
 ### 25. Headstones
 ### 26. Tanning Vats
+
+A well-preserved mind-flayer tentacle (Knowledge (Dungeoneering) DC 23 to identify) is in a glass jar on the shelf.
+
 ### 27. Empty Watchfulness
 ### 28. Spiral Stair
 ### 29. Spiral Stair
@@ -120,7 +152,37 @@ Dragon corpse is not food. It is being used for experimentation.
 ### 38. Spiral Stair
 ### 39. Spiral Stair
 ### 40. Columbarium
-### 41. Columbarium
+### 41. ~~Columbarium~~ Mind Flayer prisoner
+
+A psionic mind flayer is imprisoned in this out of the way room. This mind flayer is bound with [Psionic Restraints (average)](https://www.d20srd.org/srd/psionic/items/universalItems.htm#psionicRestraints), except the iron cuff clasps around the illithid's neck. This restraint limits the mind flayer to 3 power points per round, preventing it from teleporting away or using its more powerful abilities. DC 27 open lock to remove the restraint.
+
+The mind flayer is also bound to the wall via chain and amazing locks (DC 40 open lock) attached to masterwork manacles on the mind flayer's feet.
+
+Gulthias and the undead are unaffected by the mind flayer's mind blast and mind-affecting abilities.
+
+For reference, the psionic mind flayer has the following psionic abilities:
+
+- Power points: 90
+- Psion (telepath): 9
+- 3 power points or less:
+  - 1st Level (DC 15): defensive precognition, detect psionics, mind thrust, psionic charm, vigor
+  - 2nd Level (DC 16): body equilibrium, ego whip, id insinuation, psionic levitate, psionic suggestion
+- More than 3 power points (prevented via restraint):
+  - 3rd Level (DC 17): body adjustment, dispel psionics, mental barrier
+  - 4th Level (DC 18): intellect fortress, psionic dimension door, psionic dominate
+  - 5th Level (DC 19): mind probe, psionic plane shift
+
+This mind flayer is missing two of its tentacles which were removed by Gulthias to create the Mooncalf and other experiments. It wishes to be freed and will listen for passersby who might be contacted telepathically. It cannot detect minds and must have a target to begin telepathic communication. If it can gain line of effect, it will use charm and suggestion to attempt to be freed.
+
+This mind flayer is ancient, with its life extended tremendously by the elixir from room 69, the Fountain of the Devoted. It was left in stasis the entire time Gulthias was staked.
+
+- This mind flayer was the source of the secrets that Gulthias learned in order to travel to the Domains of Dread via the Shadow Plane.
+- Gulthias wished to extend his own life and find a way to return Ashardalon to life/unlife.
+- Gulthias returned from the Shadow Plane with secrets he shared with no one.
+- Ashardalon's shade exists in the Shadow Plane, tied to this tower somehow.
+- Gulthias has succeeded in harnessing more power over undead and the creation of new beings.
+
+
 ### 42. Watched Columbarium
 ### 43. Tidying Up
 ### 44. Neat and Tidy
@@ -132,6 +194,9 @@ Dragon corpse is not food. It is being used for experimentation.
 ### 50. Rest in Peace
 ### 51. Looted Crypt
 ### 52. ~~Girallon~~ Quaggoth Watchers
+
+The free Quaggoths do no include any servitor masks, and they include a majority of the stained-fur "magic-following" Quaggoths.
+
 ### 53. Will Fight For Food
 ### 54. ~~Girallon~~ Quaggoth Band
 ### 55. Thiff the Smart
