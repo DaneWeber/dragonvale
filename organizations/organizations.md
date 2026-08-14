@@ -1,6 +1,8 @@
 # Dragonvale Organizations
 
-## Adventurer's Guild
+## Sons of Birsen
+
+The Sons of Birsen are an Adventurer's Guild that cares for orphans.
 
 The Adventurer's Guild is the only official guild within Hallstadt. All orphanages in the Dragonvale are operated by the guild. The guild also operates guild halls in most of the cities of Hallstadt. These halls operate as hiring agencies for mercenary work, training centers for martial arts, and storage rooms for rent. The halls often provide a sort of museum section as well.
 
