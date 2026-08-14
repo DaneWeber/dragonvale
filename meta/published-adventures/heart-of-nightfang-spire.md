@@ -130,9 +130,9 @@ Dragon corpse is not food. It is being used for experimentation.
 ### 54. ~~Girallon~~ Quaggoth Band
 ### 55. Thiff the Smart
 
-TODO: use terms for Thonoth and stats for psychic warrior for Thiff and correct term for Quaggoth leader, a Jald.
+TODO: use terms for Thonot and stats for psychic warrior for Thiff and correct term for Quaggoth leader, a Jald.
 
-TODO: Look at 2e material for Thonoth:
+TODO: Look at 2e material for Thonot:
 
 https://pathfinder2e.org/dnd2e/monsters.php?monster=quaggoth
 
@@ -205,7 +205,7 @@ Quaggoth (Raging):
   Senses: darkvision 120 ft., scent; Listen +3, Spot +2
   Languages: Undercommon
   AC: 13, touch 8, flat-footed 13 (+5 natural, –2 rage)
-  hp: 34 (4 HD); Diehard
+  hp: 34 (4d8 HD); Diehard
   Immune: fear, poison
   Saves: Fort +5, Ref +4, Will +7
   Weakness: light sensitivity
@@ -215,7 +215,7 @@ Quaggoth (Raging):
   Reach: 5 ft.
   Base Atk: +4
   Grp: +10
-  Atk Options: Power Attack, rage 1/day (7 rounds)
+  Atk Options: Power Attack, quaggoth rage 1/day (7 rounds)
   Abilities: Str 22, Dex 11, Con 19, Int 7, Wis 12, Cha 10
   Feats: DiehardB, Improved Initiative, Power Attack
   Skills: Climb +14, Listen +3, Spot +2
@@ -233,14 +233,13 @@ Skills Quaggoths have a +8 racial bonus on Climb checks. A quaggoth can always c
 When not raging, a quaggoth has the following changed statistics:
 
 ```yaml
-AC 15, touch 10, flat-footed 15
-hp 26 (4 HD)
-Fort +3, Will +5
-Melee 2 claws +8 each (1d4+4) and
-bite +3 (1d6+2)
-Grp +8
-Abilities Str 18, Con 15
-Skills Climb +12, Hide +1*, Search +0, Survival +2
+AC: 15, touch 10, flat-footed 15
+hp: 26 (4d8 HD)
+Saves: Fort +3, Will +5
+Melee: 2 claws +8 each (1d4+4) and bite +3 (1d6+2)
+Grp: +8
+Abilities: Str 18, Con 15
+Skills: Climb +12, Hide +1*, Search +0, Survival +2
 ```
 
 #### Greater Quaggoth (Raging)
@@ -253,7 +252,7 @@ Greater Quaggoth (Raging):
   Senses: darkvision 120 ft., scent; Listen +7, Spot +6
   Languages: Undercommon
   AC: 15, touch 8, flat-footed 15; uncanny dodge (+2 armor, +5 natural, –2 rage)
-  hp: 86 (7 HD); Diehard
+  hp: 86 (7 HD = 4d8 + 3d12); Diehard
   Immune: fear, poison
   Saves: Fort +10, Ref +5, Will +9
   Weakness: light sensitivity
@@ -263,7 +262,7 @@ Greater Quaggoth (Raging):
   Reach: 5 ft.
   Base Atk: +7
   Grp: +16
-  Atk Options: Cleave, Power Attack, rage 2/day (9 rounds)
+  Atk Options: Cleave, Power Attack, quaggoth rage 1/day, barbarian rage 2/day (9 rounds)
   Combat Gear: elixir of hiding, elixir of sneaking, potion of bull’s strength, potion of cure serious wounds
   Abilities: Str 28, Dex 10, Con 23, Int 10, Wis 15, Cha 8
   SQ: trap sense +1
@@ -299,16 +298,18 @@ Quaggoth War Leader (Raging):
   Languages: Undercommon
   AC: 20, touch 8, flat-footed 20; improved uncanny dodge
   (+6 armor, +6 natural, –2 rage)
-  hp: 138 (10 HD); Diehard; DR 1/—
+  hp: 138 (11 HD); Diehard; DR 1/—
   Immune: fear, poison
   Fort: +13, Ref +6, Will +10
   Weakness: light sensitivity
   Speed: 40 ft. (8 squares), climb 30 ft.
   Melee: +1 keen elf bane greataxe +21/+16/+11 (1d12+14/19–20/×3) or
   Melee: +1 keen elf bane greataxe +23/+18/+13 (1d12+16/19–20/×3 plus 2d6) against elves and bite +15 (1d6+4)
-  Space: 5 ft.; Reach: 5 ft.
-  Base Atk: +11; Grp: +20
-  Atk Options: Cleave, Great Cleave, Power Attack, rage 3/day (10 rounds)
+  Space: 5 ft.
+  Reach: 5 ft.
+  Base Atk: +11
+  Grp: +20
+  Atk Options: Cleave, Great Cleave, Power Attack, quaggoth rage 1/day, barbarian rage 2/day (10 rounds)
   Combat Gear: 2 potions of cure serious wounds
   Abilities: Str 28, Dex 10, Con 24, Int 10, Wis 15, Cha 8
   SQ: trap sense +2
@@ -332,5 +333,33 @@ Melee: +1 keen elf bane greataxe +21/+16/+11 (1d12+13/19–20/×3 plus 2d6) agai
 Grp: +18
 Abilities: Str 24, Con 20
 Skills: Climb +15, Hide +0 (+4 in shadows), Intimidate +9, Jump +17, Search +2, Survival +9
+```
+
+#### Thonot (Quaggoth Shaman) - Quaggoth Psychic Warrior
+
+Dane's 3.5e conversion.
+
+```yaml
+Quaggoth Thonot (Psychic Warrior):
+  CR: 10
+  Type: Female quaggoth psychic warrior 8 NE Medium monstrous humanoid
+  Init: +4
+  Senses: darkvision 120 ft., scent; Listen +3, Spot +2
+  Languages: Undercommon
+  AC: 15, touch 10, flat-footed 15 (+5 natural, –2 rage)
+  hp: 26 (4d8 HD); Diehard
+  Immune: fear, poison
+  Saves: Fort +3, Ref +4, Will +5
+  Weakness: light sensitivity
+  Speed: 30 ft. (6 squares), climb 30 ft.
+  Melee: 2 claws +8 each (1d4+4) and bite +3 (1d6+2)
+  Space: 5 ft.
+  Reach: 5 ft.
+  Base Atk: +4
+  Grp: +8
+  Atk Options: Power Attack, quaggoth rage 1/day (7 rounds)
+  Abilities: Str 18, Dex 11, Con 15, Int 7, Wis 12, Cha 10
+  Feats: DiehardB, Improved Initiative, Power Attack
+  Skills: Climb +12, Hide +1*, Listen +3, Search +0, Spot +2, Survival +2
 ```
 
