@@ -346,22 +346,25 @@ Quaggoth Thonot (Psychic Warrior):
   Init: +4
   Senses: darkvision 120 ft., scent; Listen +3, Spot +2
   Languages: Undercommon
-  AC: 15, touch 10, flat-footed 15 (+5 natural, –2 rage)
-  hp: 26 (4d8 HD); Diehard
+  AC: 15, touch 10, flat-footed 15 (+5 natural)
+  hp: 130 (12d8 HD); Diehard # 6 * 12 = 72; 8! + 11 * 4.5 = 49.5; 72 + 8 + 49.5 = 129.5, round up to 130
   Immune: fear, poison
-  Saves: Fort +3, Ref +4, Will +5
+  Saves: Fort +13, Ref +6, Will +10
   Weakness: light sensitivity
   Speed: 30 ft. (6 squares), climb 30 ft.
-  Melee: 2 claws +8 each (1d4+4) and bite +3 (1d6+2)
+  Melee: 2 claws +17 each (1d4+7) and bite +12 (1d6+3)
   Space: 5 ft.
   Reach: 5 ft.
-  Base Atk: +4
-  Grp: +8
-  Atk Options: Power Attack, quaggoth rage 1/day (7 rounds)
+  Base Atk: +10
+  Grp: +14
+  Atk Options: Power Attack, quaggoth rage 1/day (11 rounds)
   Abilities: Str 24, Dex 10, Con 22, Int 10, Wis 18, Cha 10
   Feats: Diehard, Improved Initiative, Power Attack, L6, L9, PW1, PW2, PW5, PW8
   Skills: Climb +12, Hide +1*, Listen +3, Search +0, Spot +2, Survival +2
 ```
+
+Q Saves: Fort +1, Ref +4, Will +4
+PW Saves: Fort +6, Ref +2, Will +2
 
 Quaggoth Base Abilities: Str 22, Dex 11, Con 19, Int 7, Wis 12, Cha 10
 Quaggoth Diff: Str +12, Dex 0, Con +8, Int -4, Wis +2, Cha 0
