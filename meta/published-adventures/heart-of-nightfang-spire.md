@@ -358,8 +358,11 @@ Quaggoth Thonot (Psychic Warrior):
   Base Atk: +4
   Grp: +8
   Atk Options: Power Attack, quaggoth rage 1/day (7 rounds)
-  Abilities: Str 18, Dex 11, Con 15, Int 7, Wis 12, Cha 10
-  Feats: DiehardB, Improved Initiative, Power Attack
+  Abilities: Str 24, Dex 10, Con 22, Int 10, Wis 18, Cha 10
+  Feats: Diehard, Improved Initiative, Power Attack, L6, L9, PW1, PW2, PW5, PW8
   Skills: Climb +12, Hide +1*, Listen +3, Search +0, Spot +2, Survival +2
 ```
 
+Quaggoth Base Abilities: Str 22, Dex 11, Con 19, Int 7, Wis 12, Cha 10
+Quaggoth Diff: Str +12, Dex 0, Con +8, Int -4, Wis +2, Cha 0
+Elite for Psychic Warrior: Str 12+12, Dex 10+0, Con 13+8+1, Int 14-4, Wis 15+2+1, Cha 8+0
