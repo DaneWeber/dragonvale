@@ -337,7 +337,7 @@ Skills: Climb +15, Hide +0 (+4 in shadows), Intimidate +9, Jump +17, Search +2, 
 
 #### Thonot (Quaggoth Shaman) - Quaggoth Psychic Warrior
 
-Dane's 3.5e conversion.
+Dane's 3.5e conversion of Thonot, the quaggoth shaman.
 
 I chose powers known to accomplish the following:
   - Heal other quaggoths via empathic transfer, body adjustment, and body purification.
@@ -353,7 +353,7 @@ Quaggoth Thonot (Psychic Warrior):
   Senses: darkvision 120 ft., scent; Listen +6, Spot +5
   Languages: Undercommon
   AC: 15, touch 10, flat-footed 15 (+5 natural)
-  hp: 130 (12d8 HD); Diehard # 6 * 12 = 72; 8! + 11 * 4.5 = 49.5; 72 + 8 + 49.5 = 129.5, round up to 130
+  hp: 130 (12d8 HD); Diehard
   Immune: fear, poison
   Saves: Fort +13, Ref +6, Will +10
   Weakness: light sensitivity
@@ -373,19 +373,3 @@ Quaggoth Thonot (Psychic Warrior):
   Feats: Diehard, Improved Initiative, Power Attack, Unavoidable Strike, Cleave, Ghost Attack, Psionic Fist, Greater Psionic Fist, Psionic Meditation
   Skills: Autohypnosis +12, Climb +15, Concentration +14, Hide +4*, Listen +6, Search +2, Spot +5, Survival +5
 ```
-
-Q Saves: Fort +1, Ref +4, Will +4
-PW Saves: Fort +6, Ref +2, Will +2
-
-Q Skills: 2 + - 2 (Int) = 1 * HD = 4
-Q Skills: Climb (+8), Hide +1*, Listen +1, Search +2, Spot +0, Survival +0
-Thonot has INT +0 for twice as many skill points (8):
-TQ Skills: Climb (+8), Hide +4*, Listen +2, Search +2, Spot +1, Survival +1
-PW skill points: (2 + 0) * 8 = 16 skill points
-PW Skills: Autohypnosis +8, Concentration +8
-Total Skill Ranks/Racial: Autohypnosis +8, Climb (+8), Concentration +8, Hide +4*, Listen +2, Search +2, Spot +1, Survival +1
-Total Skill Bonus: Autohypnosis +12, Climb +15, Concentration +14, Hide +4*, Listen +6, Search +2, Spot +5, Survival +5
-
-Quaggoth Base Abilities: Str 22, Dex 11, Con 19, Int 7, Wis 12, Cha 10
-Quaggoth Diff: Str +12, Dex 0, Con +8, Int -4, Wis +2, Cha 0
-Elite for Psychic Warrior: Str 12+12, Dex 10+0, Con 13+8+1, Int 14-4, Wis 15+2+1, Cha 8+0
