@@ -344,7 +344,7 @@ Quaggoth Thonot (Psychic Warrior):
   CR: 10
   Type: Female quaggoth psychic warrior 8 NE Medium monstrous humanoid
   Init: +4
-  Senses: darkvision 120 ft., scent; Listen +3, Spot +2
+  Senses: darkvision 120 ft., scent; Listen +6, Spot +5
   Languages: Undercommon
   AC: 15, touch 10, flat-footed 15 (+5 natural)
   hp: 130 (12d8 HD); Diehard # 6 * 12 = 72; 8! + 11 * 4.5 = 49.5; 72 + 8 + 49.5 = 129.5, round up to 130
@@ -360,11 +360,20 @@ Quaggoth Thonot (Psychic Warrior):
   Atk Options: Power Attack, quaggoth rage 1/day (11 rounds)
   Abilities: Str 24, Dex 10, Con 22, Int 10, Wis 18, Cha 10
   Feats: Diehard, Improved Initiative, Power Attack, L6, L9, PW1, PW2, PW5, PW8
-  Skills: Climb +12, Hide +1*, Listen +3, Search +0, Spot +2, Survival +2
+  Skills: Autohypnosis +12, Climb +15, Concentration +14, Hide +4*, Listen +6, Search +2, Spot +5, Survival +5
 ```
 
 Q Saves: Fort +1, Ref +4, Will +4
 PW Saves: Fort +6, Ref +2, Will +2
+
+Q Skills: 2 + - 2 (Int) = 1 * HD = 4
+Q Skills: Climb (+8), Hide +1*, Listen +1, Search +2, Spot +0, Survival +0
+Thonot has INT +0 for twice as many skill points (8):
+TQ Skills: Climb (+8), Hide +4*, Listen +2, Search +2, Spot +1, Survival +1
+PW skill points: (2 + 0) * 8 = 16 skill points
+PW Skills: Autohypnosis +8, Concentration +8
+Total Skill Ranks/Racial: Autohypnosis +8, Climb (+8), Concentration +8, Hide +4*, Listen +2, Search +2, Spot +1, Survival +1
+Total Skill Bonus: Autohypnosis +12, Climb +15, Concentration +14, Hide +4*, Listen +6, Search +2, Spot +5, Survival +5
 
 Quaggoth Base Abilities: Str 22, Dex 11, Con 19, Int 7, Wis 12, Cha 10
 Quaggoth Diff: Str +12, Dex 0, Con +8, Int -4, Wis +2, Cha 0
