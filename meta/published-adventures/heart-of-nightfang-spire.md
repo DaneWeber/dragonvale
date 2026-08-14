@@ -65,6 +65,12 @@ While the ossuary is not detailed, 1000 years ago it was used by the cult and in
 
 ### 2. Top-Down View
 
+The legend of the mooncalf originates with miscarriages and stillbirths. On that note, this mooncalf is the result of an experiment by Gulthias to create a new body for Ashardalon. Among other things, this attempt was tainted by using a mind-flayer tentacle for the brain, which was surprisingly effective but created something far from dragonlike.
+
+The mooncalf does indeed have giant bat wings and tentacles. Its distorted body also has ineffective clawed bear-like limbs, the jaws of a crocodile, and the tail of a snake. The tail is split in two, both of which are 30-foot-long prehensile tentacles. Patches of dragonscale cover the body, but look like they were stretched apart.
+
+Mechanically, the mooncalf is as updated for 3.5e. I'm just reflavoring a bit to tie into Gulthias' scheme. See below for the 3.5e stats.
+
 ### 3. Dragon, We Hardly Knew Ye
 
 Dragon corpse is not food. It is being used for experimentation.
@@ -190,6 +196,55 @@ Anything placed on the altar is affected by Teleport Object and sent to area 68,
 ### 77. Where the Heart Is
 
 ## Creature Stats (3.5e)
+
+### Mooncalf
+
+3.5e conversion already available from: https://www.realmshelps.net/monsters/block/Mooncalf, albeit missing the bit about sundering tentacles and a miscalculated grapple bonus.
+
+```yaml
+Type: Large Magical Beast
+Alignment: Always neutral evil
+Initiative: +7 (+3 Dex, +4 Improved Initiative)
+Senses: blindsight 100 ft., keen senses, Listen +25, and Spot +25
+Languages: telepathy 100 ft.
+AC: 25 (-1 size, +3 Dex, +13 natural), touch 12, flat-footed 22
+Hit Dice: 15d10+108 (190 hp)
+DR: 10/magic
+Saves: Fort +16, Ref +14, Will +12
+Speed: 40 ft., fly 150 ft. (poor)
+Space: 10 ft./10 ft. (30 ft. with tentacle rake)
+Base Attack: +15
+Grapple: +23
+Attack: 2 tentacle rakes +18 melee and 6 tentacle-arms +13 melee
+Full Attack: 2 tentacle rakes +18 melee and 6 tentacle-arms +13 melee
+Damage: Tentacle rake 2d6+4/19-20, tentacle-arm 1d6+2
+Special Attacks/Actions: Bite 2d8+6, improved grab, spell-like abilities
+Abilities: Str 18, Dex 16, Con 24, Int 21, Wis 21, Cha 11
+Special Qualities:
+Feats: Alertness; Blind-fight; Combat Expertise; Improved Critical (tentacle rake); Improved Initiative; Improved Trip; Iron Will; Lightning Reflexes; Toughness
+Skills: Concentration +25, Hide +17, Knowledge (arcana) +23, Knowledge (history) +23, Listen +25, Spellcraft +25, and Spot +25
+Advancement: 19-27 HD (Huge); 28-60 HD (Colossal)
+Climate/Terrain: Any hill or mountain
+Organization: Solitary
+Treasure/Possessions: Double standard
+Source: Monster Manual II
+```
+
+**Bite (Ex):** With each successful grapple check, a mooncalf automatically hits a grabbed opponent with its bite attack, dealing 2d8+6 points of slashing damage.
+
+**Improved Grab (Ex):** If a mooncalf hits an opponent that is its own size or smaller with a tentacle rake attack, it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity (grapple bonus +23). If it gets a hold, it automatically hits with its bite attack on the same round. Thereafter, the mooncalf has the option to conduct the grapple normally, or simply use its tentacle to hold the opponent (-20 penalty on grapple check, but the mooncalf is not considered grappled). In either case, each successful grapple check it makes during successive rounds automatically deals tentacle rake and bite damage.
+
+**Spell-Like Abilities:** 1/day - call lightning, control weather, control winds, dominate animal, greater magic fang, protection from elements, quench, resist elements. Caster level 9th; save DC 10 + spell level.
+
+**Blindsight (Ex):** A mooncalf can ascertain its surroundings by non-visual means mostly hearing and scent, but also by noticing vibration and other environmental clues. This ability enables it to discern objects and creatures within 100 feet. The mooncalf usually does not need to make Spot or Listen checks to notice creatures within range of its blindsight.
+
+**Keen Senses (Ex):** A mooncalf sees four times as well a human in low-light conditions and twice as well in normal light. It also has darkvision (100- foot range).
+
+Mooncalves prefer to fly high above their targets, striking at foes from a distance with their spell-like abilities. In melee, they may grab and crush opponents with their tentacles, or drag foes into their slavering beaks, or command the elements to electrocute an enemy.
+
+From the [official 3.5e update booklet](https://archive.org/details/dnd_3.5_update_booklet/page/n33/mode/2up?q=mooncalf):
+
+Add the following text to the Combat section: An opponent can attack a mooncalf's tentacles as if they were weapons — see Sunder, in Chapter 8 of the Player's Handbook. A mooncalf's tentacles have 20 hit points. If the mooncalf is currently grappling a target with that tentacle, it usually uses another limb to make its attack of opportunity against the sunder attempt. Severing a mooncalf's tentacles deals damage to the creature equal to half the limb's hit points. A mooncalf regrows severed limbs in 1d10+10 days.
 
 ### Quaggoth
 
@@ -372,4 +427,8 @@ Quaggoth Thonot (Psychic Warrior):
   Abilities: Str 24, Dex 10, Con 22, Int 10, Wis 18, Cha 10
   Feats: Diehard, Improved Initiative, Power Attack, Unavoidable Strike, Cleave, Ghost Attack, Psionic Fist, Greater Psionic Fist, Psionic Meditation
   Skills: Autohypnosis +12, Climb +15, Concentration +14, Hide +4*, Listen +6, Search +2, Spot +5, Survival +5
+  Possessions:
 ```
+
+TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items based on the adventure. Remove all possessions from the Greater Quaggoth. Thiff's treasure includes three potions of Cure Serious Wounds, a wand of sleep (22c), a +1 icy burst battleaxe, and a +2 keen kukri.
+
