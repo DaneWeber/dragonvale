@@ -339,6 +339,12 @@ Skills: Climb +15, Hide +0 (+4 in shadows), Intimidate +9, Jump +17, Search +2, 
 
 Dane's 3.5e conversion.
 
+I chose powers known to accomplish the following:
+  - Heal other quaggoths via empathic transfer, body adjustment, and body purification.
+  - Detect hostile intent to avoid ambushes.
+  - Get to difficult locations and scout via catfall, chameleon, and metaphysical claw.
+  - Fend off spooky enemies via metaphysical claw and the ghost attack feat.
+
 ```yaml
 Quaggoth Thonot (Psychic Warrior):
   CR: 10
@@ -357,9 +363,14 @@ Quaggoth Thonot (Psychic Warrior):
   Reach: 5 ft.
   Base Atk: +10
   Grp: +14
-  Atk Options: Power Attack, quaggoth rage 1/day (11 rounds)
+  Atk Options: Cleave, Power Attack, quaggoth rage 1/day (11 rounds), psionics, greater psionic fist +4d6, ghost attack, unavoidable strike, meditate as move action
+  Power Points: 35
+  Powers Known:
+    1: Catfall, Chameleon, Metaphysical Claw 
+    2: Body Adjustment, Body Purification, Detect Hostile Intent, Empathic Transfer
+    3: Ectoplasmic Form
   Abilities: Str 24, Dex 10, Con 22, Int 10, Wis 18, Cha 10
-  Feats: Diehard, Improved Initiative, Power Attack, L6, L9, PW1, PW2, PW5, PW8
+  Feats: Diehard, Improved Initiative, Power Attack, Unavoidable Strike, Cleave, Ghost Attack, Psionic Fist, Greater Psionic Fist, Psionic Meditation
   Skills: Autohypnosis +12, Climb +15, Concentration +14, Hide +4*, Listen +6, Search +2, Spot +5, Survival +5
 ```
 
