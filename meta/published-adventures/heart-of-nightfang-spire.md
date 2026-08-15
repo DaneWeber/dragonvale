@@ -364,6 +364,8 @@ Skills: Climb +12, Hide +1*, Search +0, Survival +2
 
 #### Greater Quaggoth (Raging)
 
+Standard Quaggoth in this adventure. Minimum max HP of 49 when raging.
+
 ```yaml
 Greater Quaggoth (Raging):
   CR: 6
@@ -497,3 +499,134 @@ Quaggoth Thonot (Psychic Warrior):
 
 TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items based on the adventure. Remove all possessions from the Greater Quaggoth. Thiff's treasure includes three potions of Cure Serious Wounds, a wand of sleep (22c), a +1 icy burst battleaxe, and a +2 keen kukri.
 
+## Creature Index
+
+| Area | Creature/Hazard                             | HP  | Status                                    |
+| ---- | ------------------------------------------- | --- | ----------------------------------------- |
+| 1    | Trap: Blightvine Music                      |     |                                           |
+| 2    | Mooncalf                                    | 190 |                                           |
+| 3    | Wight A                                     | 26  |                                           |
+| 3    | Wight B                                     | 26  |                                           |
+| 3    | Wight C                                     | 26  |                                           |
+| 6    | Vampire Spawn A                             | 40  |                                           |
+| 6    | Vampire Spawn B                             | 41  |                                           |
+| 6    | Vampire Spawn C                             | 42  |                                           |
+| 7    | Vampire Spawn D                             | 42  |                                           |
+| 7    | Vampire Spawn E                             | 43  |                                           |
+| 7    | Vampire Spawn F                             | 43  |                                           |
+| 9    | Trap: Globe of Cold                         |     |                                           |
+| 11.1 | Shadow Mastiff A                            | 33  |                                           |
+| 11.1 | Shadow squad A (x3-x6)                      | 19  | 3-6 shadows                               |
+| 11.2 | Shadow Mastiff B                            | 33  |                                           |
+| 11.2 | Shadow squad B (x3-x6)                      | 19  | 3-6 shadows                               |
+| 11.3 | Shadow Mastiff C                            | 33  |                                           |
+| 11.3 | Shadow squad C (x3-x6)                      | 19  | 3-6 shadows                               |
+| 12   | Hazard: Necromantic Seepage                 |     |                                           |
+| 16   | Spectre A                                   | 40  |                                           |
+| 16   | Spectre B                                   | 47  |                                           |
+| 16   | Spectre C                                   | 51  |                                           |
+| 16   | Aoket (mummy monk 7)                        | 70  |                                           |
+| 16   | Trap: Flame Jet                             |     |                                           |
+| 16   | Trap: Poison Needle                         |     |                                           |
+| 16   | Trap: Electrified Sarcophagus               |     |                                           |
+| 17.1 | Trap: Razor-lined Chute A                   |     |                                           |
+| 17.2 | Trap: Razor-lined Chute B                   |     |                                           |
+| 17.3 | Trap: Razor-lined Chute C                   |     |                                           |
+| 21   | Trap: Electrified Door                      |     |                                           |
+| 21   | Oggunon Sathaar (gibbering mouther vampire) | 48  |                                           |
+| 24   | Quaggoth A (unstained enslaved)             | 50  |                                           |
+| 24   | Quaggoth B (unstained enslaved)             | 52  |                                           |
+| 24   | Quaggoth C (unstained enslaved)             | 52  |                                           |
+| 24   | Quaggoth D (unstained enslaved)             | 56  |                                           |
+| 24   | Quaggoth E (unstained enslaved)             | 62  |                                           |
+| 24   | Quaggoth Servitor A (unstained)             | 76  |                                           |
+| 25   | Quaggoth F (unstained enslaved)             | 56  |                                           |
+| 25   | Quaggoth G (unstained enslaved)             | 62  |                                           |
+| 26   | Mohrg A                                     | 91  |                                           |
+| 31   | Quaggoth H (unstained enslaved)             | 51  |                                           |
+| 31   | Quaggoth I (unstained enslaved)             | 51  |                                           |
+| 31   | Quaggoth J (unstained enslaved)             | 53  |                                           |
+| 31   | Quaggoth K (unstained enslaved)             | 68  |                                           |
+| 31   | Quaggoth Servitor B (unstained)             | 76  |                                           |
+| 32   | Wight D                                     | 23  |                                           |
+| 32   | Wight E                                     | 24  |                                           |
+| 32   | Wight F                                     | 26  |                                           |
+| 32   | Wight G                                     | 26  |                                           |
+| 32   | Wight H                                     | 28  | fast healing 2                            |
+| 32   | Wight I                                     | 41  |                                           |
+| 34   | Trap: Lightning Blast                       |     |                                           |
+| 34   | Rhunad (vrock demon)                        | 60  |                                           |
+| 36   | Stitches (half-dragon flesh golem)          | 96  |                                           |
+| 37   | Flesh Golem with extra arms A               | 49  | 4 slams                                   |
+| 37   | Flesh Golem with extra arms B               | 55  | 4 slams                                   |
+| 41   | Psionic Mind Flayer                         | 44  | Bound in psionic restraints               |
+| 43   | Zombie squad A (x5)                         | 16  | 5 zombies                                 |
+| 44   | Zombie squad B (x3)                         | 16  | 3 zombies                                 |
+| 44   | Quaggoth L (unstained enslaved)             | 53  |                                           |
+| 44   | Mohrg B                                     | 90  |                                           |
+| 45   | Elder Fire Elemental (Huge)                 | 204 |                                           |
+| 52.1 | Quaggoth M (stained free)                   | 53  |                                           |
+| 52.1 | Quaggoth N (stained free)                   | 53  |                                           |
+| 52.1 | Quaggoth O (unstained free)                 | 53  |                                           |
+| 52.1 | Quaggoth P (unstained free)                 | 55  |                                           |
+| 52.1 | Quaggoth Q (stained free)                   | 55  |                                           |
+| 52.1 | Quaggoth R (stained free)                   | 60  |                                           |
+| 52.2 | Quaggoth S (stained free)                   | 53  |                                           |
+| 52.2 | Quaggoth T (stained free)                   | 53  |                                           |
+| 52.2 | Quaggoth U (unstained free)                 | 53  |                                           |
+| 52.2 | Quaggoth V (unstained free)                 | 55  |                                           |
+| 52.2 | Quaggoth W (stained free)                   | 55  |                                           |
+| 52.2 | Quaggoth X (stained free)                   | 60  |                                           |
+| 52.3 | Quaggoth Y (stained free)                   | 53  |                                           |
+| 52.3 | Quaggoth Z (stained free)                   | 53  |                                           |
+| 52.3 | Quaggoth AA (unstained free)                | 53  |                                           |
+| 52.3 | Quaggoth BB (unstained free)                | 55  |                                           |
+| 52.3 | Quaggoth CC (stained free)                  | 55  |                                           |
+| 52.3 | Quaggoth DD (stained free)                  | 60  |                                           |
+| 53   | Quaggoth EE (stained free)                  | 54  |                                           |
+| 53   | Quaggoth FF (stained free)                  | 54  |                                           |
+| 53   | Quaggoth GG (unstained free)                | 54  |                                           |
+| 53   | Quaggoth HH (unstained free)                | 54  |                                           |
+| 53   | Quaggoth II (unstained free)                | 55  |                                           |
+| 53   | Quaggoth JJ (unstained free)                | 55  |                                           |
+| 53   | Quaggoth KK (stained free)                  | 55  |                                           |
+| 53   | Quaggoth LL (stained free)                  | 60  |                                           |
+| 53   | Quaggoth MM (stained free)                  | 60  |                                           |
+| 54   | Quaggoth NN (unstained free)                | 47  |                                           |
+| 54   | Quaggoth OO (unstained free)                | 47  |                                           |
+| 54   | Quaggoth PP (unstained free)                | 47  |                                           |
+| 54   | Quaggoth QQ (unstained free)                | 47  |                                           |
+| 54   | Quaggoth RR (unstained free)                | 47  |                                           |
+| 54   | Quaggoth SS (stained free)                  | 47  |                                           |
+| 54   | Quaggoth TT (stained free)                  | 47  |                                           |
+| 54   | Quaggoth UU (stained free)                  | 47  |                                           |
+| 54   | Quaggoth VV (stained free)                  | 47  |                                           |
+| 54   | Quaggoth WW (stained free)                  | 47  |                                           |
+| 54   | Quaggoth XX (stained free)                  | 47  |                                           |
+| 54   | Quaggoth YY (stained free)                  | 47  |                                           |
+| 55   | Thiff (Thonot, Quaggoth Psychic Warrior)    | 130 |                                           |
+| 55   | Quaggoth War Leader (Raging)                | 138 |                                           |
+| 57   | Mohrg C                                     | 90  |                                           |
+| 57   | Mohrg D                                     | 90  |                                           |
+| 57   | Mohrg E                                     | 90  |                                           |
+| 57   | Mohrg F                                     | 90  |                                           |
+| 58   | Tombstone Golem                             | 77  | slay living instead of stone golem's slow |
+| 60   | Trap: Globe of Cold                         |     |                                           |
+| 61\* | Trap: Falling Block                         |     | possible trap                             |
+| 61\* | Trap: Poisoned Lid                          |     | possible trap                             |
+| 61\* | Trap: Poison Gas                            |     | possible trap                             |
+| 62   | Trap: Spiked Pit                            |     |                                           |
+| 63   | Trap: Electrified Floor                     |     |                                           |
+| 64   | Spectre A                                   | 45  |                                           |
+| 64   | Spectre B                                   | 45  |                                           |
+| 64   | Spectre C                                   | 45  |                                           |
+| 64   | Spectre D                                   | 45  |                                           |
+| 64   | Spectre E                                   | 45  |                                           |
+| 64   | 100+ zombies                                | 16  |                                           |
+| 64   | 100+ skeletons                              | 6   |                                           |
+| 65   | Trap: Electrified Floor                     |     |                                           |
+| 66   | Mohrg G                                     | 80  |                                           |
+| 66   | Mohrg H                                     | 82  |                                           |
+| 66   | Mohrg I                                     | 85  | necklace of fireballs                     |
+| 66   | Mohrg J                                     | 91  | ring of fire resistance (minor)           |
+| 66   | Mohrg K                                     | 110 |                                           |
