@@ -234,6 +234,13 @@ In addition, there is a basin fed by a rainwater cistern. Very little rain falls
 ### 66. Unquiet Crypt
 ### 67. Cryptportation
 ### 68. Animate Pedestal
+
+Creatures and objects placed on the altar in area 71 are teleported to this room. This is one-way.
+
+This gargoyle is over 1,000 years old\* and was a venerated member of the cult. Because this individual looks like a statue of a dragon, it was treated as one of the "children of Ashardalon" in some ways, but was relied upon as a lieutenant of Gulthias and this room was his to manage incoming offerings. If conversed with, her name is Lithara. She is still loyal and a believing cultist who will not willingly assist the players, especially against Gulthias or the undead.
+
+\* Note that in D&D 3.5e, gargoyles are monstrous humanoids that do not need to eat, sleep, or breathe, but some references indicate that they have human-like lifespans. For this adventure, I am claiming that this gargoyle does not age while frozen as a statue. If that is not the case for all gargoyles in your campaign world, then this benefitted from some of Ashardalon and Gulthias' early experiments with prolonging life, but unfortunately the spell only extends your life while motionless.
+
 ### 69. Fountain of the Devoted
 ### 70. Maintenance
 ### 71. Join the Cult
@@ -259,6 +266,12 @@ Anything placed on the altar is affected by Teleport Object and sent to area 68,
 ### 75. Nadir
 ### 76. Gulthias Revealed
 ### 77. Where the Heart Is
+
+Why does killing Gulthias destroy the heart? He was staked a hundred miles away for hundreds of years. The heart should be Gulthias' weakness.
+
+- Negative energy heals Gulthias faster.
+- The seepage doesn't just affect those who touch it. There should be a slow heartbeat that blasts out seepage or negative energy, but not damage the the books and lab equipment.
+- 
 
 ## Creature Stats (3.5e)
 
@@ -630,3 +643,21 @@ TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items ba
 | 66   | Mohrg I                                     | 85  | necklace of fireballs                     |
 | 66   | Mohrg J                                     | 91  | ring of fire resistance (minor)           |
 | 66   | Mohrg K                                     | 110 |                                           |
+| 68   | Advanced Gargoyle                           | 165 | Lithara                                   |
+| 70   | Mohrg L                                     | 84  |                                           |
+| 70   | Mohrg L                                     | 87  |                                           |
+| 70   | Quaggoth Servitor C                         | 59  |                                           |
+| 70   | Quaggoth Servitor D                         | 61  |                                           |
+| 70   | Quaggoth Servitor E                         | 63  |                                           |
+| 71   | Trap: Altar of Death Trap                   |     | Modified with enchanments on success      |
+| 72   | Night Hag A                                 | 40  | ring of electricity resistance (minor)    |
+| 72   | Night Hag B                                 | 48  | ring of force shield, AC 22               |
+| 72   | Quaggoth Servitor F                         | 60  |                                           |
+| 72   | Quaggoth Servitor G                         | 63  |                                           |
+| 72   | Quaggoth Servitor H                         | 63  |                                           |
+| 72   | Quaggoth Servitor I                         | 65  |                                           |
+| 75   | Redbone, Wight Assassin                     | 85  |                                           |
+| 75   | Vampire Spawn G                             | 42  |                                           |
+| 75   | Vampire Spawn H                             | 44  |                                           |
+| 75   | Vampire Spawn I                             | 44  |                                           |
+| 75   | Gulthias                                    | 126 |                                           |
