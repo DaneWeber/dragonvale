@@ -267,11 +267,22 @@ Anything placed on the altar is affected by Teleport Object and sent to area 68,
 ### 76. Gulthias Revealed
 ### 77. Where the Heart Is
 
-Why does killing Gulthias destroy the heart? He was staked a hundred miles away for hundreds of years. The heart should be Gulthias' weakness.
+Why does killing Gulthias destroy the heart? He was staked a hundred miles away for hundreds of years. The heart should be Gulthias' weakness, almost as if this heart is his true heart.
 
-- Negative energy heals Gulthias faster.
-- The seepage doesn't just affect those who touch it. There should be a slow heartbeat that blasts out seepage or negative energy, but not damage the the books and lab equipment.
-- 
+Destroying the heart, which is also Gulthias' coffin, negates Gulthias' Fast Healing and Gaseous Form abilities. He is likely doomed without the heart.
+
+In 3.5e, _Haste_ no longer grants the ability to cast two spells per round, whereas that was called out in the tactics section as part of Gulthias' tactics: scroll of haste and two attack spells per round of combat.
+
+Making the heart more important to the combat, the heart has these qualities:
+
+1. While Gulthias is within line-of-effect of the heart, the _heart_'s link with Gulthias is active, it acts as a creature instead of an object, and it takes a turn each round, using Gulthais' powers as follows, nearly doubling Gulthias' actions per round:
+  - Share ongoing magical effects, such as stoneskin, protection from elements, and protection from arrows.
+  - Cast spells prepared by Gulthias. Doing so uses up Gulthais' spell slot, etc., but the heart is the caster.
+  - Raise or lower its elevation as a move action, 20 feet per round, as per the _Levitate_ spell.
+  - Make a +13 (equal to Gulthias' HD) ranged touch attack within 30 feet. On hit, the target is affected by the "agitated necromantic seepage," which causes increasing fire damage each round to the on-fire target until it is put out, to a maximum of 10d6 fire damage per round.
+  - As a full-attack action, the heart can make 4 such attacks. Additional hits on the same target advance the on-fire condition by 1 round.
+2. Gulthias can touch the heart to transfer damage from the heart to himself, up to 1d8+13 points of damage per round.
+3. While within 15 feet of the heart, Gulthia's fast healing rate is doubled to 10 hp per round.
 
 ## Creature Stats (3.5e)
 
