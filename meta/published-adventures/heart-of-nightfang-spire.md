@@ -292,26 +292,25 @@ Making the heart more important to the combat, the heart has these qualities:
 
 ### Advanced Gargoyle, Blue Half-Dragon, "Lithara"
 
-TODO: make large
 TODO: add half-dragon template
 
 ```yaml
-Size/Type:	Medium Monstrous Humanoid (Earth)
-Hit Dice:	12d8+48 (102 hp)
+Size/Type:	Large Monstrous Humanoid (Earth)
+Hit Dice:	12d8+72 (126 hp)
 Initiative:	+2
 Speed:	40 ft. (8 squares), fly 60 ft. (average)
-Armor Class:	16 (+2 Dex, +4 natural), touch 12, flat-footed 14
+Armor Class:	16 (+1 Dex, +6 natural, -1 size), touch 10, flat-footed 14
 Base Attack:	+12
-Grapple:	+14
-Attack:	Claw +15 melee (1d4+2)
-Full Attack:	2 claws +15 melee (1d4+2) and bite +13 melee (1d6+1) and gore +13 melee (1d6+1)
-Space/Reach:	5 ft./5 ft.
+Grapple:	+18
+Attack:	Claw +19 melee (1d4+6)
+Full Attack:	2 claws +19 melee (1d6+6) and bite +17 melee (1d8+3) and gore +17 melee (1d8+3)
+Space/Reach:	10 ft./10 ft.
 Attack Options: Power Attack
 Special Attacks:	—
 Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze
-Saves:	Fort +4+4, Ref +2+8, Will +0+8
-Abilities:	Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7
-Skills: (7+8)	Hide +2+2+3+4*, Listen +2+2+4, Spot +2+2
+Saves:	Fort +6+4, Ref +1+8, Will +0+8
+Abilities:	Str 23, Dex 12, Con 22, Int 6, Wis 11, Cha 7
+Skills: (7+8)	Hide +2+1+3+4*, Listen +2+2+4, Spot +2+2
 Feats:	Multiattack, Power Attack, Weapon Focus (claw, bite, gore)
 ```
 
