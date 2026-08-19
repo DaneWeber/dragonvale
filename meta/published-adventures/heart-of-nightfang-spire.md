@@ -241,7 +241,7 @@ This half-dragon gargoyle is over 1,000 years old\* and was a venerated member o
 
 Lithara is the keeper of the dragon key and placed the other three pieces in their various locations, although she checks on them only once every few years.
 
-The advanced gargoyle in the adventure was listed as CR 10. I'm adding the half-dragon template primarily for the blue dragon's electricity immunity to help explain the electricity traps on the dragon key pieces. The new 3.5e CR calculation is probably higher than deserved, but base (4) + advanced by 8 HD (+2.7) + half-dragon (+2) + now large (+1) + elite array (+1) = 11.
+The advanced gargoyle in the adventure was listed as CR 10. I'm adding the half-dragon template primarily for the blue dragon's electricity immunity to help explain the electricity traps on the dragon key pieces. The new 3.5e CR calculation still comes to 10 (base 4 + advanced by 8 HD 2.7 + half-dragon 2 + now large 1), but note that the half-dragon gargoyle has a _much_ higher strength, based on the half-dragon template and the rule for increasing the size of a monster to l.
 
 \* Note that in D&D 3.5e, gargoyles are monstrous humanoids that do not need to eat, sleep, or breathe, but some references indicate that they have human-like lifespans. For this adventure, I am claiming that this gargoyle does not age while frozen as a statue. If that is not the case for all gargoyles in your campaign world, then this benefitted from some of Ashardalon and Gulthias' early experiments with prolonging life, but unfortunately the spell only extends your life while motionless.
 
@@ -292,8 +292,6 @@ Making the heart more important to the combat, the heart has these qualities:
 
 ### Advanced Gargoyle, Blue Half-Dragon, "Lithara"
 
-TODO: add half-dragon template
-
 ```yaml
 Size/Type:	Large Dragon (Earth)
 Alignment: LE
@@ -312,7 +310,7 @@ Special Attacks: Line of lightning (60-foot, 6d8 electricity, Reflex DC 19) 1/da
 Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze, low-light vision, immune to sleep, paralysis, electricity
 Saves:	Fort +7+4, Ref +1+8, Will +1+8
 Abilities:	Str 32, Dex 12, Con 24, Int 8, Wis 12, Cha 9
-Skills: (5*15 = 75; 75 - (7+8) = 60)	Hide +1+2+15*, Listen +1+2+15, Spot +1+2+15, Search -1+7, Bluff -1+7
+Skills: Hide +18*, Listen +18, Spot +18, Search +6, Bluff +6
 Feats:	Multiattack, Power Attack, Weapon Focus (claw, bite, gore)
 Challenge Rating: 10
 ```
