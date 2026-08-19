@@ -295,19 +295,21 @@ Making the heart more important to the combat, the heart has these qualities:
 TODO: add half-dragon template
 
 ```yaml
-Size/Type:	Large Monstrous Humanoid (Earth)
-Hit Dice:	12d8+72 (126 hp)
+Size/Type:	Large Dragon (Earth)
+Alignment: LE
+Hit Dice:	12d12+72 (150 hp)
 Initiative:	+2
-Speed:	40 ft. (8 squares), fly 60 ft. (average)
-Armor Class:	16 (+1 Dex, +6 natural, -1 size), touch 10, flat-footed 14
+Speed:	40 ft. (8 squares), fly 80 ft. (average)
+Armor Class:	20 (+1 Dex, +10 natural, -1 size), touch 10, flat-footed 19
+Immune: electricity, sleep, paralysis
 Base Attack:	+12
 Grapple:	+23
 Attack:	Claw +20 melee (1d6+7)
 Full Attack:	2 claws +20 melee (1d6+7) and bite +18 melee (1d8+4) and gore +18 melee (1d8+4)
 Space/Reach:	10 ft./10 ft.
-Attack Options: Power Attack
-Special Attacks:	—
-Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze
+Attack Options: Power Attack, Line of Lightning
+Special Attacks: Line of lightning (60-foot, Reflex DC 19) 1/day
+Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze, low-light vision, immune to sleep, paralysis, electricity
 Saves:	Fort +6+4, Ref +1+8, Will +1+8
 Abilities:	Str 24, Dex 12, Con 22, Int 6, Wis 12, Cha 7
 Skills: (7+8)	Hide +2+1+3+4*, Listen +1+2+2+4, Spot +1+2+2
