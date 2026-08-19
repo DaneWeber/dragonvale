@@ -41,7 +41,7 @@ As per https://scholarsandserpents.wordpress.com/2018/02/21/ashardalon-and-the-v
 
 ### Girallons to Quaggoths
 
-Some folks have talked about Girallons going from Medium to Large in the change from 3e to 3.5e. While that's a relatively minor thing, it triggered me to replace them entirely with Quaggoths, since I really don't have a place for Girallons in my campaign world and I'm already planning to include Quaggoths in the Underdark. They're Medium, have low but non-animal intelligence, and have a good CR fit if using the Greater Quaggoth from page 138 of _The Drow of the Underdark_. I also hope the mix of the white-furred savage "beast-following" Quaggoths and stained-furred elevated "magic-following" Quaggoths will provide an avenue for players to realize that they should talk with Thiff instead of killing her immediately. 
+Some folks have talked about Girallons going from Medium to Large in the change from 3e to 3.5e. While that's a relatively minor thing, it triggered me to replace them entirely with Quaggoths, since I really don't have a place for Girallons in my campaign world and I'm already planning to include Quaggoths in the Underdark. They're Medium, have low but non-animal intelligence, and have a good CR fit if using the Greater Quaggoth from page 138 of _The Drow of the Underdark_. I also hope the mix of the white-furred savage "beast-following" Quaggoths and stained-furred elevated "magic-following" Quaggoths will provide an avenue for players to realize that they should talk with Thiff instead of killing her immediately.
 
 ### The Dragon Key
 
@@ -97,6 +97,8 @@ No review mentions her positively that I could find, and [this review](https://w
 ### 10. Empty
 
 ### 11. Shadow on the Wall
+
+
 
 ### 12. Necromantic Seepage
 
@@ -179,6 +181,7 @@ This mind flayer is missing two of its tentacles which were removed by Gulthias 
 
 This mind flayer is ancient, with its life extended tremendously by the elixir from room 69, the Fountain of the Devoted. It was left in stasis the entire time Gulthias was staked.
 
+- Its name is unlikely to be shared, but if it is extracted, it is Xameeltheezor.
 - This mind flayer was the source of the secrets that Gulthias learned in order to travel to the Domains of Dread via the Shadow Plane.
 - Gulthias wished to extend his own life and find a way to return Ashardalon to life/unlife.
 - Gulthias returned from the Shadow Plane with secrets he shared with no one.
@@ -239,7 +242,7 @@ In addition, there is a basin fed by a rainwater cistern. Very little rain falls
 
 While this chamber's connection to area 73 is the only far step convenience in place, there are multiple other sites that were part of the old far step network. The two small area 59 chambers next to area 67 are now disconnected. The larger room containing area 67 was the hub.
 
-The area 59 that shares a wall with areas 68 and 70 was the old switchboard. The old switchboard operators are now mindless undead and Gulthias does not care about the far step network. A metal panel with one cable connected at both ends can be found on the back wall, hidden behind a panel of decorative stone (Search DC 15). 
+The area 59 that shares a wall with areas 68 and 70 was the old switchboard. The old switchboard operators are now mindless undead and Gulthias does not care about the far step network. A metal panel with one cable connected at both ends can be found on the back wall, hidden behind a panel of decorative stone (Search DC 15).
 
 Possible far step locations to connect:
 - Three alcoves with area 67 in the center.
@@ -354,6 +357,100 @@ Gargoyles have a +2 racial bonus on Hide, Listen, and Spot checks. *The Hide bon
 Breath Weapon (Su)
 A half-dragon has a breath weapon based on the dragon variety (see table), usable once per day. A half-dragon’s breath weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + ½ half-dragon’s racial HD + half-dragon’s Con modifier) reduces damage by half.
 
+### Demon, Vrock, "Rhunad"
+
+### Fire Elemental, Elder (Huge)
+
+### Flesh Golem
+
+```yaml
+Size/Type:	Large Construct
+Hit Dice:	9d10+30 (79 hp)
+Initiative:	-1
+Speed:	30 ft. (6 squares)
+Armor Class:	18 (-1 size, -1 Dex, +10 natural), touch 8, flat-footed 18
+Base Attack/Grapple:	+6/+15
+Attack:	Slam +10 melee (2d8+5)
+Full Attack:	2 slams +10 melee (2d8+5)
+Space/Reach:	10 ft./10 ft.
+Special Attacks:	Berserk
+Special Qualities:	Construct traits, damage reduction 5/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+Saves:	Fort +3, Ref +2, Will +3
+Abilities:	Str 21, Dex 9, Con Ø, Int Ø, Wis 11, Cha 1
+Skills:	—
+Feats:	—
+Environment:	Any
+Organization:	Solitary or gang (2-4)
+Challenge Rating:	7
+Treasure:	None
+Alignment:	Always neutral
+Advancement:	10-18 HD (Large); 19-27 HD (Huge)
+Level Adjustment:	—
+```
+
+A flesh golem is a ghoulish collection of stolen humanoid body parts, stitched together into a single composite form. No natural animal willingly tracks a flesh golem. The golem wears whatever clothing its creator desires, usually just a ragged pair of trousers. It has no possessions and no weapons. It stands 8 feet tall and weighs almost 500 pounds.
+
+A flesh golem golem cannot speak, although it can emit a hoarse roar of sorts. It walks and moves with a stiff-jointed gait, as if not in complete control of its body.
+
+Combat
+Berserk (Ex)
+When a flesh golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. The golem’s creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem, which requires a DC 19 Charisma check. It takes 1 minute of inactivity by the golem to reset the golem’s berserk chance to 0%.
+
+Immunity to Magic (Ex)
+A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+
+A magical attack that deals cold or fire damage slows a flesh golem (as the slow spell) for 2d6 rounds, with no saving throw.
+
+A magical attack that deals electricity damage breaks any slow effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. For example, a flesh golem hit by a lightning bolt heals 3 points of damage if the attack would have dealt 11 points of damage. A flesh golem golem gets no saving throw against attacks that deal electricity damage.
+
+### Gravestone Golem
+
+TODO: replace _slow_ with _slay living_
+
+```yaml
+Size/Type:	Large Construct
+Hit Dice:	14d10+30 (107 hp)
+Initiative:	-1
+Speed:	20 ft. (4 squares)
+Armor Class:	26 (-1 size, -1 Dex, +18 natural), touch 8, flat-footed 26
+Base Attack/Grapple:	+10/+23
+Attack:	Slam +18 melee (2d10+9)
+Full Attack:	2 slams +18 melee (2d10+9)
+Space/Reach:	10 ft./10 ft.
+Special Attacks:	Slow
+Special Qualities:	Construct traits, damage reduction 10/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+Saves:	Fort +4, Ref +3, Will +4
+Abilities:	Str 29, Dex 9, Con Ø, Int Ø, Wis 11, Cha 1
+Skills:	—
+Feats:	—
+Environment:	Any
+Organization:	Solitary or gang (2-4)
+Challenge Rating:	11
+Treasure:	None
+Alignment:	Always neutral
+Advancement:	15-21 HD (Large); 22-42 (Huge)
+Level Adjustment:	—
+```
+
+This golem has a humanoid body made from stone. A stone golem is 9 feet tall and weighs around 2,000 pounds. Its body is frequently stylized to suit its creator. For example, it might look like it is wearing armor, with a particular symbol carved on the breastplate, or have designs worked into the stone of its limbs.
+
+Combat
+Stone golems are formidable opponents, being physically powerful and difficult to harm.
+
+Slow (Su)
+A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.
+
+Immunity to Magic (Ex)
+A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+
+A transmute rock to mud spell slows a stone golem (as the slow spell) for 2d6 rounds, with no saving throw, while transmute mud to rock heals all of its lost hit points.
+
+A stone to flesh spell does not actually change the golem’s structure but negates its damage reduction and immunity to magic for 1 full round.
+
+### Mind Flayer, Psionic, "Xameeltheezor"
+
+### Mohrg
+
 ### Mooncalf
 
 3.5e conversion already available from: https://www.realmshelps.net/monsters/block/Mooncalf, albeit missing the bit about sundering tentacles and a miscalculated grapple bonus.
@@ -402,6 +499,10 @@ Mooncalves prefer to fly high above their targets, striking at foes from a dista
 From the [official 3.5e update booklet](https://archive.org/details/dnd_3.5_update_booklet/page/n33/mode/2up?q=mooncalf):
 
 Add the following text to the Combat section: An opponent can attack a mooncalf's tentacles as if they were weapons — see Sunder, in Chapter 8 of the Player's Handbook. A mooncalf's tentacles have 20 hit points. If the mooncalf is currently grappling a target with that tentacle, it usually uses another limb to make its attack of opportunity against the sunder attempt. Severing a mooncalf's tentacles deals damage to the creature equal to half the limb's hit points. A mooncalf regrows severed limbs in 1d10+10 days.
+
+### Mummy, Monk, "Aoket"
+
+### Night Hag
 
 ### Quaggoth
 
@@ -580,7 +681,7 @@ Quaggoth Thonot (Psychic Warrior):
   Atk Options: Cleave, Power Attack, quaggoth rage 1/day (11 rounds), psionics, greater psionic fist +4d6, ghost attack, unavoidable strike, meditate as move action
   Power Points: 35
   Powers Known:
-    1: Catfall, Chameleon, Metaphysical Claw 
+    1: Catfall, Chameleon, Metaphysical Claw
     2: Body Adjustment, Body Purification, Detect Hostile Intent, Empathic Transfer
     3: Ectoplasmic Form
   Abilities: Str 24, Dex 10, Con 22, Int 10, Wis 18, Cha 10
@@ -590,6 +691,65 @@ Quaggoth Thonot (Psychic Warrior):
 ```
 
 TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items based on the adventure. Remove all possessions from the Greater Quaggoth. Thiff's treasure includes three potions of Cure Serious Wounds, a wand of sleep (22c), a +1 icy burst battleaxe, and a +2 keen kukri.
+
+### Shadow
+
+### Shadow Mastiff
+
+### Spectre
+
+### Vampire, Wizard, "Gulthias"
+
+### Vampire, Gibbering Mouther, "Oggunon Sathaar"
+
+### Vampire Spawn
+
+### Wight
+
+```yaml
+Size/Type:	Medium Undead
+Hit Dice:	4d12 (26 hp)
+Initiative:	+1
+Speed:	30 ft. (6 squares)
+Armor Class:	15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+Base Attack/Grapple:	+2/+3
+Attack:	Slam +3 melee (1d4+1 plus energy drain)
+Full Attack:	Slam +3 melee (1d4+1 plus energy drain)
+Space/Reach:	5 ft./5 ft.
+Special Attacks:	Create spawn, energy drain
+Special Qualities:	Darkvision 60 ft., undead traits
+Saves:	Fort +1, Ref +2, Will +5
+Abilities:	Str 12, Dex 12, Con Ø, Int 11, Wis 13, Cha 15
+Skills:	Hide +8, Listen +10, Move Silently +16, Spot +10
+Feats:	Alertness, Blind-Fight
+Environment:	Any
+Organization:	Solitary, pair, gang (3-5), or pack (6-11)
+Challenge Rating:	3
+Treasure:	None
+Alignment:	Always lawful evil
+Advancement:	5-8 HD (Medium)
+Level Adjustment:	—
+```
+
+A wight’s appearance is a weird and twisted reflection of the form it had in life. A wight is about the height and weight of a human.
+
+Wights speak Common.
+
+Combat
+Wights attack by hammering with their fists.
+
+Create Spawn (Su)
+Any humanoid slain by a wight becomes a wight in 1d4 rounds. Spawn are under the command of the wight that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
+
+Energy Drain (Su)
+Living creatures hit by a wight’s slam attack gain one negative level. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the wight gains 5 temporary hit points.
+
+Skills
+Wights have a +8 racial bonus on Move Silently checks.
+
+### Wight, Assassin, "Redbone"
+
+### Zombie (medium)
 
 ## Creature Index
 
