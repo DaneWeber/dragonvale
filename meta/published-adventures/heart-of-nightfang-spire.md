@@ -297,23 +297,24 @@ TODO: add half-dragon template
 ```yaml
 Size/Type:	Large Dragon (Earth)
 Alignment: LE
-Hit Dice:	12d12+72 (150 hp)
+Hit Dice:	12d12+84 (162 hp)
 Initiative:	+2
 Speed:	40 ft. (8 squares), fly 80 ft. (average)
 Armor Class:	20 (+1 Dex, +10 natural, -1 size), touch 10, flat-footed 19
 Immune: electricity, sleep, paralysis
 Base Attack:	+12
-Grapple:	+23
-Attack:	Claw +20 melee (1d6+7)
-Full Attack:	2 claws +20 melee (1d6+7) and bite +18 melee (1d8+4) and gore +18 melee (1d8+4)
+Grapple:	+27
+Attack:	Claw +24 melee (1d6+11)
+Full Attack:	2 claws +24 melee (1d6+11) and bite +22 melee (1d8+5) and gore +22 melee (1d8+5)
 Space/Reach:	10 ft./10 ft.
 Attack Options: Power Attack, Line of Lightning
-Special Attacks: Line of lightning (60-foot, Reflex DC 19) 1/day
+Special Attacks: Line of lightning (60-foot, 6d8 electricity, Reflex DC 19) 1/day
 Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze, low-light vision, immune to sleep, paralysis, electricity
-Saves:	Fort +6+4, Ref +1+8, Will +1+8
-Abilities:	Str 24, Dex 12, Con 22, Int 6, Wis 12, Cha 7
+Saves:	Fort +7+4, Ref +1+8, Will +1+8
+Abilities:	Str 32, Dex 12, Con 24, Int 8, Wis 12, Cha 9
 Skills: (7+8)	Hide +2+1+3+4*, Listen +1+2+2+4, Spot +1+2+2
 Feats:	Multiattack, Power Attack, Weapon Focus (claw, bite, gore)
+Challenge Rating: 10
 ```
 
 Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving and use this disguise to surprise their foes. They require no food, water, or air, but often eat their fallen foes out of fondness for inflicting pain.
@@ -330,6 +331,9 @@ A gargoyle can hold itself so still it appears to be a statue. An observer must 
 
 Skills
 Gargoyles have a +2 racial bonus on Hide, Listen, and Spot checks. *The Hide bonus increases by +8 when a gargoyle is concealed against a background of stone.
+
+Breath Weapon (Su)
+A half-dragon has a breath weapon based on the dragon variety (see table), usable once per day. A half-dragon’s breath weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + ½ half-dragon’s racial HD + half-dragon’s Con modifier) reduces damage by half.
 
 ### Mooncalf
 
