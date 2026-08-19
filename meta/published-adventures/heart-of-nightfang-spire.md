@@ -233,9 +233,27 @@ In addition, there is a basin fed by a rainwater cistern. Very little rain falls
 ### 65. Slender Mesa
 ### 66. Unquiet Crypt
 ### 67. Cryptportation
+
+While this chamber's connection to area 73 is the only far step convenience in place, there are multiple other sites that were part of the old far step network. The two small area 59 chambers next to area 67 are now disconnected. The larger room containing area 67 was the hub.
+
+The area 59 that shares a wall with areas 68 and 70 was the old switchboard. The old switchboard operators are now mindless undead and Gulthias does not care about the far step network. A metal panel with one cable connected at both ends can be found on the back wall, hidden behind a panel of decorative stone (Search DC 15). 
+
+Possible far step locations to connect:
+- Three alcoves with area 67 in the center.
+- Area 73 (far step alcove)
+- North-east alcove in area 54 (Quaggoth band)
+- Short south-east hallway/alcove in area 57 (north catacomb)
+- Level 2, Both secret rooms in area 16 (hall of honor)
+- Level 2, north-west area 10
+- Level 1, small area 10 in north part, not touching exterior wall
+- Level 4, area 10 in the north part, not touching exterior wall
+
+TODO: Rules for restoring connections.
+TODO: Add note about magic auras at these locations, if they haven't been permanently disabled.
+
 ### 68. Animate Pedestal
 
-Creatures and objects placed on the altar in area 71 are teleported to this room. This is one-way.
+Objects placed on the altar in area 71 are teleported to this room. This is one-way.
 
 This half-dragon gargoyle is over 1,000 years old\* and was a venerated member of the cult. Because this individual looks like a statue of a dragon, she was one of the "children of Ashardalon," and was relied upon as a lieutenant of Gulthias and this room was hers to manage incoming offerings. If conversed with, her name is Lithara. She is still loyal and a believing cultist who will not willingly assist the players, especially against Gulthias or the undead.
 
@@ -255,14 +273,14 @@ The literal "death trap" is funny in concept, but it doesn't make sense to me fo
 
 Alternative effects for the trap:
 - Failing to say nothing/"nothing":
-  - CL 11 Flame Strike (3x rays 4d6 fire) against those failing. This is steal a kind of breathing fire, but without killing the faithful cultists.
-- Saying nothing/"nothing" results in a triple enchantment:
+  - CL 11 Flame Strike (3x rays 4d6 fire) against those failing. This is still a kind of breathing fire, but without killing the faithful cultists.
+- Saying nothing/"nothing" results in a triple enchantment (three separate saves):
   - Dominate Person (Gulthias)
   - Charm Monster (Gulthias)
-  - Suggestion ("disrobe and place everything you possess upon the altar")
+  - Suggestion ("disrobe and place everything you possess upon the altar so that you may enter with nothing")
     - Used for multiple purposes, including security, amassing wealth, and preparing a cultist to be a victim.
 
-Anything placed on the altar is affected by Teleport Object and sent to area 68, which served as a sort of vault with a good lock and protector.
+Anything placed on the altar is affected by Teleport Object (Will DC 21 to resist) and sent to area 68, which served as a sort of vault with a good lock and protector.
 
 ### 72. Servitor Stables
 ### 73. Far Step Alcove
