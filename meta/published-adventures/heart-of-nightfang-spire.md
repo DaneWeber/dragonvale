@@ -301,16 +301,16 @@ Initiative:	+2
 Speed:	40 ft. (8 squares), fly 60 ft. (average)
 Armor Class:	16 (+1 Dex, +6 natural, -1 size), touch 10, flat-footed 14
 Base Attack:	+12
-Grapple:	+18
-Attack:	Claw +19 melee (1d4+6)
-Full Attack:	2 claws +19 melee (1d6+6) and bite +17 melee (1d8+3) and gore +17 melee (1d8+3)
+Grapple:	+19
+Attack:	Claw +20 melee (1d6+7)
+Full Attack:	2 claws +20 melee (1d6+7) and bite +18 melee (1d8+4) and gore +18 melee (1d8+4)
 Space/Reach:	10 ft./10 ft.
 Attack Options: Power Attack
 Special Attacks:	—
 Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze
-Saves:	Fort +6+4, Ref +1+8, Will +0+8
-Abilities:	Str 23, Dex 12, Con 22, Int 6, Wis 11, Cha 7
-Skills: (7+8)	Hide +2+1+3+4*, Listen +2+2+4, Spot +2+2
+Saves:	Fort +6+4, Ref +1+8, Will +1+8
+Abilities:	Str 24, Dex 12, Con 22, Int 6, Wis 12, Cha 7
+Skills: (7+8)	Hide +2+1+3+4*, Listen +1+2+2+4, Spot +1+2+2
 Feats:	Multiattack, Power Attack, Weapon Focus (claw, bite, gore)
 ```
 
