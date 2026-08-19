@@ -292,27 +292,27 @@ Making the heart more important to the combat, the heart has these qualities:
 
 ### Advanced Gargoyle, Blue Half-Dragon, "Lithara"
 
-TODO: advance to 12 HD
 TODO: make large
 TODO: add half-dragon template
 
 ```yaml
 Size/Type:	Medium Monstrous Humanoid (Earth)
-Hit Dice:	4d8+19 (37 hp)
+Hit Dice:	12d8+48 (102 hp)
 Initiative:	+2
 Speed:	40 ft. (8 squares), fly 60 ft. (average)
 Armor Class:	16 (+2 Dex, +4 natural), touch 12, flat-footed 14
-Base Attack:	+4
-Grapple:	+6
-Attack:	Claw +6 melee (1d4+2)
-Full Attack:	2 claws +6 melee (1d4+2) and bite +4 melee (1d6+1) and gore +4 melee (1d6+1)
+Base Attack:	+12
+Grapple:	+14
+Attack:	Claw +15 melee (1d4+2)
+Full Attack:	2 claws +15 melee (1d4+2) and bite +13 melee (1d6+1) and gore +13 melee (1d6+1)
 Space/Reach:	5 ft./5 ft.
+Attack Options: Power Attack
 Special Attacks:	—
 Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze
-Saves:	Fort +5, Ref +6, Will +4
+Saves:	Fort +4+4, Ref +2+8, Will +0+8
 Abilities:	Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7
-Skills:	Hide +7*, Listen +4, Spot +4
-Feats:	Multiattack, Toughness
+Skills: (7+8)	Hide +2+2+3+4*, Listen +2+2+4, Spot +2+2
+Feats:	Multiattack, Power Attack, Weapon Focus (claw, bite, gore)
 ```
 
 Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving and use this disguise to surprise their foes. They require no food, water, or air, but often eat their fallen foes out of fondness for inflicting pain.
@@ -721,22 +721,22 @@ TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items ba
 
 | Area | Treasure                                                                  | Aura                   | Availability                             | Notes                                                        |
 | ---- | ------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- | ------------------------------------------------------------ |
-| 1    | +1 Arrows, x10                                                            |                        | on corpse                                |                                                              |
-| 1    | Cloak of Elvenkind                                                        |                        | on corpse                                |                                                              |
+| 1    | +1 Arrows, x10                                                            | x                      | on corpse                                |                                                              |
+| 1    | Cloak of Elvenkind                                                        | x                      | on corpse                                |                                                              |
 | 1    | 23 pp                                                                     |                        | on corpse                                |                                                              |
 | 1    | 10 gp                                                                     |                        | on corpse                                |                                                              |
 | 1    | written note                                                              |                        | on corpse                                |                                                              |
 | 3    | 4,234 sp                                                                  |                        | among debris                             |                                                              |
 | 3    | 450 gp                                                                    |                        | among debris                             |                                                              |
 | 3    | onyx gem, x3 (50 gp each)                                                 |                        | among debris                             | gem type was not specified                                   |
-| 3    | potion of invisibility                                                    |                        | among debris                             |                                                              |
-| 3    | potion of neutralize poison                                               |                        | among debris                             |                                                              |
-| 3    | ring of water-walking                                                     |                        | among debris                             |                                                              |
+| 3    | potion of invisibility                                                    | x                      | among debris                             |                                                              |
+| 3    | potion of neutralize poison                                               | x                      | among debris                             |                                                              |
+| 3    | ring of water-walking                                                     | x                      | among debris                             |                                                              |
 | 3    | bone plaque                                                               |                        | among debris                             |                                                              |
-| 6    | wand of mage armor (27 charges)                                           |                        | locked chest                             |                                                              |
+| 6    | wand of mage armor (27 charges)                                           | x                      | locked chest                             |                                                              |
 | 6    | 50 pp                                                                     |                        | locked chest                             |                                                              |
 | 6    | bloodstone gem, x2 (50 gp each)                                           |                        | locked chest                             |                                                              |
-| 7    | ring of protection +2                                                     |                        | in use by vampire spawn                  |                                                              |
+| 7    | ring of protection +2                                                     | x                      | in use by vampire spawn                  |                                                              |
 | 9    | 209 gp                                                                    |                        | locked chest                             |                                                              |
 | 9    | alchemist fire, x4                                                        |                        | locked chest                             | ornately carved like dragon emerging from egg                |
 | 11.1 | 140 pp                                                                    |                        | in sarcophagus                           | 2d12x10 pp                                                   |
@@ -749,54 +749,54 @@ TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items ba
 | 13.2 | silver goblet (245 gp)                                                    |                        | search DC 20                             | winged dragon serving as the base                            |
 | 13.3 | six-sided dice, x4                                                        |                        | search DC 20                             | number "13" on every face                                    |
 | 13.4 | longsword, masterwork                                                     |                        | search DC 20                             |                                                              |
-| 13.5 | +3 ghost-touch undead-bane dagger \*                                      |                        | search DC 20                             | "Pale Piercer" in draconic, crystal-hilted white iron dagger |
+| 13.5 | +3 ghost-touch undead-bane dagger \*                                      | x                      | search DC 20                             | "Pale Piercer" in draconic, crystal-hilted white iron dagger |
 | 16b  | jeweled scabbard (300 gp)                                                 |                        | in sarcophagus b                         |                                                              |
 | 16e  | 425 gp                                                                    |                        | in locked chest in secret room           |                                                              |
 | 16e  | 45 pp                                                                     |                        | in locked chest in secret room           |                                                              |
-| 16e  | wand of magic missile (40 charges)                                        |                        | in locked chest in secret room           |                                                              |
-| 16f  | potion of cure serious wounds                                             |                        | in sarcophagus f                         |                                                              |
+| 16e  | wand of magic missile (40 charges)                                        | x                      | in locked chest in secret room           |                                                              |
+| 16f  | potion of cure serious wounds                                             | x                      | in sarcophagus f                         |                                                              |
 | 16g  | sapphire (200 gp)                                                         |                        | in sarcophagus g                         |                                                              |
 | 16m  | black pearl on chain (400 gp)                                             |                        | in secret room behind sarcophagus m      |                                                              |
 | 16p  | diamond wristlet (400 gp)                                                 |                        | in sarcophagus p                         |                                                              |
 | 21   | 1,233 gp                                                                  |                        | within deep filth                        |                                                              |
 | 21   | red spinel gems, x4 (100 gp each)                                         |                        | within deep filth                        |                                                              |
-| 21   | gloves of dexterity +2                                                    |                        | within deep filth                        | no obvious stitch, skeletal hands still inside               |
-| 21   | bracers of armor +2                                                       |                        | within deep filth                        |                                                              |
+| 21   | gloves of dexterity +2                                                    | x                      | within deep filth                        | no obvious stitch, skeletal hands still inside               |
+| 21   | bracers of armor +2                                                       | x                      | within deep filth                        |                                                              |
 | 21   | dust of dryness                                                           | moderate transmutation | within deep filth                        |                                                              |
 | 24   | 430 gp                                                                    |                        | chest, half-buried                       |                                                              |
 | 24   | blue quartz gems, x8 (10gp each)                                          |                        | chest, half-buried                       |                                                              |
-| 24   | bag of tricks, rust-colored                                               |                        | chest, half-buried                       |                                                              |
-| 24   | potion of aid                                                             |                        | chest, half-buried                       |                                                              |
+| 24   | bag of tricks, rust-colored                                               | x                      | chest, half-buried                       |                                                              |
+| 24   | potion of aid                                                             | x                      | chest, half-buried                       |                                                              |
 | 31   | 110 pp                                                                    |                        | in sack                                  |                                                              |
 | 31   | lapis lazuli gems, x5 (10gp each)                                         |                        | in sack                                  |                                                              |
 | 32   | 235 gp                                                                    |                        | in pockets of wight                      |                                                              |
 | 36   | libram of flesh                                                           | strong universal       | hidden compartment in desk, search DC 26 |                                                              |
 | 45   | 240 pp                                                                    |                        | ashes, after 10 minute search            |                                                              |
 | 45   | violet garnet gem (500 gp)                                                |                        | ashes, after 10 minute search            |                                                              |
-| 45   | +2 shield of light fortification                                          |                        | ashes, after 10 minute search            |                                                              |
-| 45   | potion of eagle's splendor                                                |                        | ashes, after 10 minute search            | was potion of charisma                                       |
+| 45   | +2 shield of light fortification                                          | x                      | ashes, after 10 minute search            |                                                              |
+| 45   | potion of eagle's splendor                                                | x                      | ashes, after 10 minute search            | was potion of charisma                                       |
 | 52.1 | 3,500 gp                                                                  |                        | 10 minute search                         | 6d10x100 gp                                                  |
 | 52.1 | jasper gems x8 (20 gp each)                                               |                        | 10 minute search                         | 1d8 20-gp gems                                               |
-| 52.1 | wand of false life (50 charges)                                           |                        | 10 minute search                         | 1d4 minor magic items (1)                                    |
+| 52.1 | wand of false life (50 charges)                                           | x                      | 10 minute search                         | 1d4 minor magic items (1)                                    |
 | 52.2 | 3,900 gp                                                                  |                        | 10 minute search                         | 6d10x100 gp                                                  |
 | 52.2 | azurite gems x3 (20 gp each)                                              |                        | 10 minute search                         | 1d8 20-gp gems                                               |
-| 52.2 | arcane scroll, ray of enfeeblement                                        |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
-| 52.2 | divine scroll, detect animals or plants, longstrider, protection from law |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
-| 52.2 | +1 heavy mace                                                             |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 52.2 | arcane scroll, ray of enfeeblement                                        | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 52.2 | divine scroll, detect animals or plants, longstrider, protection from law | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 52.2 | +1 heavy mace                                                             | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
 | 52.3 | 3,800 gp                                                                  |                        | 10 minute search                         | 6d10x100 gp                                                  |
 | 52.3 | malachite gems x3 (20 gp each)                                            |                        | 10 minute search                         | 1d8 20-gp gems                                               |
-| 52.3 | arcane scroll, misdirection, whispering wind                              |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 52.3 | arcane scroll, misdirection, whispering wind                              | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
 | 52.3 | dust of appearance                                                        | faint conjuration      | 10 minute search                         | 1d4 minor magic items (3)                                    |
-| 52.3 | divine scroll, comprehend languages                                       |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 52.3 | divine scroll, comprehend languages                                       | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
 | 53   | 4,500 gp                                                                  |                        | 10 minute search                         | 6d10x100 gp                                                  |
 | 53   | bloodstone gems x5 (20 gp each)                                           |                        | 10 minute search                         | 1d8 20-gp gems                                               |
-| 53   | arcane scroll, comprehend languages                                       |                        | 10 minute search                         | 1d4 minor magic items (2)                                    |
-| 53   | wand of cat's grace (50 charges)                                          |                        | 10 minute search                         | 1d4 minor magic items (2)                                    |
+| 53   | arcane scroll, comprehend languages                                       | x                      | 10 minute search                         | 1d4 minor magic items (2)                                    |
+| 53   | wand of cat's grace (50 charges)                                          | x                      | 10 minute search                         | 1d4 minor magic items (2)                                    |
 | 54   | 3,400 gp                                                                  |                        | 10 minute search                         | 6d10x100 gp                                                  |
 | 54   | banded agate gems x1 (20 gp each)                                         |                        | 10 minute search                         | 1d8 20-gp gems                                               |
-| 54   | +1 heavy steel shield                                                     |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
-| 54   | arcane scroll, mount, cause fear, comprehend languages                    |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
-| 54   | pipes of sounding                                                         |                        | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 54   | +1 heavy steel shield                                                     | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 54   | arcane scroll, mount, cause fear, comprehend languages                    | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
+| 54   | pipes of sounding                                                         | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
 | 55   | dragon key piece                                                          | x                      | on shelf                                 |                                                              |
 | 55   | potion of cure serious wounds, x3                                         | x                      | on shelf                                 |                                                              |
 | 55   | wand of sleep (22 charges)                                                | x                      | on shelf                                 | hollow glass rod half filled with sand                       |
@@ -885,6 +885,5 @@ TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items ba
 | 77   | oil of slipperiness                                                       | x                      | on lab table                             |                                                              |
 | 77   | books and scrolls of lore                                                 |                        | on bookshelves                           |                                                              |
 | 77   | Gulthias' spellbook                                                       |                        | on bookshelves                           |                                                              |
-
 
 \* Pale Piercer was +5 equivalent in 3e: +3 ghost bane dagger (whatever "ghost bane" was). While I am considering a bigger change, I believe making it a +3 ghost-touch undead-bane dagger is a good update for 3.5e.
