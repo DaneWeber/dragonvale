@@ -50,12 +50,15 @@ While a little silly and video-game-like, let's add the following properties to 
 - The parts of the Dragon Key must be present within the tower. If any part is removed more than 100ft from the tower, an alarm will sound from the core. A day later, the core will open.
 - The parts of the Dragon Key cannot be brought within the core. Being placed within the core has the same effect as removing them from the tower.
 - The parts of the Dragon Key emit a piercing sound when removed from the tower, audible with a Listen check of DC -20.
+- The parts of the Dragon Key have a strong abjuration aura.
 
 The flimsy rationale: the core was created prior to Gulthias planning to become a vampire. At the time, the thought was that trusted cultists might have to unlock the core if Gulthias were either away or incapacitated within. He now regrets the design, but it will take time and effort and power to change it.
 
 ## Changes to the Adventure by Area
 
 ### 0. Dim Defile
+
+The tower is superbly crafted stone with iron rods reinforcing it. Is this concrete and rebar?
 
 ### 1. Ossuary
 
@@ -818,7 +821,7 @@ TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items ba
 | 54   | +1 heavy steel shield                                                     | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
 | 54   | arcane scroll, mount, cause fear, comprehend languages                    | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
 | 54   | pipes of sounding                                                         | x                      | 10 minute search                         | 1d4 minor magic items (3)                                    |
-| 55   | dragon key piece                                                          | x                      | on shelf                                 |                                                              |
+| 55   | dragon key piece                                                          | strong abjuration      | on shelf                                 |                                                              |
 | 55   | potion of cure serious wounds, x3                                         | x                      | on shelf                                 |                                                              |
 | 55   | wand of sleep (22 charges)                                                | x                      | on shelf                                 | hollow glass rod half filled with sand                       |
 | 55   | +1 icy burst battleaxe                                                    | x                      | on shelf                                 |                                                              |
@@ -850,25 +853,25 @@ TODO: Give Thiff/Thonot magic items/gear. Reduce the War Leader's magic items ba
 | 60   | banded agate gems, x2 (20 gp each)                                        |                        | littered among bones                     |                                                              |
 | 61.1 |                                                                           |                        | littered among bones                     | 1d8x100 gp                                                   |
 | 61.1 |                                                                           |                        | littered among bones                     | 1d4 50-gp gems                                               |
-| 61.1 |                                                                           | x                      | littered among bones                     | minor magic item                                             |
+| 61.1 | potion of blur                                                            | faint illusion         | littered among bones                     | minor magic item                                             |
 | 61.2 |                                                                           |                        | littered among bones                     | 1d8x100 gp                                                   |
 | 61.2 |                                                                           |                        | littered among bones                     | 1d4 50-gp gems                                               |
-| 61.2 |                                                                           | x                      | littered among bones                     | minor magic item                                             |
+| 61.2 | potion of barkskin +2                                                     | faint transmutation    | littered among bones                     | minor magic item                                             |
 | 61.3 |                                                                           |                        | littered among bones                     | 1d8x100 gp                                                   |
 | 61.3 |                                                                           |                        | littered among bones                     | 1d4 50-gp gems                                               |
-| 61.3 |                                                                           | x                      | littered among bones                     | minor magic item                                             |
+| 61.3 | divine scroll, fire trap, barkskin, remove paralysis                      | faint (many schools)   | littered among bones                     | minor magic item                                             |
 | 61.4 |                                                                           |                        | littered among bones                     | 1d8x100 gp                                                   |
 | 61.4 |                                                                           |                        | littered among bones                     | 1d4 50-gp gems                                               |
-| 61.4 |                                                                           | x                      | littered among bones                     | minor magic item                                             |
-| 63   | dragon key piece                                                          | x                      | held by statue, strength DC 22           |                                                              |
-| 65   | dragon key piece                                                          | x                      | held by statue, strength DC 22           |                                                              |
+| 61.4 | potion of owl's wisdom                                                    | faint transmutation    | littered among bones                     | minor magic item                                             |
+| 63   | dragon key piece                                                          | strong abjuration      | held by statue, strength DC 22           |                                                              |
+| 65   | dragon key piece                                                          | strong abjuration      | held by statue, strength DC 22           |                                                              |
 | 66   | 212 pp                                                                    |                        | scattered amid wreckage                  |                                                              |
 | 66   | silver comb with moonstones (550 gp)                                      |                        | scattered amid wreckage                  |                                                              |
 | 66   | carved chest of mahogany and inlaid amythest (1,400 gp)                   |                        | scattered amid wreckage                  |                                                              |
 | 66   | crystal chalice with inset emeralds (700 gp)                              |                        | scattered amid wreckage                  |                                                              |
 | 66   | ring of minor elemental resistance (fire)                                 |                        | worn by mohrg                            |                                                              |
 | 66   | necklace of fireballs type iv                                             |                        | worn by mohrg                            | leather cord strung with reddish gems                        |
-| 68   | dragon key piece                                                          | x                      | held by gargoyle                         |                                                              |
+| 68   | dragon key piece                                                          | strong abjuration      | held by gargoyle                         |                                                              |
 | 69   | temporal stasis fluid                                                     | strong transmutation   | acquired from fountain, 1/month          |                                                              |
 | 70   | 2,100 pp                                                                  |                        |                                          |                                                              |
 | 70   | black opals, x7 (1,000 gp each)                                           |                        |                                          |                                                              |
