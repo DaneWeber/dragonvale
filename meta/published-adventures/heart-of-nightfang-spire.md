@@ -301,7 +301,7 @@ Initiative:	+2
 Speed:	40 ft. (8 squares), fly 60 ft. (average)
 Armor Class:	16 (+1 Dex, +6 natural, -1 size), touch 10, flat-footed 14
 Base Attack:	+12
-Grapple:	+19
+Grapple:	+23
 Attack:	Claw +20 melee (1d6+7)
 Full Attack:	2 claws +20 melee (1d6+7) and bite +18 melee (1d8+4) and gore +18 melee (1d8+4)
 Space/Reach:	10 ft./10 ft.
