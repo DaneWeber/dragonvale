@@ -312,7 +312,7 @@ Special Attacks: Line of lightning (60-foot, 6d8 electricity, Reflex DC 19) 1/da
 Special Qualities:	Damage reduction 10/magic, darkvision 60 ft., freeze, low-light vision, immune to sleep, paralysis, electricity
 Saves:	Fort +7+4, Ref +1+8, Will +1+8
 Abilities:	Str 32, Dex 12, Con 24, Int 8, Wis 12, Cha 9
-Skills: (7+8)	Hide +2+1+3+4*, Listen +1+2+2+4, Spot +1+2+2
+Skills: (5*15 = 75; 75 - (7+8) = 60)	Hide +1+2+15*, Listen +1+2+15, Spot +1+2+15, Search -1+7, Bluff -1+7
 Feats:	Multiattack, Power Attack, Weapon Focus (claw, bite, gore)
 Challenge Rating: 10
 ```
