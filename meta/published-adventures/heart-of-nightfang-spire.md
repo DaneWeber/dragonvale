@@ -43,6 +43,56 @@ As per https://scholarsandserpents.wordpress.com/2018/02/21/ashardalon-and-the-v
 
 Some folks have talked about Girallons going from Medium to Large in the change from 3e to 3.5e. While that's a relatively minor thing, it triggered me to replace them entirely with Quaggoths, since I really don't have a place for Girallons in my campaign world and I'm already planning to include Quaggoths in the Underdark. They're Medium, have low but non-animal intelligence, and have a good CR fit if using the Greater Quaggoth from page 138 of _The Drow of the Underdark_. I also hope the mix of the white-furred savage "beast-following" Quaggoths and stained-furred elevated "magic-following" Quaggoths will provide an avenue for players to realize that they should talk with Thiff instead of killing her immediately.
 
+### Active Response
+
+See the list of creatures at the bottom of this document of a list of potential troops for an active response by Gulthias.
+
+Gulthias is busy researching how to bring Ashardalon back. He is not terribly concerned about monitoring the tower until alerted by surviving troops.
+
+#### Recon Options
+
+- The night hags can become ethereal to scout through walls while invisible.
+
+#### Rapid Response
+
+As noted:
+- Redbone with vampire spawn
+- Aoket
+- Oggunon
+
+#### Full Mobilization
+
+If Gulthias realizes that there is an existential threat, he will fully mobilize his forces.
+
+Lithara will be called to defend the entrance to the core.
+
+The countless zombies and skeletons will be given ladders to scale and swarm up through the tower.
+
+Avoiding heavy grouping that is susceptible to area-of-effect attacks, Gulthias will send squads to attack from multiple directions.
+
+- Ethereal-capable recon squad:
+  - Night hags
+- Elite squad:
+  - Redbone with vampire spawn
+- Squad A:
+  - Aoket
+  - Spectres
+- Squad B:
+  - Oggunon
+  - Mohrgs
+- Squad C:
+  - Vampire spawn
+  - Wights
+- Squad D:
+  - Servitor quaggoths
+  - Enslaved quaggoths
+
+TBD:
+- Gravestone golems
+- Flesh golems
+- Stitches
+- Mooncalf
+
 ### The Dragon Key
 
 While a little silly and video-game-like, let's add the following properties to the Dragon Key:
@@ -97,8 +147,6 @@ No review mentions her positively that I could find, and [this review](https://w
 ### 10. Empty
 
 ### 11. Shadow on the Wall
-
-
 
 ### 12. Necromantic Seepage
 
@@ -293,6 +341,12 @@ Anything placed on the altar is affected by Teleport Object (Will DC 21 to resis
 ### 74. Accessing the Core
 ### 75. Nadir
 ### 76. Gulthias Revealed
+
+Gazeway: The keyed symbols are _Arcane Marks_ created within the bounds of the tower that match an _Arcane Mark_ placed within the gazeway (currently Gulthais' tree mark).
+
+TODO: Replacement for Scrying skill. Maybe Computer Use?
+TODO: Connect to plane of shadow?
+
 ### 77. Where the Heart Is
 
 Why does killing Gulthias destroy the heart? He was staked a hundred miles away for hundreds of years. The heart should be Gulthias' weakness, almost as if this heart is his true heart.
