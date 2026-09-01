@@ -1,4 +1,4 @@
-# Iotharspace
+# Iospace
 
 Crystal sphere containing the world of Iothar.
 
