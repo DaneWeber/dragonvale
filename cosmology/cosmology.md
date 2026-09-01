@@ -20,6 +20,30 @@ In order to most efficiently increase your own chthonic power, without resorting
 
 The different natures not only determine how chthonic power is gained, but also how and whether one can be brought back from the afterlife. The Hero type is the easiest to recall. The Expert, Master, Ruler, and Scholar types may be recalled, but often require more powerful magic to do so, or may be impossible.
 
+### Death and Transmigration
+
+When a mortal creature dies and the afterlife proceeds as it should, the soul spends 20 days in a transitional state after which it meets it reward and becomes a petitioner in the Outer Planes. Petitioners are new identities relative to the previous mortal existence.
+
+#### Transmigration and Scrying
+
+For purposes of scrying, there are three periods for a mortal:
+
+1. Living
+   - Scrying operates as expected.
+2. Transitional (20 days after death, the same as the limits of _Raise Dead_)
+   - The same identity applies as in life, including bonuses/penalties for familiarity and posessions, etc.
+   - The Will save to resist scrying is made with the bonus the creature had at the time of death, although the +5 for being on another plane applies.
+   - If the Will save fails and the scrying succeeds, the scryer sees the corpse or largest portion of the physical remains.
+3. Petitioner
+   - The identity of the immortal petitioner is distinct from the mortal identity, so bonuses/penalties for familiarity and possessions of the mortal no longer apply.
+   - In general, because a petitioner does not know who is attempting to scry on them, they do not choose to fail their Will save. Without further divinations or connections prior to scrying on a petitioner, note the +15 bonus to the Will save from there being no familiarity with the scryer and being on a different plane.
+
+When the soul refuses to transmigrate and instead becomes a ghost, scrying operates much as it does in the transitional period, where failed Will saves result in a view of the mortal's corpse or largest portion of the physical remains. Similarly when a corpse is turned into an undead creature, thus blocking _Raise Dead_, scrying reveals the corpse (the undead creature itself for corporeal undead), even though the mortal's true self, their soul, is elsewhere.
+
+Related to scrying, soulless creatures such as constructs simply cease once destroyed. The same is generally true for plants and animals with Intelligence of 0, 1, or 2. This includes most plant, ooze, vermin, and animal creatures.
+
+Outsiders and elementals are spirit creatures whose bodies are manifestations of their native plane. When an outsider is killed, its identity discontinues until and if it reforms, frequently 100 years later.
+
 ## Gods
 
 see [Deities](deities.md)
@@ -34,7 +58,9 @@ The gods are not pitted against each other, attempting to win converts or to eve
 
 Undead are detestable because they generally mock both life and death. The desecration of the body involved in creating undead is, itself, twisted. There is nothing inherently evil about negative energy, just as there is nothing inherently good about positive energy (which heals fiends and celestials alike). However, many uses of negative energy are quite twisted and evil, especially because many of them give rise to irredeemably evil beings. So, the necromancer is shunned in decent society because he generally engages in despicable acts. Even so, the temple of Wee Jas provides a haven for necromancy. Jasidans care more about corpses being lawfully acquired with the consent of the dead than about what is done with the corpse, and officially prescind from judging whether the generation of a given undead being was an evil act. The temple of Wee Jas is held to be the executor of all wills by default, and it is within this capacity that the temple determines the legitimacy of necromantic acts. Furthermore, commanding and rebuking the undead is not evil, even if creating them is. If a necromancer could find a way to lawfully create undead that were not evil, he need not be evil himself, especially if he engaged in no murder or desecration of corpses.
 
-Ghosts are a special class of undead. In fact, most "ghosts" simply transit from the departed via the Deep Ethereal to the river Styx, which acts as a conduit to the Outer planes. This is a disappointingly mundane method of transit to most who study these matters. The ghost may make its way on its own, but often is met by guides, and may even be contested by creatures of the Outer planes. Only ghosts that refuse to cooperate remain for any meaningful period of time, and it is these that gather negative energy to themselves in order to exert their will upon the world.
+### Ghosts
+
+Ghosts are a special class of undead. In fact, over the course of 20 days most "ghosts" transit from the departed via the Deep Ethereal to the river Styx, which acts as a conduit to the Outer planes. The ghost may make its way on its own, but often is met by guides, and may even be contested by creatures of the Outer planes. Only ghosts that refuse to cooperate remain for any meaningful period of time, and it is these that gather negative energy to themselves in order to exert their will upon the world.
 
 ## Chaos and Law
 
