@@ -5,6 +5,7 @@
 - [ ] Confirm spell swaps
 - [x] Finalize last language known
 - [ ] Review Excel spreadsheet for transformations
+- Level 13: 6hp
 
 ## Spell List
 

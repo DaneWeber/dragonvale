@@ -3,6 +3,8 @@
 ## To Do
 
 - [x] Roll level 13 Rogue HP
+- Level 14: 6hp
+- Precise shot
 
 ## Misc
 

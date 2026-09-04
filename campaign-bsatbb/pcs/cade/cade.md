@@ -4,6 +4,7 @@
 
 - [ ] Level 12 feat
 - [ ] Finalize languages known
+- Level 13 spells: Reverse Gravity,
 
 ## Spell Slots
 
