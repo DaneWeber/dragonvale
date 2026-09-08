@@ -4,7 +4,8 @@
 
 - [x] Roll level 13 Rogue HP
 - Level 14: 6hp
-- Precise shot
+  - Fighter
+  - Precise shot
 
 ## Misc
 
