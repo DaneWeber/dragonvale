@@ -9,6 +9,8 @@
 - [ ] Finalize inventory
 - [ ] Note default spell prep list
 - [ ] Locate tuning fork list
+- [ ] Level 13
+  - rolled a `1` for HP
 
 ## Visited Planes
 
@@ -35,7 +37,7 @@ The first Plane that Phil traveled to after meeting Bitsy was Bytopia.  This was
 
 Until, one day, a trade representative from Mechanus (visiting to secure a shipment of magical wood that is very useful for the mechanisms of certain structures) happened to hear one of Phil's sermons and was genuinely captivated by it.  He approached Phil and urged him to visit Mechanus and preach there, even obtaining for him the planar key to Mechanus.  Phil, flattered at the invitation, did not take long in accepting.
 
-At that time, the best that could be said of Phil's preaching was that it was unoffensive.  It was bland, predictable, and delivered in a metronomic sing-song that put most people to sleep.  It eschewed all hard-edged doctrine and mostly extolled the virtue of living humbly within one's divinely instituted class and state of life. 
+At that time, the best that could be said of Phil's preaching was that it was unoffensive.  It was bland, predictable, and delivered in a metronomic sing-song that put most people to sleep.  It eschewed all hard-edged doctrine and mostly extolled the virtue of living humbly within one's divinely instituted class and state of life.
 
 Boring for humans . . . but *all* of this was like gold on Mechanus.  A hundred almost identical homilies a year repeating the message of "be a good cog in the class system"?  Yes, please.
 

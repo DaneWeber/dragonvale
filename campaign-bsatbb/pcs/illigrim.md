@@ -4,6 +4,8 @@
 
 - [x] Skill Points for Rogue level 10
 - [x] Confirm save bonuses
+- [x] ECL 14
+  - rolled `2` for HP
 
 ## Misc
 
