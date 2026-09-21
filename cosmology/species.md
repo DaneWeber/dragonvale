@@ -46,7 +46,7 @@ The creatures of the Far Realms are other. They are simply different. They are n
 
 ### Lycanthropes and shapechangers
 
-Lycanthropes and shapechangers are creatures of shadow. The moon is their mistress.
+Lycanthropes and shapechangers are creatures of shadow. The moon is their mistress. They are believed to originate from beyond the aetheric boundary of the world, coming from the stars in the night sky.
 
 ## HUMANOID RACES
 
