@@ -77,7 +77,7 @@ Capital: Woodward (Large Town of 2,001-5,000 adults)
 Size: 1st largest (2200 sq. mi.), 11th most populous (3,000 vassals)
 Lord Protector: Son of Stag, Viscount: Maiden
 
-Contains the great depths of the forest, very dangerous, watches over trade with the FME.
+Contains the great depths of the forest and is quite dangerous. Woodward watches over trade with the Full Moon Empire through the mountains. The smaller town of Drylake lies to the north where smaller rivers come out of the mountains.
 
 ## Unterwalden
 
