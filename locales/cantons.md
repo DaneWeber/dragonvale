@@ -12,8 +12,10 @@ King's Keep is the capitol city of Hallstadt where the cantons gather for united
 
 ## Schwyz
 
-Capital: Brindinford (Metropolis of 25,001+ adults)
+Capital: (Metropolis of 25,001+ adults)
 Size: 2nd largest (1800 sq. mi.), 2nd most populous (35,000 vassals)
+
+Visited town of Brindinford (Large Town of 4,807 adults)
 
 ## Zurik
 
@@ -30,8 +32,10 @@ Great farmland.
 
 ## Kyburg
 
-Capital: Oakhurst (Large City of 12,001-25,000 adults)
+Capital: Kyburg (Large City of 12,001-25,000 adults)
 Size: 10th largest (800 sq. mi.), 5th most populous (18,000 vassals)
+
+Visited town of Oakhurst (Small Town of 901 adults)
 
 Ashardalon's plain, near the Swampwood.
 
@@ -60,10 +64,12 @@ Size: 7th largest (1100 sq. mi.), 9th most populous (10,000 vassals)
 
 ## Uri
 
-Capital: Ossington (Large Town of 2,001-5,000 adults)
+Capital:  (Large Town of 2,001-5,000 adults)
 Size: 9th largest (900 sq. mi.), 10th most populous (4,000 vassals)
 
 Distant and wooded, engaged in significant forestry.
+
+Visited town of Ossington (Thorp of 74 adults)
 
 ## Waldstatt
 
@@ -75,7 +81,7 @@ Contains the great depths of the forest, very dangerous, watches over trade with
 
 ## Unterwalden
 
-Capital: Blasingdell (Small Town of 901-2,000 adults)
+Capital: Blasingdell (Large Town of 2,021 adults)
 Size: 8th largest (1000 sq. mi.), 12th most populous (2,000 vassals)
 Lord Protector: Aidar Van Eck, Viscount: Oswin Meinrad
 
