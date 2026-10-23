@@ -89,7 +89,7 @@ People
 
 ## MONSTROUS HUMANOIDS
 
-### Gargoyles
+### Gargoyles/Kapoacinth
 
 New gargoyles begin as statues carved by non-gargoyles. Three gargoyles freeze for a year and a day while touching the statue. At the end of this period, the statue comes to life as a new gargoyle. Note that gargoyles have organs and are alive, even though they do not need to eat, sleep, or breathe.
 
