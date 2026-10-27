@@ -7,6 +7,19 @@
 - [ ] Review Excel spreadsheet for transformations
 - Level 13: 6hp
 
+## Backstory
+
+Ironhill and Mistbrook are two of the towns that Tallinn is concerned with.
+
+Eight fire giants stationed at the wooden fortress with the metal spider-ballista.
+
+- Tallinn is the Elder Druid of the Circle
+  - Greater Druids (9): 2
+    - Apprentice, also studying cold; collects coldfire vials
+  - Circle Druids (6): 4
+  - Acolytes (3): 8
+  - Initiates (1): 16
+
 ## Spell List
 
 DRUID SPELLS
