@@ -60,9 +60,15 @@ One curious thing about Halflings is that they seem to take to freshwater boatin
 
 ### Gnomes
 
-Gnomes form a sort of universal brotherhood. Gnomes recognize their fey heritage and treat fellow gnomes as deserving of considerations not made to others. Gnomes have all of the curiosity, entrepreneurial spirit, and wanderlust that Halflings lack. Gnomes travel, adventure, and explore throughout the world with little devotion to their homelands. They set up businesses and enterprises that have never been tried before and attempt to accomplish feats of mechanics, alchemy, and magic that have never been seen before.
+Gnomes seek novelty in a way the other primary races do not. Gnomes have all of the curiosity, entrepreneurial spirit, and wanderlust that Halflings lack. Gnomes travel, adventure, and explore throughout the world with little devotion to their homelands. They set up businesses and enterprises that have never been tried before and attempt to accomplish feats of mechanics, alchemy, and magic that have never been seen before.
 
-While they are inveterate tricksters who are not above tricking a man out of his money, their fey ancestry has faded as they have ceased being wild. In fact, it can be said that Gnomes are the domesticated fey. Slightly-less-domesticated Gnomes live in villages built into hills and trees that are hidden from view by fey magic.
+While they are inveterate tricksters who are not above tricking a man out of his money, their fey ancestry has faded as they have ceased being wild. In many ways, Gnomes are the domesticated fey. Slightly-less-domesticated Gnomes live in villages built into hills and trees that are hidden from view by fey illusions.
+
+### Old Gnomes
+
+As gnomes age, they become more eccentric and whimsical. Senile gnomes become lost in illusions and dreams, failing to distinguish reality from fantasy. Where an elderly human or halfling may hope to die peacefully in their sleep, gnomes lose any fear of death, disregard risk, and pursue wild experiments. A "typical" end may involve an explosion and plume of smoke from their workshop, leaving behind no evidence of their body but only the remnants of their final experiment.
+
+### Gnomes are Children of the Earth
 
 Gnomish children grow in the soil like plants for their first six months, forming a connection with the earth drawing upon the latent magical energies that permeate the land while fed sugar and sweets by their parents.
 
@@ -77,20 +83,37 @@ Gnomish children grow in the soil like plants for their first six months, formin
 
 Dwarves are industrious, loyal, and dedicated. While their greed is legendary, so is their dedication to excellence in their adopted pursuit.
 
-There are no "female" dwarves as far as non-dwarves can tell. Dwarves are "female" if they are able to craft precious metal statues of a miniature dwarf. Dwarves reproduce when one carries a precious metal statue she has carved for at least 200 days. Another dwarf must find a precious gemstone (cut or uncut) and carry it for at least 1,000 days. Once the statue and stone have been carried long enough, they are imbued with their dwarf-parent's  soul energy. The dwarf parents then ritually place the gem on the statue's chest and press. If successful, the gem merges into the statue and the entire thing becomes flesh and blood, breathing and now growing.
+### Old Dwarves
+
+Old dwarves are driven to work and be useful until the very end, even as their bodies fail and their movement slows. A dwarf at the end of their natural lifespan will petrify in place, becoming a stone statue capturing their final moment of labor and dedication.
+
+### Dwarves are Children of the Earth
+
+There are no "female" dwarves as far as non-dwarves can tell. Dwarves are "female" if they are able to craft precious metal statues of a miniature dwarf. Dwarves reproduce when one carries a precious metal statue she has carved for at least 200 days. Another dwarf must find a precious gemstone (cut or uncut) and carry it for at least 1,000 days. Once the statue and stone have been carried long enough, they are imbued with their dwarf-parent's soul energy. The dwarf parents then ritually place the gem on the statue's chest and press. If successful, the gem merges into the statue and the entire thing becomes flesh and blood, breathing, alive, and growing.
 
 ### Elves
 
 Elves are, as a people, far-sighted, with a view to long-term results. While they cannot compete with Dragons and Devils in working for ages to accomplish a complex plan, they do think and act on another level beyond the short-sighted goals of the other populous humanoids. Nearly every grand pursuit has been accomplished by elves, including great cities, ocean-going fleets, and towering libraries, but always in the particular way of the elves, which seeks to integrate all worthy goals into an coherent whole, including aesthetics, lifecycles, contemplation, elegant functionality, elven flourishing, and the ultimate end of all things.
 
+#### Elven Lands
+
+The elves have cities, islands, and other locales that cannot be found by ordinary people. Through innate senses, shared secrets, or magical means, elves are able to travel to these mysterious places. Arcanists claim that these are fey demi-planes connected to the prime through the ethereal, but these words do little to help anyone find to arrive there. Travel often requires a specific time, day, direction, or vehicle, but may also have additional keys or conditions required to pass.
+
 ### Humans
 
 People
+
+### Orcs
+
+Orcs descend from the union of elves and one of first races of giants. They are rejected by both giants and small folk for being too much like the other. The ancient curse from both long-lived lineages afflicted orcs with short, intense lifespans.
 
 ## MONSTROUS HUMANOIDS
 
 ### Gargoyles/Kapoacinth
 
+Not listed in their usual entry: gargoyles do not age while frozen in place. While they do have a finite lifespan, it can be dramatically extended by remaining frozen in place, pondering and watching the world go by.
+
+#### Gargoyles are Children of the Earth
+
 New gargoyles begin as statues carved by non-gargoyles. Three gargoyles freeze for a year and a day while touching the statue. At the end of this period, the statue comes to life as a new gargoyle. Note that gargoyles have organs and are alive, even though they do not need to eat, sleep, or breathe.
 
-Not listed in their usual entry: gargoyles do not age while frozen in place. While they do have a finite lifespan, it can be dramatically extended by remaining frozen in place, pondering and watching the world go by.
