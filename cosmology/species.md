@@ -97,7 +97,7 @@ Elves are, as a people, far-sighted, with a view to long-term results. While the
 
 #### Elven Lands
 
-The elves have cities, islands, and other locales that cannot be found by ordinary people. Through innate senses, shared secrets, or magical means, elves are able to travel to these mysterious places. Arcanists claim that these are fey demi-planes connected to the prime through the ethereal, but these words do little to help anyone find to arrive there. Travel often requires a specific time, day, direction, or vehicle, but may also have additional keys or conditions required to pass.
+The elves have cities, islands, and other locales that cannot be found by ordinary people. Through innate senses, shared secrets, or magical means, elves are able to travel to these mysterious places. Arcanists claim that these are fey demi-planes connected to the prime through the ethereal, but these words do little to help anyone find their way there. Travel often requires a specific time, day, direction, or vehicle, but may also have additional keys or conditions required to pass.
 
 ### Humans
 
