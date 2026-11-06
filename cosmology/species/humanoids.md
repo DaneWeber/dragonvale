@@ -12,6 +12,10 @@ Old dwarves are driven to work and be useful until the very end, even as their b
 
 There are no "female" dwarves as far as non-dwarves can tell. Dwarves are "female" if they are able to craft precious metal statues of a miniature dwarf. Dwarves reproduce when one carries a precious metal statue she has carved for at least 200 days. Another dwarf must find a precious gemstone (cut or uncut) and carry it for at least 1,000 days. Once the statue and stone have been carried long enough, they are imbued with their dwarf-parent's soul energy. The dwarf parents then ritually place the gem on the statue's chest and press. If successful, the gem merges into the statue and the entire thing becomes flesh and blood, breathing, alive, and growing.
 
+### Dwarf Origins
+
+Dwarves were created by through the machinations of dragons greedy for fine metals and precious stones.
+
 ## Elves
 
 Elves claim to be "the first people" and to have arrived from the stars.
@@ -21,6 +25,10 @@ Elves are, as a people, far-sighted, with a view to long-term results. While the
 ### Elven Lands
 
 The elves have cities, islands, and other locales that cannot be found by ordinary people. Through innate senses, shared secrets, or magical means, elves are able to travel to these mysterious places. Arcanists claim that these are fey demi-planes connected to the prime through the ethereal, but these words do little to help anyone find their way there. Travel often requires a specific time, day, direction, or vehicle, but may also have additional keys or conditions required to pass.
+
+### Elf Origins
+
+Elves predate the cataclysms of Iothar and even the creation of the planet itself. They are survivors from a previous world that was completely lost and came to Iothar from the stars. The high elves believe they lost their world because the elves dominated the entire planet and so seek to make room for others and to protect their people in hidden places. The drow seek safety from future cataclysms deep below the surface, but do not believe world domination was the cause of their world's destruction.
 
 ## Gnolls
 
@@ -47,6 +55,10 @@ Gnomish children grow in the soil like plants for their first six months, formin
 
 ## Goblins
 
+### Goblin Ecology
+
+Goblins carry "goblin eggs" within them that are terribly hardy and hatch a goblin soon after their parent/host dies. Goblins, hobgoblins, bugbears, and goblinqueens are the primary varieties of goblinkind, with the larger carrying more goblin eggs and the goblinqueen being able to lay her eggs without dying. A goblin horde is an almost unkillable extinction-level threat to the world.
+
 ## Halflings
 
 Halflings, as a people, find niches and stick to them. They enjoy the good life with small ambitions.
@@ -55,12 +67,22 @@ They are not a conquering race and they generally pack up and relocate rather th
 
 One curious thing about Halflings is that they seem to take to freshwater boating with greater pleasure than any other race. This leads to a good number of them traveling as extended families and calling their fleet of small boats home, rather than any stable location.
 
+### Halfling Origins
+
+Iothar is the halfling home world where this race of small folk were created and where they survived and thrived for ages, avoiding danger and finding safe havens.
+
 ## Humans
 
 People
 
+### Human Origins
+
+Humans are relatively new to Iothar. The Age of Man began only a few thousand years ago. They arrived from another world, bringing the common tongue of Sigil with them.
+
 ## Kobolds
 
 ## Orcs
+
+### Orc Origins
 
 Orcs descend from the union of elves and one of first races of giants. They are rejected by both giants and small folk for being too much like the other. The ancient curse from both long-lived lineages afflicted orcs with short, intense lifespans.
