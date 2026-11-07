@@ -57,7 +57,7 @@ Gnomish children grow in the soil like plants for their first six months, formin
 
 ### Goblin Ecology
 
-Goblins carry "goblin eggs" within them that are terribly hardy and hatch a goblin soon after their parent/host dies. Goblins, hobgoblins, bugbears, and goblinqueens are the primary varieties of goblinkind, with the larger carrying more goblin eggs and the goblinqueen being able to lay her eggs without dying. A goblin horde is an almost unkillable extinction-level threat to the world.
+Goblins carry "goblin eggs" within them that are terribly hardy and hatch a goblin larva soon after their parent/host dies. Goblins, hobgoblins, bugbears, and goblinqueens are the primary varieties of goblinkind, with the larger carrying more goblin eggs and the goblinqueen being able to excrete her eggs without dying. A goblin horde is an almost unkillable extinction-level threat to the world.
 
 ## Halflings
 
@@ -69,7 +69,7 @@ One curious thing about Halflings is that they seem to take to freshwater boatin
 
 ### Halfling Origins
 
-Iothar is the halfling home world where this race of small folk were created and where they survived and thrived for ages, avoiding danger and finding safe havens.
+Iothar is the halfling home world where this race of small folk were created and where they survived and thrived for ages, avoiding danger and finding safe havens. The other races are guests of the halflings, even though they do not acknowledge this or always reciprocate the hospitality.
 
 ## Humans
 
@@ -82,6 +82,15 @@ Humans are relatively new to Iothar. The Age of Man began only a few thousand ye
 ## Kobolds
 
 ## Orcs
+
+An orc’s first duty is to its own blood. The tribe is the family that shares that blood, and an orc will fight and die for kin in proportion to how much of itself it sees in them.
+
+Beyond kin, loyalty is a wager. When a chief calls a raid, orcs weigh the odds and the share, and the ones who think the gamble is good put their blades in. The loot is split by what each put in, and when the fighting is done the band or horde dissolves. The terms of shares are sacred and violating them destroys ones reputation, inciting revenge from the kin of the wronged.
+
+The laws of other races are thought of as merely threats the strong make to the weak, to be ignored if you can get away with it. Orcs respect strength and cunning above all, and will follow those who demonstrate both, regardless of their lineage.
+
+Eating, reproducing, maturing, and gaining martial prowess are the primary concerns of an orc's life. Wariness and decisive action are they response to threats and opportunities alike.
+
 
 ### Orc Origins
 
