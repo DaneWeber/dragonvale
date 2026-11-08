@@ -87,11 +87,10 @@ An orc’s first duty is to its own blood. The tribe is the family that shares t
 
 Beyond kin, loyalty is a wager. When a chief calls a raid, orcs weigh the odds and the share, and the ones who think the gamble is good put their blades in. The loot is split by what each put in, and when the fighting is done the band or horde dissolves. The terms of shares are sacred and violating them destroys ones reputation, inciting revenge from the kin of the wronged.
 
-The laws of other races are thought of as merely threats the strong make to the weak, to be ignored if you can get away with it. Orcs respect strength and cunning above all, and will follow those who demonstrate both, regardless of their lineage.
+The laws of other races are thought of as merely threats the strong make to the weak, to be ignored if you can get away with it. Orcs respect strength and cunning above all, and will follow those who demonstrate both, regardless of their lineage. Wariness and decisive action are the response to threats and opportunities alike. Few if any orcs are devoted to deities and those that are look for what they can get out of the arrangement.
 
-Eating, reproducing, maturing, and gaining martial prowess are the primary concerns of an orc's life. Wariness and decisive action are they response to threats and opportunities alike.
-
+The blood duty is to preserve, enrich, and propogate the blood lineage by eating, maturing, reproducing, and gaining martial prowess in order to better accomplish those ends. The literalness of their dedication to the success of the bloodline leads some scholars to hypothesize that orcs in fact are infested with a bloodborne parasite that compels them to help the parasite population spread and continue forever.
 
 ### Orc Origins
 
-Orcs descend from the union of elves and one of first races of giants. They are rejected by both giants and small folk for being too much like the other. The ancient curse from both long-lived lineages afflicted orcs with short, intense lifespans.
+Orcs descend from the union of elves and one of first races of giants, both of whom were concerned about prophecies of their species' respective downfalls. The resulting orc race is rejected by both giantkind and elvenkind for being too much like the other. The ancient magic from both long-lived lineages afflicted orcs with short, intense lifespans.
