@@ -2,7 +2,7 @@
 
 ## Dwarves
 
-Dwarves are industrious, loyal, and dedicated. While their greed is legendary, so is their dedication to excellence in their adopted pursuit.
+Craft is life for a dwarf. Dwarves are industrious, loyal, and dedicated. While their greed is legendary, so is their dedication to excellence in their adopted pursuit.
 
 ### Old Dwarves
 
@@ -14,7 +14,7 @@ There are no "female" dwarves as far as non-dwarves can tell. Dwarves are "femal
 
 ### Dwarf Origins
 
-Dwarves were created by through the machinations of dragons greedy for fine metals and precious stones.
+Dwarves were created by elemental spirits through the machinations of dragons. The dragons were greedy for works of fine metals and precious stones and the native halflings had little desire to mine or craft them.
 
 ## Elves
 
@@ -28,9 +28,11 @@ The elves have cities, islands, and other locales that cannot be found by ordina
 
 ### Elf Origins
 
-Elves predate the cataclysms of Iothar and even the creation of the planet itself. They are survivors from a previous world that was completely lost and came to Iothar from the stars. The high elves believe they lost their world because the elves dominated the entire planet and so seek to make room for others and to protect their people in hidden places. The drow seek safety from future cataclysms deep below the surface, but do not believe world domination was the cause of their world's destruction.
+Elves pre-date the historical cataclysms of Iothar and even the creation of the planet itself. They are survivors from a previous world that was completely lost and came to Iothar from the stars. The high elves believe they lost their world because the elves dominated the entire planet and so seek to make room for others and to protect their people in hidden places. The drow seek safety from future cataclysms deep below the surface, but do not believe world domination was the cause of their world's destruction.
 
 ## Gnolls
+
+Gnolls are a race of bestial people known for their ferocity and pack mentality. Gnolls see divine significance in every action and believe they are a special people gifted by the gods with the will do what must be done, no matter the cost. Because of this special status, they do not usually set out to harm or kill their own kind. They believe that they, like all mortals, are flawed and doomed to eternal punishment. The screams and agony of their victims are offerings to the gods that they hope will be accepted in place of some of their own eternal suffering.
 
 ## Gnomes
 
@@ -81,16 +83,18 @@ Humans are relatively new to Iothar. The Age of Man began only a few thousand ye
 
 ## Kobolds
 
+Draconic halflings of the Underdark.
+
 ## Orcs
 
-An orc’s first duty is to its own blood. The tribe is the family that shares that blood, and an orc will fight and die for kin in proportion to how much of itself it sees in them.
+Orcs innately understand that their first duty is to their own blood. The tribe is the family that shares that blood, and an orc will fight and die for kin in proportion to how much of itself it sees in them.
 
-Beyond kin, loyalty is a wager. When a chief calls a raid, orcs weigh the odds and the share, and the ones who think the gamble is good put their blades in. The loot is split by what each put in, and when the fighting is done the band or horde dissolves. The terms of shares are sacred and violating them destroys ones reputation, inciting revenge from the kin of the wronged.
+Beyond kin, loyalty is a wager. When a chief calls a raid, orcs weigh the odds and promised share to decide whether to join. Raiding parties and even hordes break apart when they can no longer promise sufficient benefits. The terms of shares are sacred and violating them destroys ones reputation, inciting revenge from the wronged and their kin without objection by other orcs.
 
 The laws of other races are thought of as merely threats the strong make to the weak, to be ignored if you can get away with it. Orcs respect strength and cunning above all, and will follow those who demonstrate both, regardless of their lineage. Wariness and decisive action are the response to threats and opportunities alike. Few if any orcs are devoted to deities and those that are look for what they can get out of the arrangement.
 
-The blood duty is to preserve, enrich, and propogate the blood lineage by eating, maturing, reproducing, and gaining martial prowess in order to better accomplish those ends. The literalness of their dedication to the success of the bloodline leads some scholars to hypothesize that orcs in fact are infested with a bloodborne parasite that compels them to help the parasite population spread and continue forever.
+The blood duty is to preserve, enrich, and propagate the blood lineage by eating, maturing, reproducing, and gaining martial prowess in order to better accomplish those ends. The literalness of their dedication to the success of the bloodline leads some scholars to hypothesize that orcs in fact are infested with a bloodborne parasite that compels them to help the parasite population spread and continue forever.
 
 ### Orc Origins
 
-Orcs descend from the union of elves and one of first races of giants, both of whom were concerned about prophecies of their species' respective downfalls. The resulting orc race is rejected by both giantkind and elvenkind for being too much like the other. The ancient magic from both long-lived lineages afflicted orcs with short, intense lifespans.
+Orcs descend from the union of elves and one of first races of giants, both of whom wanted to preserve their bloodlines and were concerned about prophecies of their species' respective downfalls. The resulting orc race is rejected by both giantkind and elvenkind for being too much like the other. The ancient magic from both long-lived lineages afflicted orcs with short, intense lifespans utterly devoted to the preservation and propagation of their bloodline.
