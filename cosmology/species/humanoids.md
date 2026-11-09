@@ -83,7 +83,7 @@ Humans are relatively new to Iothar. The Age of Man began only a few thousand ye
 
 ## Kobolds
 
-Draconic halflings of the Underdark.
+An attempt by dragons to create a better version of the native halflings, combining draconic traits with halfling characteristics to produce servants who would carve lairs, fill armies, and craft beautiful works. Unfortunately for the dragons, while kobolds are ambitious, industrious, and comfortable underground, they are self-serving like a dragon and try to avoid conflict like a halfing. If anything, their sense of self-preservation might be their defining trait, attempting to use stealth, traps, and ranged weapons to stay out of danger, only fighting to the death when a worse death is the alternative.
 
 ## Orcs
 
