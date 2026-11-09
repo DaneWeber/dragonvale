@@ -20,7 +20,7 @@ Crystal sphere containing the world of Iothar.
    2. Warps the light of distant stars when it passes near them.
 7. Crown Jewels
    1. Ring of faint lights in an orbit at a right angle to the equator's plane, the furthest from Iothar.
-   2. Each star is in fact a world encased in its own crystal sphere, everything within it completely isolated from wildspace.
+   2. Each star is in fact a world encased in its own impenetrable transparent barrier, everything within it completely isolated from wildspace.
    3. These worlds are held in stasis, unaffected by the passage of time or external forces.
 
 ## Constellations
