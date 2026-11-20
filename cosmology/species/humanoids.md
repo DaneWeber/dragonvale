@@ -30,6 +30,10 @@ The elves have cities, islands, and other locales that cannot be found by ordina
 
 Elves pre-date the historical cataclysms of Iothar and even the creation of the planet itself. They are survivors from a previous world that was completely lost and came to Iothar from the stars. The high elves believe they lost their world because the elves dominated the entire planet and so seek to make room for others and to protect their people in hidden places. The drow seek safety from future cataclysms deep below the surface, but do not believe world domination was the cause of their world's destruction.
 
+### Old Elves
+
+In the final decades of an elf's life, their body gradually fades away, becoming ethereal until they can no longer affect the material world. Such an elf may linger to observe and communicate with the living, deciding when they wish to finally pass on to the afterlife.
+
 ## Gnolls
 
 Gnolls are a race of bestial people known for their ferocity and pack mentality. Gnolls see divine significance in every action and believe they are a special people gifted by the gods with the will do what must be done, no matter the cost. Because of this special status, they do not usually set out to harm or kill their own kind. They believe that they, like all mortals, are flawed and doomed to eternal punishment. The screams and agony of their victims are offerings to the gods that they hope will be accepted in place of some of their own eternal suffering.
@@ -57,9 +61,21 @@ Gnomish children grow in the soil like plants for their first six months, formin
 
 ## Goblins
 
+Goblins lust after their own deaths, although they exercise self-control in order to meet the competing drive to kill. Goblinoids are nearly impossible to eradicate, but left unchecked a goblin horde can be an extinction-level threat to the world.
+
+Hobgoblins are the "people" of goblinkind. They are natural-born soldiers and capable smiths, forming social structures and military hierarchies.
+
+Goblins are the small scavengers and survivors of goblinkind. Hobgoblins treat them as a nuisance, although are happy to exploit them, either for labor or as auxiliaries such as worg-riders, swarming attackers, or particularly hard-to-spot scouts.
+
+Bugbears are the largest and most brutal of the goblinoids and love hunting and ambushes. They frequently leave their tribe to wander and hunt, including hunting other goblin tribes.
+
 ### Goblin Ecology
 
-Goblins carry "goblin eggs" within them that are terribly hardy and hatch a goblin larva soon after their parent/host dies. Goblins, hobgoblins, bugbears, and goblinqueens are the primary varieties of goblinkind, with the larger carrying more goblin eggs and the goblinqueen being able to excrete her eggs without dying. A goblin horde is an almost unkillable extinction-level threat to the world.
+Goblins are all a single sex and species that carries "goblin eggs" within them that are terribly hardy and hatch a goblin larva soon after their parent/host dies. Goblins, hobgoblins, and bugbears are the primary varieties of goblinkind, with the larger carrying more goblin eggs.
+
+Hobgoblins are formed when a larva finds sufficient organic matter. Goblins are the runts. Bugbears are produced by an excess of goblin larva and food and serve as genetic drones by hunting and eating goblins from other tribes. When goblinoids eat the eggs of other goblinoids, their own eggs gain traits from the consumed eggs.
+
+If there is an overabundance of food, such as after an enormous battle and slaughter, the goblin larva can generate a mass of thousands of goblin eggs and burst open, never metamorphosing into a mature goblin.
 
 ## Halflings
 
@@ -98,3 +114,7 @@ The blood duty is to preserve, enrich, and propagate the blood lineage by eating
 ### Orc Origins
 
 Orcs descend from the union of elves and one of first races of giants, both of whom wanted to preserve their bloodlines and were concerned about prophecies of their species' respective downfalls. The resulting orc race is rejected by both giantkind and elvenkind for being too much like the other. The ancient magic from both long-lived lineages afflicted orcs with short, intense lifespans utterly devoted to the preservation and propagation of their bloodline.
+
+### Old Orcs
+
+Weak or elderly orcs contribute to their bloodlines by caring for the young, gathering food, crafting, or offering advice. When they can no longer contribute more than they take, they will leave all of their possessions with their tribe and find death. The blood duty forbids orcs from eating their kin, otherwise they would offer themselves as a meal.
