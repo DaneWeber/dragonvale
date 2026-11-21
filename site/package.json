@@ -1,0 +1,18 @@
+{
+  "name": "dragonvale-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node build.mjs && npx --yes http-server ../_site -p 8080 -c-1"
+  },
+  "dependencies": {
+    "diff": "^5.2.0",
+    "github-slugger": "^2.0.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-task-lists": "^2.1.1"
+  },
+  "packageManager": "pnpm@11.23.0"
+}

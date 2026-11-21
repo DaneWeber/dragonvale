@@ -1,0 +1,17 @@
+{
+  "title": "Dragonvale",
+  "repoUrl": "https://github.com/DaneWeber/dragonvale",
+  "exclude": [
+    ".devcontainer",
+    ".github",
+    "site"
+  ],
+  "directoryTitles": {
+    "campaign-bsatbb": "Black Stag & the Beefy Boys",
+    "campaign-lords": "The Lords Campaign",
+    "pcs": "Player Characters",
+    "npcs": "Non-Player Characters",
+    "meta": "Meta",
+    "published-adventures": "Published Adventures"
+  }
+}
