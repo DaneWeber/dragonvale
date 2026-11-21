@@ -27,11 +27,101 @@
   // ------------------------------------------------------------- navigation
 
   const sidebar = document.getElementById('sidebar');
+  const outline = document.getElementById('outline');
+  const drawer = document.getElementById('drawer');
   const toggle = document.querySelector('.nav-toggle');
-  toggle?.addEventListener('click', () => {
-    const open = sidebar.classList.toggle('open');
-    toggle.setAttribute('aria-expanded', String(open));
+  const narrow = window.matchMedia('(max-width: 820px)');
+  const PANELS_KEY = 'dragonvale:panels';
+  const TAB_KEY = 'dragonvale:drawerTab';
+
+  // Small screens: one slide-out drawer holding both navigations behind tabs.
+  const masthead = document.querySelector('.masthead');
+  function setDrawer(open) {
+    if (open) document.documentElement.style.setProperty('--masthead-h', `${masthead.getBoundingClientRect().bottom}px`);
+    drawer.classList.toggle('open', open);
+    toggle?.setAttribute('aria-expanded', String(open));
+  }
+  toggle?.addEventListener('click', () => setDrawer(!drawer.classList.contains('open')));
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && drawer.classList.contains('open')) { setDrawer(false); toggle?.focus(); }
   });
+
+  const tabs = [...drawer.querySelectorAll('[role="tab"]')];
+  function selectTab(name) {
+    drawer.dataset.tab = name;
+    tabs.forEach((t) => t.setAttribute('aria-selected', String(t.dataset.tab === name)));
+    try { sessionStorage.setItem(TAB_KEY, name); } catch { /* ignore */ }
+  }
+  tabs.forEach((t) => t.addEventListener('click', () => selectTab(t.dataset.tab)));
+  if (outline) {
+    let saved = null;
+    try { saved = sessionStorage.getItem(TAB_KEY); } catch { /* ignore */ }
+    selectTab(saved === 'outline' ? 'outline' : 'sidebar');
+  }
+
+  // Wide screens: each side panel can be folded down to a slim rail.
+  const html = document.documentElement;
+  function syncPanel(btn) {
+    const name = btn.dataset.panel;
+    const collapsed = html.classList.contains(`${name}-collapsed`);
+    btn.setAttribute('aria-expanded', String(!collapsed));
+    btn.title = `${collapsed ? 'Show' : 'Hide'} the ${name === 'sidebar' ? 'page list' : 'outline'}`;
+  }
+  document.querySelectorAll('.panel-collapse').forEach((btn) => {
+    syncPanel(btn);
+    // A folded panel's whole rail is a target for unfolding it.
+    btn.closest('.panel').addEventListener('click', (e) => {
+      if (e.target.closest('.panel-collapse') || narrow.matches) return;
+      if (html.classList.contains(`${btn.dataset.panel}-collapsed`)) btn.click();
+    });
+    btn.addEventListener('click', () => {
+      const name = btn.dataset.panel;
+      const collapsed = html.classList.toggle(`${name}-collapsed`);
+      syncPanel(btn);
+      let prefs = {};
+      try { prefs = JSON.parse(localStorage.getItem(PANELS_KEY)) || {}; } catch { /* ignore */ }
+      prefs[name] = !collapsed;
+      try { localStorage.setItem(PANELS_KEY, JSON.stringify(prefs)); } catch { /* ignore */ }
+    });
+  });
+
+  // The outline: close the drawer after a jump, and mark the section being read.
+  if (outline) {
+    const links = [...outline.querySelectorAll('a[href^="#"]')];
+    const ids = links.map((a) => decodeURIComponent(a.hash.slice(1)));
+    outline.addEventListener('click', (e) => {
+      if (e.target.closest('a') && narrow.matches) setDrawer(false);
+    });
+    let current = -1;
+    let queued = false;
+    const spy = () => {
+      queued = false;
+      // Headings are looked up afresh each time: the change highlighter rebuilds the article.
+      const line = parseFloat(getComputedStyle(html).scrollPaddingTop) + 24 || 96;
+      let active = -1;
+      for (let i = 0; i < ids.length; i++) {
+        const el = document.getElementById(ids[i]);
+        if (!el || el.offsetParent === null) continue;
+        if (el.getBoundingClientRect().top <= line) active = i;
+        else break;
+      }
+      if (active === current) return;
+      links[current]?.removeAttribute('aria-current');
+      current = active;
+      const link = links[current];
+      if (!link) return;
+      link.setAttribute('aria-current', 'location');
+      // Keep the marked entry visible inside a long outline without moving the page.
+      const top = link.offsetTop - outline.offsetTop;
+      if (top < outline.scrollTop + 40 || top > outline.scrollTop + outline.clientHeight - 40) {
+        outline.scrollTop = top - outline.clientHeight / 3;
+      }
+    };
+    const queue = () => { if (!queued) { queued = true; requestAnimationFrame(spy); } };
+    window.addEventListener('scroll', queue, { passive: true });
+    window.addEventListener('resize', queue);
+    spy();
+  }
 
   const filter = document.querySelector('.nav-filter');
   filter?.addEventListener('input', () => {

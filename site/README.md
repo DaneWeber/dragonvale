@@ -9,6 +9,12 @@ pnpm build   # writes ../_site
 pnpm serve   # builds, then serves ../_site at http://localhost:8080
 ```
 
+## Navigation
+
+Wide screens show three columns: the page list on the left, the page, and an **On this page** outline of its headings (levels 2–4) on the right. The outline highlights the section you are reading. Each side column folds into a slim rail with its `«`/`»` button. The browser remembers the choice. Between 821 and 1199 pixels wide, the outline starts folded.
+
+On phones, ☰ opens a drawer with **Pages** and **On this page** tabs. Choosing a heading jumps to it and closes the drawer. Pages with fewer than two headings get no outline.
+
 ## Catching up on changes
 
 Every page has a **Show changes since** control. Pick an earlier version, or a date, and the current page is shown with new words highlighted in gold and changed passages marked in the margin. Use **Prev/Next** (or the `n`/`p` keys) to step through the changes. **Show removed text** brings back deleted passages, struck through.

@@ -18,23 +18,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0 # the "what changed" feature needs every page's full history
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/setup@v3 # installs pnpm (from packageManager), Node, and runs a frozen install
         with:
-          package_json_file: site/package.json
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: pnpm
-          cache-dependency-path: site/pnpm-lock.yaml
-      - run: pnpm install --frozen-lockfile
-        working-directory: site
+          working-directory: site
+          runtime: node@22
+          cache: true
+          require-lockfile: true
       - run: pnpm run build
         working-directory: site
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -46,4 +42,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

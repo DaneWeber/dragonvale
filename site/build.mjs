@@ -35,7 +35,8 @@ const isExcluded = (p) =>
 const tracked = git('ls-files', '-z')
   .split('\0')
   .filter(Boolean)
-  .filter((p) => !isExcluded(p));
+  .filter((p) => !isExcluded(p))
+  .filter((p) => fs.existsSync(path.join(REPO, p))); // deleted locally but not yet committed
 
 const pages = tracked.filter((p) => p.endsWith('.md'));
 const assets = tracked.filter((p) => !p.endsWith('.md') && !/(^|\/)\.git(attributes|ignore)$/.test(p));
@@ -98,9 +99,38 @@ function makeRenderer() {
 }
 
 const renderer = makeRenderer();
+const OUTLINE_LEVELS = [2, 3, 4];
+
+/** Renders Markdown and collects the headings (with their anchor ids) for the page outline. */
 function render(source) {
   renderer.reset();
-  return renderer.md.render(source);
+  const env = {};
+  const tokens = renderer.md.parse(source, env);
+  const headings = [];
+  tokens.forEach((t, i) => {
+    if (t.type !== 'heading_open') return;
+    const level = Number(t.tag.slice(1));
+    const id = t.attrGet('id');
+    if (!id || !OUTLINE_LEVELS.includes(level)) return;
+    const text = (tokens[i + 1].children ?? [])
+      .filter((c) => c.type === 'text' || c.type === 'code_inline')
+      .map((c) => c.content)
+      .join('')
+      .trim();
+    if (text) headings.push({ level, id, text });
+  });
+  return { html: renderer.md.renderer.render(tokens, renderer.md.options, env), headings };
+}
+
+function outlineHtml(headings) {
+  const top = Math.min(...headings.map((h) => h.level));
+  const items = headings
+    .map((h) => `<li class="lvl-${h.level - top}"><a href="#${encodeURIComponent(h.id)}">${esc(h.text)}</a></li>`)
+    .join('');
+  return `<nav id="outline" class="outline panel" aria-label="On this page" role="tabpanel">
+    <div class="panel-head"><span class="panel-title">On this page</span><button type="button" class="panel-collapse" data-panel="outline" aria-controls="outline-list" aria-expanded="true" title="Hide the outline"><span aria-hidden="true">»</span></button></div>
+    <ol id="outline-list">${items}</ol>
+  </nav>`;
 }
 
 function titleOf(source, file) {
@@ -156,7 +186,8 @@ function navHtml(node, rel, current, dirPath = '') {
 const fmtDate = (iso) =>
   new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
 
-function layout({ title, body, rel, current, tree, pageMeta, breadcrumbs }) {
+function layout({ title, body, rel, current, tree, pageMeta, breadcrumbs, headings = [] }) {
+  const hasOutline = headings.length >= 2;
   const crumbs = breadcrumbs
     .map((c) => (c.href ? `<a href="${rel}${esc(c.href)}">${esc(c.label)}</a>` : `<span>${esc(c.label)}</span>`))
     .join('<span class="sep" aria-hidden="true">❧</span>');
@@ -171,19 +202,34 @@ function layout({ title, body, rel, current, tree, pageMeta, breadcrumbs }) {
 <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${rel}assets/style.css">
 <link rel="icon" href="${rel}assets/favicon.svg" type="image/svg+xml">
+<script>(function(){var d=document.documentElement,s={};try{s=JSON.parse(localStorage.getItem('dragonvale:panels'))||{}}catch(e){}if(s.sidebar===false)d.classList.add('sidebar-collapsed');if(s.outline===false||(s.outline==null&&innerWidth<1200))d.classList.add('outline-collapsed')})()</script>
 </head>
-<body data-root="${rel}"${pageMeta ? ` data-page="${esc(current)}"` : ''}>
+<body data-root="${rel}"${pageMeta ? ` data-page="${esc(current)}"` : ''}${hasOutline ? '' : ' class="no-outline"'}>
 <a class="skip" href="#content">Skip to content</a>
 <header class="masthead">
-  <button class="nav-toggle" aria-controls="sidebar" aria-expanded="false" title="Contents">☰</button>
+  <button class="nav-toggle" aria-controls="drawer" aria-expanded="false" title="Contents">☰</button>
   <a class="brand" href="${rel}index.html"><span class="brand-mark" aria-hidden="true">⚜</span> ${esc(config.title)}</a>
   <a class="masthead-link" href="${rel}changes.html">Recent Changes</a>
 </header>
 <div class="frame">
-  <nav id="sidebar" class="sidebar" aria-label="Contents">
-    <input type="search" class="nav-filter" placeholder="Seek a page…" aria-label="Filter pages">
-    ${navHtml(tree, rel, current)}
-  </nav>
+  <div id="drawer" class="drawer"${hasOutline ? '' : ' data-tab="sidebar"'}>
+    ${
+      hasOutline
+        ? `<div class="drawer-tabs" role="tablist" aria-label="Navigation">
+      <button type="button" role="tab" data-tab="sidebar" aria-controls="sidebar" aria-selected="true">Pages</button>
+      <button type="button" role="tab" data-tab="outline" aria-controls="outline" aria-selected="false">On this page</button>
+    </div>`
+        : ''
+    }
+    <nav id="sidebar" class="sidebar panel" aria-label="Contents" role="tabpanel">
+      <div class="panel-head"><span class="panel-title">Pages</span><button type="button" class="panel-collapse" data-panel="sidebar" aria-controls="sidebar-body" aria-expanded="true" title="Hide the page list"><span aria-hidden="true">«</span></button></div>
+      <div id="sidebar-body" class="panel-body">
+        <input type="search" class="nav-filter" placeholder="Seek a page…" aria-label="Filter pages">
+        ${navHtml(tree, rel, current)}
+      </div>
+    </nav>
+    ${hasOutline ? outlineHtml(headings) : ''}
+  </div>
   <main id="content">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">${crumbs}</nav>
     ${pageMeta ? chronicleHtml(pageMeta) : ''}
@@ -267,13 +313,13 @@ let versionCount = 0;
 for (const e of entries) {
   const rel = relRoot(e.out);
   const meta = { file: e.file, out: e.out, versions: e.versions };
-  let body = render(e.source);
+  let { html: body, headings } = render(e.source);
   if (e.out === 'index.html') body += homeExtras(rel);
-  write(e.out, layout({ title: e.title, body, rel, current: e.out, tree, pageMeta: meta, breadcrumbs: crumbsFor(e.out, e.title) }));
+  write(e.out, layout({ title: e.title, body, rel, current: e.out, tree, pageMeta: meta, breadcrumbs: crumbsFor(e.out, e.title), headings }));
 
   // Rendered snapshots of every earlier version, fetched by chronicle.js.
   for (const v of e.versions.slice(1)) {
-    write(`versions/${e.out.replace(/\.html$/, '')}/${v.sha}.html`, render(v.source));
+    write(`versions/${e.out.replace(/\.html$/, '')}/${v.sha}.html`, render(v.source).html);
     versionCount++;
   }
 }
