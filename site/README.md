@@ -35,3 +35,7 @@ The build renders each earlier version of each page into `_site/versions/`, so i
 - `repoUrl`: the repository, used for the "source" and "full history" links.
 - `directoryTitles`: display names for folders, keyed by folder name.
 - `exclude`: paths (files or folders) left out of the site entirely.
+
+## Stat blocks
+
+A ` ```yaml ` fence is treated as a creature stat block: each `Key: value` line (tab or spaces after the colon) becomes a row with the key in bold on the left and the value on the right, set in the normal body font. Indented lines nest under a key that has no value of its own (e.g. a creature name, or `Powers Known:`), and a line without a `Key:` continues the previous value. A fence that doesn't fit that shape stays an ordinary code block.

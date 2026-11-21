@@ -92,10 +92,57 @@ function makeRenderer() {
     if (href && /^https?:/i.test(href)) tokens[idx].attrSet('rel', 'noopener');
     return defaultLinkOpen(tokens, idx, options, env, self);
   };
+  // ```yaml blocks hold creature stat blocks ("Key: value" lines, optionally nested); show them as
+  // a key/value list that reads like the surrounding prose. Anything else stays a code block.
+  const defaultFence = md.renderer.rules.fence;
+  md.renderer.rules.fence = (tokens, idx, options, env, self) => {
+    const t = tokens[idx];
+    if (t.info.trim().toLowerCase() === 'yaml') {
+      const html = statBlockHtml(t.content);
+      if (html) return html;
+    }
+    return defaultFence(tokens, idx, options, env, self);
+  };
   // Wide tables scroll sideways inside a wrapper instead of being clipped.
   md.renderer.rules.table_open = () => '<div class="table-wrap"><table>\n';
   md.renderer.rules.table_close = () => '</table></div>\n';
   return { md, reset: () => slugger.reset() };
+}
+
+/**
+ * Parses loose "Key: value" stat-block YAML (tabs or spaces after the colon, indentation for
+ * nesting, unkeyed lines continuing the previous value) into table rows. Returns null if the
+ * block doesn't look like that, so it can render as ordinary code instead.
+ */
+function statBlockHtml(content) {
+  const rows = [];
+  const indents = [];
+  for (const raw of content.split('\n')) {
+    if (!raw.trim() || /^\s*#/.test(raw)) continue;
+    const indent = raw.match(/^\s*/)[0].replace(/\t/g, '  ').length;
+    const m = raw.match(/^\s*([^:\s(][^:]{0,40}?)\s*:(?:\s+(.*))?$/);
+    if (m) {
+      while (indents.length && indents.at(-1) > indent) indents.pop();
+      if (!indents.length || indents.at(-1) < indent) indents.push(indent);
+      rows.push({ depth: indents.length - 1, key: m[1].trim(), value: (m[2] ?? '').trim() });
+    } else if (rows.length) {
+      const last = rows.at(-1);
+      last.value = `${last.value} ${raw.trim()}`.trim();
+    } else {
+      return null;
+    }
+  }
+  if (!rows.length) return null;
+  const body = rows
+    .map((r, i) => {
+      const cls = r.depth ? ` class="sb-depth-${Math.min(r.depth, 3)}"` : '';
+      const isGroup = !r.value && rows[i + 1]?.depth > r.depth;
+      return isGroup
+        ? `<tr${cls}><th colspan="2" class="sb-group">${esc(r.key)}</th></tr>`
+        : `<tr${cls}><th scope="row">${esc(r.key)}</th><td>${esc(r.value)}</td></tr>`;
+    })
+    .join('\n');
+  return `<table class="statblock">\n${body}\n</table>\n`;
 }
 
 const renderer = makeRenderer();

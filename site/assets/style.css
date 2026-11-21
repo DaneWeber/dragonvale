@@ -288,6 +288,16 @@ main { padding: 1.5rem clamp(1rem, 4vw, 3.5rem) 4rem; min-width: 0; }
 .page th { font-family: var(--fell-font); background: var(--parchment-deep); font-weight: normal; }
 .page tr:nth-child(even) td { background: color-mix(in srgb, var(--parchment-deep) 35%, transparent); }
 
+/* Stat blocks (```yaml fences): bold keys beside plain values, set like the body text. */
+.page table.statblock { width: 100%; font-size: inherit; line-height: inherit; }
+.page table.statblock tr > * { border: 0; background: none; padding: 0.05em 0; }
+.page table.statblock tr > th { font-family: inherit; font-weight: 600; white-space: nowrap; padding-right: 1em; width: 1%; }
+.page .statblock th.sb-group { padding-top: 0.4em; }
+.page .statblock tr.sb-depth-1 th:first-child { padding-left: 1.25em; }
+.page .statblock tr.sb-depth-2 th:first-child { padding-left: 2.5em; }
+.page .statblock tr.sb-depth-3 th:first-child { padding-left: 3.75em; }
+@media (max-width: 540px) { .page .statblock th { white-space: normal; } }
+
 .page .footnotes { font-size: 0.95rem; color: var(--ink-soft); }
 .task-list-item { list-style: none; }
 .task-list-item input { margin-left: -1.4em; margin-right: 0.4em; }
