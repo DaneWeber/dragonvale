@@ -85,15 +85,36 @@
     });
   });
 
-  // The outline: close the drawer after a jump, and mark the section being read.
+  // The outline: fold long sections, close the drawer after a jump, and mark the section being read.
   if (outline) {
     const links = [...outline.querySelectorAll('a[href^="#"]')];
     const ids = links.map((a) => decodeURIComponent(a.hash.slice(1)));
+    const FOLDS_KEY = `dragonvale:folds:${location.pathname}`;
+    const folds = [...outline.querySelectorAll('.outline-fold')];
+    const sectionId = (btn) => decodeURIComponent(btn.nextElementSibling.hash.slice(1));
+    function setFold(btn, folded) {
+      btn.closest('li').classList.toggle('folded', folded);
+      btn.setAttribute('aria-expanded', String(!folded));
+    }
+    function saveFolds() {
+      const folded = folds.filter((b) => b.getAttribute('aria-expanded') === 'false').map(sectionId);
+      try { sessionStorage.setItem(FOLDS_KEY, JSON.stringify(folded)); } catch { /* ignore */ }
+    }
+    try {
+      const saved = new Set(JSON.parse(sessionStorage.getItem(FOLDS_KEY)) || []);
+      folds.forEach((b) => { if (saved.has(sectionId(b))) setFold(b, true); });
+    } catch { /* ignore */ }
     outline.addEventListener('click', (e) => {
-      if (e.target.closest('a') && narrow.matches) setDrawer(false);
+      const fold = e.target.closest('.outline-fold');
+      const all = e.target.closest('.outline-fold-all');
+      if (fold) setFold(fold, fold.getAttribute('aria-expanded') === 'true');
+      else if (all) folds.forEach((b) => setFold(b, all.dataset.fold === 'all'));
+      else if (e.target.closest('a') && narrow.matches) setDrawer(false);
+      if (fold || all) { saveFolds(); refold = true; queue(); }
     });
     let current = -1;
     let queued = false;
+    let refold = false; // folding moves where the marker shows, even with no scroll
     const spy = () => {
       queued = false;
       // Headings are looked up afresh each time: the change highlighter rebuilds the article.
@@ -105,14 +126,20 @@
         if (el.getBoundingClientRect().top <= line) active = i;
         else break;
       }
-      if (active === current) return;
+      if (active === current && !refold) return;
+      refold = false;
       links[current]?.removeAttribute('aria-current');
+      outline.querySelector('.holds-current')?.classList.remove('holds-current');
       current = active;
       const link = links[current];
       if (!link) return;
       link.setAttribute('aria-current', 'location');
+      // Inside a folded section, the outermost fold stands in for the hidden entry.
+      const folded = [...outline.querySelectorAll('li.folded')].find((li) => li.contains(link) && li.querySelector('a') !== link);
+      folded?.classList.add('holds-current');
+      const shown = folded ? folded.querySelector('a') : link;
       // Keep the marked entry visible inside a long outline without moving the page.
-      const top = link.offsetTop - outline.offsetTop;
+      const top = shown.getBoundingClientRect().top - outline.getBoundingClientRect().top + outline.scrollTop;
       if (top < outline.scrollTop + 40 || top > outline.scrollTop + outline.clientHeight - 40) {
         outline.scrollTop = top - outline.clientHeight / 3;
       }

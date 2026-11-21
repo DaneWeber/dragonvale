@@ -11,7 +11,7 @@ pnpm serve   # builds, then serves ../_site at http://localhost:8080
 
 ## Navigation
 
-Wide screens show three columns: the page list on the left, the page, and an **On this page** outline of its headings (levels 2–4) on the right. The outline highlights the section you are reading. Each side column folds into a slim rail with its `«`/`»` button. The browser remembers the choice. Between 821 and 1199 pixels wide, the outline starts folded.
+Wide screens show three columns: the page list on the left, the page, and an **On this page** outline of its headings (levels 2–4) on the right. The outline highlights the section you are reading. A heading with subheadings has a `▸` toggle that folds them away, and **Fold all** / **Unfold all** reduce the outline to its top-level sections or open it fully. While you read inside a folded section, the folded heading is highlighted in its place. Folds are remembered per page for the browser tab's session. Each side column folds into a slim rail with its `«`/`»` button. The browser remembers the choice. Between 821 and 1199 pixels wide, the outline starts folded.
 
 On phones, ☰ opens a drawer with **Pages** and **On this page** tabs. Choosing a heading jumps to it and closes the drawer. Pages with fewer than two headings get no outline.
 

@@ -174,20 +174,39 @@ main { grid-column: 2; grid-row: 1; }
   border: 1px solid var(--rule); border-radius: 3px; padding: 0.35rem 0.6rem;
 }
 
-/* The page outline: one entry per heading, indented by depth. */
-.outline ol { list-style: none; margin: 0; padding: 0; }
+/* The page outline: headings nested by depth; any section with subsections can fold. */
+.outline { --fold: 1.1rem; }
+.outline ol { list-style: none; margin: 0; padding: 0; border-left: 1px dotted var(--rule); }
+.outline ol ol { margin-left: calc(var(--fold) / 2); font-size: 0.95em; }
 .outline li { margin: 0; }
-.outline li.lvl-1 { padding-left: 0.9rem; font-size: 0.95em; }
-.outline li.lvl-2 { padding-left: 1.8rem; font-size: 0.9em; }
+.outline-row { display: flex; align-items: baseline; }
+.outline li:not(.has-sub) > .outline-row { padding-left: var(--fold); }
 .outline a {
-  display: block; padding: 0.2rem 0 0.2rem 0.6rem;
-  border-left: 2px solid transparent; margin-left: -2px;
+  flex: 1; min-width: 0; display: block; padding: 0.2rem 0 0.2rem 0.3rem;
+  border-left: 2px solid transparent;
   color: var(--ink-soft); text-decoration: none;
 }
-.outline li.lvl-0 > a { font-family: var(--fell-font); color: var(--ink); }
-.outline a:hover { color: var(--rubric); }
-.outline a[aria-current="location"] { color: var(--rubric); border-left-color: var(--gilt); }
-.outline ol { border-left: 1px dotted var(--rule); }
+.outline li.lvl-0 > .outline-row > a { font-family: var(--fell-font); color: var(--ink); }
+.outline a:hover, .outline li.lvl-0 > .outline-row > a:hover { color: var(--rubric); }
+.outline a[aria-current="location"], .outline li.lvl-0 > .outline-row > a[aria-current="location"] { color: var(--rubric); border-left-color: var(--gilt); }
+.outline-fold {
+  flex: none; width: var(--fold); padding: 0; align-self: stretch;
+  font: inherit; font-size: 0.8em; line-height: 1; cursor: pointer;
+  background: none; border: 0; color: var(--gilt);
+}
+.outline-fold:hover, .outline-fold:focus-visible { color: var(--rubric); }
+.outline-fold span { display: inline-block; transform: rotate(90deg); transition: transform 0.15s; }
+.outline-fold[aria-expanded="false"] span { transform: none; }
+.outline li.folded > ol { display: none; }
+/* A folded section stands in for the hidden heading you are reading. */
+.outline li.folded.holds-current > .outline-row > a { color: var(--rubric); border-left-color: var(--gilt); border-left-style: dotted; }
+.outline-tools { display: flex; gap: 0.9rem; margin: 0 0 0.5rem; font-size: 0.85rem; }
+.outline-fold-all {
+  padding: 0; font: inherit; font-style: italic; cursor: pointer;
+  background: none; border: 0; color: var(--ink-soft);
+  text-decoration: underline dotted var(--rule); text-underline-offset: 3px;
+}
+.outline-fold-all:hover, .outline-fold-all:focus-visible { color: var(--rubric); }
 
 a.unread::after { content: ' ✦'; color: var(--gilt); font-size: 0.8em; }
 
@@ -418,7 +437,8 @@ li.change ul { margin: 0.3rem 0 0; padding-left: 1.4rem; font-size: 1.05rem; }
   .drawer[data-tab="outline"] .sidebar { display: none; }
   /* Collapsing is a wide-screen affair; the tabs stand in for it here. */
   .panel-head { display: none; }
-  .outline ol { border-left: 0; }
+  .outline > ol { border-left: 0; }
+  .outline { --fold: 1.6rem; }
   main { padding: 1rem 1rem 3rem; }
   .page { padding: 1.75rem 1.4rem 2rem; }
   .page h1 { font-size: 2rem; }

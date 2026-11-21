@@ -123,13 +123,33 @@ function render(source) {
 }
 
 function outlineHtml(headings) {
-  const top = Math.min(...headings.map((h) => h.level));
-  const items = headings
-    .map((h) => `<li class="lvl-${h.level - top}"><a href="#${encodeURIComponent(h.id)}">${esc(h.text)}</a></li>`)
-    .join('');
+  // Nest each heading under the nearest earlier heading of a higher rank, so sections can fold.
+  const root = { level: 0, children: [] };
+  const stack = [root];
+  for (const h of headings) {
+    while (stack.length > 1 && stack.at(-1).level >= h.level) stack.pop();
+    const node = { ...h, children: [] };
+    stack.at(-1).children.push(node);
+    stack.push(node);
+  }
+  let foldable = 0;
+  const list = (nodes, depth, id) =>
+    `<ol${id ? ` id="${id}"` : ''}>${nodes
+      .map((n) => {
+        const link = `<a href="#${encodeURIComponent(n.id)}">${esc(n.text)}</a>`;
+        if (!n.children.length) return `<li class="lvl-${depth}"><div class="outline-row">${link}</div></li>`;
+        const sub = `outline-sub-${++foldable}`;
+        return `<li class="lvl-${depth} has-sub"><div class="outline-row"><button type="button" class="outline-fold" aria-expanded="true" aria-controls="${sub}" aria-label="Subsections of ${esc(n.text)}"><span aria-hidden="true">▸</span></button>${link}</div>${list(n.children, depth + 1, sub)}</li>`;
+      })
+      .join('')}</ol>`;
+  const items = list(root.children, 0, 'outline-list');
+  const tools = foldable
+    ? `<div class="outline-tools"><button type="button" class="outline-fold-all" data-fold="all">Fold all</button><button type="button" class="outline-fold-all" data-fold="none">Unfold all</button></div>`
+    : '';
   return `<nav id="outline" class="outline panel" aria-label="On this page" role="tabpanel">
     <div class="panel-head"><span class="panel-title">On this page</span><button type="button" class="panel-collapse" data-panel="outline" aria-controls="outline-list" aria-expanded="true" title="Hide the outline"><span aria-hidden="true">»</span></button></div>
-    <ol id="outline-list">${items}</ol>
+    ${tools}
+    ${items}
   </nav>`;
 }
 
