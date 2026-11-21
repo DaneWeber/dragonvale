@@ -95,7 +95,6 @@ a:hover { text-decoration-color: currentColor; }
 .frame {
   display: grid;
   grid-template-columns: 17rem minmax(0, 1fr);
-  max-width: 82rem; margin: 0 auto;
 }
 
 .sidebar {
@@ -134,8 +133,13 @@ main { padding: 1.5rem clamp(1rem, 4vw, 3.5rem) 4rem; min-width: 0; }
 
 /* ----------------------------------------------------------- the page */
 
+/* The sheet is as wide as its widest content needs: prose keeps a readable
+   measure, but a wide table widens the sheet, up to the whole window. Zooming
+   out or a wider monitor therefore shows more of a table with less wrapping. */
 .page {
-  max-width: 46rem;
+  width: fit-content;
+  min-width: min(100%, 46rem);
+  max-width: 100%;
   background: var(--vellum);
   padding: 2.5rem clamp(1.25rem, 5vw, 3.5rem) 3rem;
   border: 1px solid var(--rule);
@@ -150,7 +154,7 @@ main { padding: 1.5rem clamp(1rem, 4vw, 3.5rem) 4rem; min-width: 0; }
 
 .page h1, .page h2, .page h3, .page h4, .page h5, .page h6 {
   font-family: var(--display-font); font-weight: normal; line-height: 1.2;
-  color: var(--ink); margin: 1.8em 0 0.5em;
+  color: var(--ink); margin-top: 1.8em; margin-bottom: 0.5em;
 }
 .page h1 {
   font-size: 2.5rem; text-align: center; margin-top: 0; color: var(--rubric);
@@ -173,16 +177,16 @@ main { padding: 1.5rem clamp(1rem, 4vw, 3.5rem) 4rem; min-width: 0; }
   color: var(--rubric);
 }
 
-.page p, .page ul, .page ol, .page table, .page pre, .page blockquote { margin: 0 0 1em; }
+.page p, .page ul, .page ol, .page table, .page pre, .page blockquote { margin-top: 0; margin-bottom: 1em; }
 .page ul, .page ol { padding-left: 1.6em; }
 .page li { margin: 0.2em 0; }
 .page li::marker { color: var(--rubric-soft); }
 .page hr {
-  border: 0; height: 1.5em; margin: 1.5em 0; text-align: center; overflow: visible;
+  border: 0; height: 1.5em; margin-top: 1.5em; margin-bottom: 1.5em; text-align: center; overflow: visible;
 }
 .page hr::after { content: '❦  ❦  ❦'; color: var(--gilt); font-size: 1.1rem; }
 .page blockquote {
-  margin-left: 0; padding: 0.2em 1.2em; border-left: 3px solid var(--rule);
+  padding: 0.2em 1.2em; border-left: 3px solid var(--rule);
   font-style: italic; color: var(--ink-soft);
 }
 .page code { font-family: ui-monospace, 'Cascadia Mono', Menlo, monospace; font-size: 0.85em; background: var(--parchment-deep); padding: 0.05em 0.3em; border-radius: 3px; }
@@ -190,8 +194,11 @@ main { padding: 1.5rem clamp(1rem, 4vw, 3.5rem) 4rem; min-width: 0; }
 .page pre code { background: none; padding: 0; }
 .page img { max-width: 100%; height: auto; }
 
+.page > * { max-width: 39rem; margin-left: auto; margin-right: auto; }
+.page > .table-wrap, .page > pre { max-width: none; }
 .table-wrap { overflow-x: auto; margin: 0 0 1em; }
-.page table { border-collapse: collapse; font-size: 1.02rem; margin: 0; }
+.page table { border-collapse: collapse; font-size: 1.02rem; margin: 0 auto; }
+.page > .footnotes, .page > .footnotes-sep { max-width: 39rem; }
 .page th, .page td { border: 1px solid var(--rule); padding: 0.35em 0.7em; vertical-align: top; text-align: left; }
 .page th { font-family: var(--fell-font); background: var(--parchment-deep); font-weight: normal; }
 .page tr:nth-child(even) td { background: color-mix(in srgb, var(--parchment-deep) 35%, transparent); }
@@ -268,7 +275,7 @@ main { padding: 1.5rem clamp(1rem, 4vw, 3.5rem) 4rem; min-width: 0; }
   color: var(--del-ink); background: var(--del-wash);
   text-decoration: line-through; text-decoration-color: color-mix(in srgb, var(--del-ink) 70%, transparent);
 }
-.page.show-removed .chg-removed-block { display: block; position: relative; margin: 0 0 1em; }
+.page.show-removed .chg-removed-block { display: block; position: relative; margin-top: 0; margin-bottom: 1em; }
 .page.show-removed li.chg-removed-block { display: list-item; margin: 0.2em 0; }
 .page.show-removed tr.chg-removed-block { display: table-row; }
 .page.show-removed .chg-removed-block::before {
