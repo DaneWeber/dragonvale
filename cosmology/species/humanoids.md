@@ -79,11 +79,11 @@ If there is an overabundance of food, such as after an enormous battle and slaug
 
 ## Halflings
 
-Halflings, as a people, find niches and stick to them. They enjoy the good life with small ambitions.
+Halflings enjoy the good life with small ambitions. They are the domesticators and stewards of the world.
 
 They are not a conquering race and they generally pack up and relocate rather than fight a war (although they have admirable courage and ingenuity when threatened). In general, Halfling enclaves try to either blend in or even disappear. A Halfling enclave would be pleased if neighboring communities did not know the Halflings were there, and were somewhat mystified by the Halflings that show up occasionally to trade. On the other hand, Halfling communities are usually quite hospitable to guests (although newcomers who stay cease being guests) and Halflings are considered as a whole to be very friendly and good-natured.
 
-One curious thing about Halflings is that they seem to take to freshwater boating with greater pleasure than any other race. This leads to a good number of them traveling as extended families and calling their fleet of small boats home, rather than any stable location.
+Halflings take to freshwater boating with greater pleasure than any other race. This leads to a good number of them traveling as extended families and calling their fleet of small boats home, rather than any stable location.
 
 ### Halfling Origins
 
